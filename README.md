@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Stephen Lenane
 
-You can use the [editor on GitHub](https://github.com/slenane/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Freelance full-stack software developer based in Galway, Ireland
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:info@stephenlenane.com) / [Website](https://www.stephenlenane.com/) / [LinkedIn](https://www.linkedin.com/in/stephen-lenane-6756a0228/) / [GitHub](https://github.com/slenane)
 
 ### Markdown
 
@@ -23,15 +23,27 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Languages
 
-### Jekyll Themes
+**English**: Native <br>
+**Spanish**: C1 <br>
+**Italian**: A1
+<br><br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slenane/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Education
 
-### Support or Contact
+**NodeJS - The Complete Guide** focused on NodeJS development<br>
+[Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(Jun 2021 - Oct 2021)_ <br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**CS50** Harvard University's introduction to Computer Science<br>
+[edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(March 2021 - Jun 2021)_ <br>
+
+**The Complete Javascript Course** focused on JavaScript<br>
+[Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Remote _(Jun 2020 - Sep 2020)_ <br>
+
+**The Web Developer Bootcamp** focused on HTML, CSS, JS, Node and more<br>
+[Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(Feb 2020 - Jun 2020)_ <br>
+
+**Bachelor of Science** in Biochemistry<br>
+[National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
