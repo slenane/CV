@@ -25,8 +25,8 @@ Syntax highlighted code block
 ## Languages
 
 **English**: Native <br>
-**Spanish**: C1 <br>
-**Italian**: A1
+**Spanish**: C1 (advanced) <br>
+**Italian**: A1 (beginner)
 <br><br>
 
 ## Education
