@@ -1,9 +1,3 @@
-## Stephen Lenane
-
-Freelance full-stack software developer based in Galway, Ireland
-
-[Email](mailto:info@stephenlenane.com) / [Website](https://www.stephenlenane.com/) / [LinkedIn](https://www.linkedin.com/in/stephen-lenane-6756a0228/) / [GitHub](https://github.com/slenane)
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
