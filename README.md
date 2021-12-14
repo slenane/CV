@@ -31,16 +31,16 @@ Syntax highlighted code block
 
 ## Education
 
-**NodeJS - The Complete Guide** focused on NodeJS development<br>
+**NodeJS - The Complete Guide**<br>
 [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(Jun 2021 - Oct 2021)_ <br>
 
-**CS50** Harvard University's introduction to Computer Science<br>
+**CS50** - Harvard University's introduction to Computer Science<br>
 [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(March 2021 - Jun 2021)_ <br>
 
-**The Complete Javascript Course** focused on JavaScript<br>
+**The Complete Javascript Course**<br>
 [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Remote _(Jun 2020 - Sep 2020)_ <br>
 
-**The Web Developer Bootcamp** focused on HTML, CSS, JS, Node and more<br>
+**The Web Developer Bootcamp**<br>
 [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(Feb 2020 - Jun 2020)_ <br>
 
 **Bachelor of Science** in Biochemistry<br>
