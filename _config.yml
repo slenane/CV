@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Stephen Lenane
 description: Freelance full-stack software developer based in Galway, Ireland
+author: Stephen Lenane
+social-network-links:
+  email: "info@stephenlenane.com"
+  github: slenane
+  linkedin: "https://www.linkedin.com/in/stephen-lenane-6756a0228/"
+  
