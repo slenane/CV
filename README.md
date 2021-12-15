@@ -41,7 +41,7 @@ Designing and developing websites for small businesses.
 **Responsive Web Design**<br>
 [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Dec 2019 - Jan 2020)_ <br>
 
-**Textbooks Read**<br>
+**Textbooks Read:**<br>
 - HTML & CSS: Build and Design Websites - Jon Duckett <br>
 - Learning Web Design - Jennifer Niederst Robbins <br>
 - Eloquent JavaScript - Marjin Haverbeke <br>
