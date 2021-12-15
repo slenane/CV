@@ -29,8 +29,25 @@ Designing and developing websites for small businesses.
 **The Complete Javascript Course**<br>
 [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Remote _(Jun 2020 - Sep 2020)_ <br>
 
+**JavaScript Algorithms and Data Structures**<br>
+[freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Jul 2020 - Aug 2020)_ <br>
+
+**JavaScript30**<br>
+[JavaScript30.com](https://javascript30.com/) - Remote _(Jun 2020 - Jul 2020)_ <br>
+
 **The Web Developer Bootcamp**<br>
 [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(Feb 2020 - Jun 2020)_ <br>
+
+**Responsive Web Design**<br>
+[freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Dec 2019 - Jan 2020)_ <br>
+
+**Textbooks Read**<br>
+- HTML & CSS: Build and Design Websites - Jon Duckett <br>
+- Learning Web Design - Jennifer Niederst Robbins <br>
+- Eloquent JavaScript - Marjin Haverbeke <br>
+- JavaScript: The Definitive Guide - David Flanagan <br>
+- Node.js 8 the Right Way Practical, Server-Side JavaScript That Scales - Jim Wilson <br>
+- Node.js Web Development - David Herron <br>
 
 **Bachelor of Science** - Biochemistry<br>
 [National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
