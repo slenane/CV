@@ -1,8 +1,8 @@
 !!!!FIX PHOTO!!!!
 
-**Get in touch:** [Email](mailto:info@stephenlenane.com) / [Website](https://www.stephenlenane.com/) / [LinkedIn](https://www.linkedin.com/in/stephen-lenane-6756a0228/) / [GitHub](https://github.com/slenane)
+:bearded_person: **Get in touch:** [Email](mailto:info@stephenlenane.com) / [Website](https://www.stephenlenane.com/) / [LinkedIn](https://www.linkedin.com/in/stephen-lenane-6756a0228/) / [GitHub](https://github.com/slenane)
 
-## Technical Experience
+## :computer: Technical Experience
 
 **Freelance Web Developer** @ [www.stephenlenane.com](https://www.stephenlenane.com) _(Dec 2020 - Present)_ <br>
 
@@ -13,7 +13,7 @@ Designing and developing websites for small businesses.
   - **_Technologies used:_** HTML, CSS, JavaScript, NodeJS, MongoDb, SQL, .
 <br><br>
 
-## OTHER Experience
+## :briefcase: OTHER Experience
 
 **Customer Service Advisor** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(Apr 2021 - Present)_ <br>
 <br><br>
@@ -21,14 +21,14 @@ Designing and developing websites for small businesses.
 **English Teacher** @ [Cambly](https://www.cambly.com/) _(Mar 2019 - Apr 2021)_ <br>
 <br><br>
 
-## Languages
+## :speech_balloon: Languages
 
 **English**: Native <br>
 **Spanish**: C1 (advanced) <br>
 **Italian**: A2 (beginner)
 <br><br>
 
-## Education
+## :man_student: Education
 
 **NodeJS - The Complete Guide**<br>
 [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(Jun 2021 - Oct 2021)_ <br>
