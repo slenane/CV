@@ -1,26 +1,16 @@
-
 [Email](mailto:info@stephenlenane.com) / [Website](https://www.stephenlenane.com/) / [LinkedIn](https://www.linkedin.com/in/stephen-lenane-6756a0228/) / [GitHub](https://github.com/slenane)
 
+## Technical Experience
 
-### Markdown
+**Freelance Web Developer** @ [www.stephenlenane.com](https://www.stephenlenane.com) _(Dec 2020 - Present)_ <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+Designing and developing websites for small businesses.
+  - 
+  - 
+  - 
+  - **_Technologies used:_** HTML, CSS, JavaScript, NodeJS, MongoDb, SQL, .
+  - 
+<br><br>
 
 ## Languages
 
@@ -43,5 +33,5 @@ Syntax highlighted code block
 **The Web Developer Bootcamp**<br>
 [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(Feb 2020 - Jun 2020)_ <br>
 
-**Bachelor of Science** in Biochemistry<br>
+**Bachelor of Science** - Biochemistry<br>
 [National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
