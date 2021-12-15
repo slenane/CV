@@ -5,18 +5,17 @@
 **Freelance Web Developer** @ [www.stephenlenane.com](https://www.stephenlenane.com) _(Dec 2020 - Present)_ <br>
 
 Designing and developing websites for small businesses.
-  - 
+  - Custom solutions 
   - 
   - 
   - **_Technologies used:_** HTML, CSS, JavaScript, NodeJS, MongoDb, SQL, .
-  - 
 <br><br>
 
 ## Languages
 
 **English**: Native <br>
 **Spanish**: C1 (advanced) <br>
-**Italian**: A1 (beginner)
+**Italian**: A2 (beginner)
 <br><br>
 
 ## Education
