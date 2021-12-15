@@ -1,3 +1,5 @@
+!!!!FIX PHOTO!!!!
+
 **Get in touch:** [Email](mailto:info@stephenlenane.com) / [Website](https://www.stephenlenane.com/) / [LinkedIn](https://www.linkedin.com/in/stephen-lenane-6756a0228/) / [GitHub](https://github.com/slenane)
 
 ## Technical Experience
@@ -9,6 +11,14 @@ Designing and developing websites for small businesses.
   - 
   - 
   - **_Technologies used:_** HTML, CSS, JavaScript, NodeJS, MongoDb, SQL, .
+<br><br>
+
+## OTHER Experience
+
+**Customer Service Advisor** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(Apr 2021 - Present)_ <br>
+<br><br>
+
+**English Teacher** @ [Cambly](https://www.cambly.com/) _(Mar 2019 - Apr 2021)_ <br>
 <br><br>
 
 ## Languages
@@ -49,5 +59,5 @@ Designing and developing websites for small businesses.
 - Node.js 8 the Right Way Practical, Server-Side JavaScript That Scales - Jim Wilson <br>
 - Node.js Web Development - David Herron <br>
 
-**Bachelor of Science** - Biochemistry<br>
+**Bachelor of Science** - Biochemistry - 2.1 Honours<br>
 [National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
