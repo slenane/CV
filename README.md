@@ -1,5 +1,3 @@
-!!!!FIX PHOTO!!!!
-
 🧔 **Get in touch:** [Email](mailto:info@stephenlenane.com) / [Website](https://www.stephenlenane.com/) / [LinkedIn](https://www.linkedin.com/in/stephen-lenane-6756a0228/) / [GitHub](https://github.com/slenane)
 
 ## 💻 Technical Experience
@@ -7,18 +5,28 @@
 **Freelance Web Developer** @ [www.stephenlenane.com](https://www.stephenlenane.com) _(Dec 2020 - Present)_ <br>
 
 Designing and developing websites for small businesses.
-  - Custom solutions 
-  - 
-  - 
-  - **_Technologies used:_** HTML, CSS, JavaScript, NodeJS, MongoDb, SQL, .
+  - Custom solutions provided as an affordable alternative to expensive drag-and-drop website providers
+  - Responsive designs to ensure excellent user experience
+  - Focus on performance, accessibility and best practices to return highest SEO scores 
+  - Implementaion of e-commerce platforms payment gateways and custom product templates
+  - **_Technologies used:_** HTML, CSS, JavaScript, NodeJS, MongoDb, SQL, AdobeXd, and Gimp.
 <br><br>
 
-## 💼 OTHER Experience
+## 💼 Work Experience
 
 **Customer Service Advisor** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(Apr 2021 - Present)_ <br>
+
+Tasked with receiveing inbound calls in a virtual call center.
+- Dealing with high call volumes.
+- Performing adminstrative tasks.
+- Entering data collated from clients in a timely manner.
 <br><br>
 
 **English Teacher** @ [Cambly](https://www.cambly.com/) _(Mar 2019 - Apr 2021)_ <br>
+
+Taught over 5,000 classes through this online education platform
+- Necessitated strong communications skills to explain grammar points to learners of English
+- Created fun and engaging classes
 <br><br>
 
 ## 💬 Languages
@@ -51,7 +59,7 @@ Designing and developing websites for small businesses.
 **Responsive Web Design**<br>
 [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Dec 2019 - Jan 2020)_ <br>
 
-**Textbooks Read:** <br>
+**Textbooks Read:**
 - HTML & CSS: Build and Design Websites - Jon Duckett <br>
 - Learning Web Design - Jennifer Niederst Robbins <br>
 - Eloquent JavaScript - Marjin Haverbeke <br>
