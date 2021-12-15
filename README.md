@@ -1,4 +1,4 @@
-[Email](mailto:info@stephenlenane.com) / [Website](https://www.stephenlenane.com/) / [LinkedIn](https://www.linkedin.com/in/stephen-lenane-6756a0228/) / [GitHub](https://github.com/slenane)
+**Get in touch:** [Email](mailto:info@stephenlenane.com) / [Website](https://www.stephenlenane.com/) / [LinkedIn](https://www.linkedin.com/in/stephen-lenane-6756a0228/) / [GitHub](https://github.com/slenane)
 
 ## Technical Experience
 
@@ -33,7 +33,7 @@ Designing and developing websites for small businesses.
 [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Jul 2020 - Aug 2020)_ <br>
 
 **JavaScript30**<br>
-[JavaScript30.com](https://javascript30.com/) - Remote _(Jun 2020 - Jul 2020)_ <br>
+[JavaScript30](https://javascript30.com/) - Remote _(Jun 2020 - Jul 2020)_ <br>
 
 **The Web Developer Bootcamp**<br>
 [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(Feb 2020 - Jun 2020)_ <br>
@@ -41,7 +41,7 @@ Designing and developing websites for small businesses.
 **Responsive Web Design**<br>
 [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Dec 2019 - Jan 2020)_ <br>
 
-**Textbooks Read:**<br>
+**Textbooks Read:** <br>
 - HTML & CSS: Build and Design Websites - Jon Duckett <br>
 - Learning Web Design - Jennifer Niederst Robbins <br>
 - Eloquent JavaScript - Marjin Haverbeke <br>
