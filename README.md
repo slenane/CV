@@ -1,5 +1,3 @@
-🧔 **Get in touch:** [Email](mailto:info@stephenlenane.com) / [Website](https://www.stephenlenane.com/) / [LinkedIn](https://www.linkedin.com/in/stephen-lenane-6756a0228/) / [GitHub](https://github.com/slenane)
-
 ## 💻 Technical Experience
 
 **Freelance Web Developer** @ [stephenlenane.com](https://www.stephenlenane.com) _(Dec 2020 - Present)_ <br>
