@@ -2,7 +2,7 @@
 
 ## 💻 Technical Experience
 
-**Freelance Web Developer** @ [www.stephenlenane.com](https://www.stephenlenane.com) _(Dec 2020 - Present)_ <br>
+**Freelance Web Developer** @ [stephenlenane.com](https://www.stephenlenane.com) _(Dec 2020 - Present)_ <br>
 
 Designing and developing websites for small businesses.
   - Custom solutions provided as an affordable alternative to expensive drag-and-drop website providers
