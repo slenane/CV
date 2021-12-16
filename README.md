@@ -59,6 +59,9 @@ Taught over 5,000 classes through this online education platform
 **Responsive Web Design**<br>
 [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Dec 2019 - Jan 2020)_ <br>
 
+**Bachelor of Science** - Biochemistry - 2.1 Honours<br>
+[National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
+
 **Textbooks Read:**
 - HTML & CSS: Build and Design Websites - Jon Duckett <br>
 - Learning Web Design - Jennifer Niederst Robbins <br>
@@ -66,6 +69,3 @@ Taught over 5,000 classes through this online education platform
 - JavaScript: The Definitive Guide - David Flanagan <br>
 - Node.js 8 the Right Way Practical, Server-Side JavaScript That Scales - Jim Wilson <br>
 - Node.js Web Development - David Herron <br>
-
-**Bachelor of Science** - Biochemistry - 2.1 Honours<br>
-[National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
