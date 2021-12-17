@@ -36,16 +36,16 @@ Taught over 5,000 classes through this online education platform
 
 ## 👨‍🎓 Education
 
-**NodeJS - The Complete Guide**<br>
+**NodeJS - The Complete Guide** - [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(Jun 2021 - Oct 2021)_ <br>
 _Course focus:_ <br>
 - Building fast and scalable server-side web applications with NodeJS. <br>
 - REST APIs and GraphQL APIs. <br>
-- Using databases like MongoDB and SQL. <br>
-[Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(Jun 2021 - Oct 2021)_ <br>
+- Using databases like MongoDB and SQL. <br><br>
 
-**CS50** - Harvard University's introduction to Computer Science<br>
+
+**CS50** - Harvard University's introduction to Computer Science -[edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(March 2021 - Jun 2021)_ <br>
 _Course focus:_ <br>
-[edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(March 2021 - Jun 2021)_ <br>
+
 
 **The Complete Javascript Course**<br>
 _Course focus:_ <br>
