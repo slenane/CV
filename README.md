@@ -7,7 +7,7 @@ Designing and developing websites for small businesses.
   - Responsive designs to ensure excellent user experience
   - Focus on performance, accessibility and best practices to return highest SEO scores 
   - Implementaion of e-commerce platforms payment gateways and custom product templates
-  - **_Technologies used:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, and Gimp.
+  - **_Technologies used:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, and GIMP.
 <br><br>
 
 ## 💼 Work Experience
