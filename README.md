@@ -42,26 +42,41 @@ _Course focus:_ <br>
 - REST APIs and GraphQL APIs. <br>
 - Using databases like MongoDB and SQL. <br><br>
 
-
-**CS50** - Harvard University's introduction to Computer Science -[edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(March 2021 - Jun 2021)_ <br>
+**CS50 - Harvard University's introduction to Computer Science** - [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(March 2021 - Jun 2021)_ <br>
 _Course focus:_ <br>
+- How to think algorithmically and solve problems efficiently. <br>
+- Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. <br>
+- C, Python and JavaScript languages <br><br>
 
-
-**The Complete Javascript Course**<br>
+**The Complete Javascript Course** - [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Remote _(Jun 2020 - Sep 2020)_ <br>
 _Course focus:_ <br>
-[Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Remote _(Jun 2020 - Sep 2020)_ <br>
+- Fundamentals of modern JavaScript. <br>
+- Object-oriented programming. <br>
+- Asynchronous JavaScript. <br><br>
 
-**JavaScript Algorithms and Data Structures**<br>
-[freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Jul 2020 - Aug 2020)_ <br>
+**JavaScript Algorithms and Data Structures** - [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/  ) - Remote _(Jul 2020 - Aug 2020)_ <br>
+_Course focus:_ <br>
+- Fndamentals of JavaScript including variables, arrays, objects, loops, and functions. <br>
+- Creating algorithms to manipulate strings, factorialize numbers, and even calculate the orbit of the International Space Station. <br>
+- Object Oriented Programming and Functional Programming. <br><br>
 
-**JavaScript30**<br>
-[JavaScript30](https://javascript30.com/) - Remote _(Jun 2020 - Jul 2020)_ <br>
+**JavaScript30 - 30 Day Vanilla JS Coding Challenge** - [JavaScript30](https://javascript30.com/) - Remote _(Jun 2020 - Jul 2020)_ <br>
+_Course focus:_ <br>
+- Build 30 JavaScript projects in 30 days. <br>
+- DOM manipulation. <br>
+- Event Capture, Propagation, Bubbling and Once. <br><br>
 
-**The Web Developer Bootcamp**<br>
-[Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(Feb 2020 - Jun 2020)_ <br>
+**The Web Developer Bootcamp** - [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(Feb 2020 - Jun 2020)_ <br>
+_Course focus:_ <br>
+- Create full-stack web applications. <br>
+- HTML5, CSS3, JavaScript, Node, Express and MongoDB. <br>
+- AJAX and APIs. <br>
+- HTTPS and Security. <br><br>
 
-**Responsive Web Design**<br>
-[freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Dec 2019 - Jan 2020)_ <br>
+**Responsive Web Design** - [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Dec 2019 - Jan 2020)_ <br>
+_Course focus:_ <br>
+- Build webpages with HTML and CSS. <br>
+- Flexbox and CSS Grid. <br><br>
 
 **Bachelor of Science** - Biochemistry - 2.1 Honours<br>
 [National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
