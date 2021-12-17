@@ -56,7 +56,7 @@ _Course focus:_ <br>
 
 **JavaScript Algorithms and Data Structures** - [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/  ) - Remote _(Jul 2020 - Aug 2020)_ <br>
 _Course focus:_ <br>
-- Fndamentals of JavaScript including variables, arrays, objects, loops, and functions. <br>
+- Fundamentals of JavaScript including variables, arrays, objects, loops, and functions. <br>
 - Creating algorithms to manipulate strings, factorialize numbers, and even calculate the orbit of the International Space Station. <br>
 - Object Oriented Programming and Functional Programming. <br><br>
 
