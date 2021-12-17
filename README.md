@@ -6,7 +6,7 @@ Designing and developing websites for small businesses.
   - Custom solutions provided as an affordable alternative to expensive drag-and-drop website providers
   - Responsive designs to ensure excellent user experience
   - Focus on performance, accessibility and best practices to return highest SEO scores 
-  - Implementaion of e-commerce platforms payment gateways and custom product templates
+  - Implementation of e-commerce platforms payment gateways and custom product templates
   - **_Technologies used:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, and GIMP.
 <br><br>
 
@@ -14,9 +14,9 @@ Designing and developing websites for small businesses.
 
 **Customer Service Advisor** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(Apr 2021 - Present)_ <br>
 
-Tasked with receiveing inbound calls in a virtual call center.
+Tasked with receiving inbound calls in a virtual call center.
 - Dealing with high call volumes.
-- Performing adminstrative tasks.
+- Performing administrative tasks.
 - Entering data collated from clients in a timely manner.
 <br><br>
 
