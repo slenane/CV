@@ -42,10 +42,10 @@ _Course focus:_ <br>
 - REST APIs and GraphQL APIs. <br>
 - Using databases like MongoDB and SQL. <br><br>
 
-**CS50 - Harvard University's introduction to Computer Science** - [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(March 2021 - Jun 2021)_ <br>
+**CS50 - Harvard University's Introduction to Computer Science** - [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(March 2021 - Jun 2021)_ <br>
 _Course focus:_ <br>
 - How to think algorithmically and solve problems efficiently. <br>
-- Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. <br>
+- Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. <br>
 - C, Python and JavaScript languages <br><br>
 
 **The Complete Javascript Course** - [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Remote _(Jun 2020 - Sep 2020)_ <br>
@@ -58,7 +58,7 @@ _Course focus:_ <br>
 _Course focus:_ <br>
 - Fundamentals of JavaScript including variables, arrays, objects, loops, and functions. <br>
 - Creating algorithms to manipulate strings, factorialize numbers, and even calculate the orbit of the International Space Station. <br>
-- Object Oriented Programming and Functional Programming. <br><br>
+- Object Oriented and Functional Programming. <br><br>
 
 **JavaScript30 - 30 Day Vanilla JS Coding Challenge** - [JavaScript30](https://javascript30.com/) - Remote _(Jun 2020 - Jul 2020)_ <br>
 _Course focus:_ <br>
