@@ -42,7 +42,7 @@ _Course focus:_ <br>
 - REST APIs and GraphQL APIs. <br>
 - Using databases like MongoDB and SQL. <br><br>
 
-**CS50 - Harvard University's Introduction to Computer Science** - [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(March 2021 - Jun 2021)_ <br>
+**CS50 - Harvard University's Introduction to Computer Science** - [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(Mar 2021 - Jun 2021)_ <br>
 _Course focus:_ <br>
 - How to think algorithmically and solve problems efficiently. <br>
 - Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. <br>
