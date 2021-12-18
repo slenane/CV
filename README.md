@@ -38,7 +38,9 @@ Taught over 5,000 classes through this online education platform
 
 **React - The Complete Guide** - [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - Remote _(Dec 2021 - Present)_ <br>
 _Course focus:_ <br>
-- Reactjs, Hooks, Redux, React Routing, Animations, Next.js  <br><br>
+- Hooks, Redux, and React Routing <br>
+- Animations <br>
+- Next.js  <br><br>
 
 **NodeJS - The Complete Guide** - [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(Jun 2021 - Oct 2021)_ <br>
 _Course focus:_ <br>
