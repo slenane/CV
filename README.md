@@ -76,7 +76,7 @@ _Course focus:_ <br>
 - Build webpages with HTML and CSS. <br>
 - Flexbox and CSS Grid. <br><br>
 
-**Bachelor of Science** - Biochemistry - 2.1 Honours<br>
+**Bachelor of Science** - Biochemistry - 2.1 Honours (3.5 GPA)<br>
 [National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
 
 **Textbooks Read:**
