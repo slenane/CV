@@ -1,30 +1,18 @@
 ## 💻 Technical Experience
 
 **Freelance Web Developer** @ [stephenlenane.com](https://www.stephenlenane.com) _(Dec 2020 - Present)_ <br>
-
-Designing and developing websites for small businesses.
-  - Custom solutions provided as an affordable alternative to expensive drag-and-drop website providers
-  - Responsive designs to ensure excellent user experience
-  - Focus on performance, accessibility and best practices to return highest SEO scores 
-  - Implementation of e-commerce platforms payment gateways and custom product templates
-  - **_Technologies used:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, and GIMP.
+I design and develop custom  websites for small businesses as an affordable alternative to expensive drag-and-drop website providers. Through responsive designs I ensure excellent user experience, with a focus on performance, accessibility and best practices to return high SEO scores. I create online stores with the implementation of e-commerce platform payment gateways and custom product templates. <br>
+**_Technologies used:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, and GIMP.
 <br><br>
 
 ## 💼 Work Experience
 
 **Customer Service Advisor** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(Apr 2021 - Present)_ <br>
-
-Tasked with receiving inbound calls in a virtual call center.
-- Dealing with high call volumes.
-- Performing administrative tasks.
-- Entering data collated from clients in a timely manner.
+Tasked with receiving inbound calls from customers and providing accurate information on the COVID-19 vaccination process through a virtual call center, completing administrative tasks and entering data collated from customers in a timely manner.
 <br><br>
 
 **English Teacher** @ [Cambly](https://www.cambly.com/) _(Mar 2019 - Apr 2021)_ <br>
-
-Taught over 5,000 classes through this online education platform
-- Necessitated strong communications skills to explain grammar points to learners of English
-- Created fun and engaging classes
+Taught over 5,000 classes through the Cambly platform. This position required strong interpersonal and communication skills to effectively teach grammar points while making classes enjoyable and engaging for students.
 <br><br>
 
 ## 💬 Languages
