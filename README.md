@@ -7,9 +7,9 @@ I design and develop custom  websites for small businesses as an affordable alte
 **_Technologies used:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, and GIMP.
 <br><br>
 
-## 💼 Work Experience
+## 💼 Previous Work Experience
 
-**Customer Service Advisor** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(Apr 2021 - Present)_ <br>
+**Customer Service Advisor** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(Apr 2021 - Jan 2022)_ <br>
 
 Tasked with receiving inbound calls from customers and providing accurate information on the COVID-19 vaccination process through a virtual call center, completing administrative tasks and entering data collated from customers in a timely manner.
 <br><br>
@@ -23,16 +23,30 @@ Taught over 5,000 classes through the Cambly platform. This position required st
 
 **English**: Native <br>
 **Spanish**: C1 (advanced) <br>
-**Italian**: A2 (beginner)
+**Portuguese**: A2 (beginner)
 <br><br>
 
 ## 👨‍🎓 Education
+
+**PHP - Become a PHP Master - CMS Project** - [Udemy](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/) - Remote _(Mar 2021 - Present)_ <br>
+_Course focus:_ <br>
+- Create a CMS <br>
+- Security in PHP <br>
+- Object Oriented Programming  <br><br>
 
 **React - The Complete Guide** - [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - Remote _(Dec 2021 - Present)_ <br>
 _Course focus:_ <br>
 - Hooks, Redux, and React Routing <br>
 - Animations <br>
 - Next.js  <br><br>
+
+**Diploma in European Digital Marketing and Entrepreneurship** - [Capacity Ireland](http://www.capacityireland.ie/digital-marketing) - Remote _(Jan 2022 - Mar 2022)_ <br>
+_Course focus:_ <br>
+- Digital Marketing Technologies and Practice  <br>
+- Creative Methods for Social Media Marketing <br>
+- Social Media Marketing Management <br>
+- European and International Digital Media <br>
+- Digital Entrepreneurship  <br><br>
 
 **NodeJS - The Complete Guide** - [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(Jun 2021 - Oct 2021)_ <br>
 _Course focus:_ <br>
