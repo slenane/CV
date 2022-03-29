@@ -7,7 +7,7 @@ I design and develop custom  websites for small businesses as an affordable alte
 **_Technologies used:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, and GIMP.
 <br><br>
 
-## 💼 Previous Work Experience
+## 💼 Work Experience
 
 **Customer Service Advisor** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(Apr 2021 - Jan 2022)_ <br>
 
