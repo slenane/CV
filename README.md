@@ -1,8 +1,15 @@
 ## 💻 Technical Experience
 
+**Web Developer** @ [GoContact, Lisboa](https://www.gocontact.com/) _(Jan 2022 - Present)_ <br>
+
+During this internship I have been responsible for the support, maintenance, and actualization of the different GoContact websites in addition to SEO optimization. I was tasked with developing [CXBlog](https://www.cxblog.com/) with Elementor, PHP and custom CSS/JavaScript. The site was created to be fully dynamic and require no coding experience to update and manage the site. I was also tasked with creating a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system and create tickets through calls to API endpoints.
+
+**_Technologies used:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, and Postman.
+<br><br>
+
 **Freelance Web Developer** @ [stephenlenane.com](https://www.stephenlenane.com) _(Dec 2020 - Present)_ <br>
 
-I design and develop custom  websites for small businesses as an affordable alternative to expensive drag-and-drop website providers. Through responsive designs I ensure excellent user experience, with a focus on performance, accessibility and best practices to return high SEO scores. I create online stores with the implementation of e-commerce platform payment gateways and custom product templates. <br>
+I design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers. Through responsive designs I ensure excellent user experience, with a focus on performance, accessibility and best practices to return high SEO scores. I create online stores with the implementation of e-commerce platform payment gateways and custom product templates. <br>
 
 **_Technologies used:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, and GIMP.
 <br><br>
@@ -30,7 +37,7 @@ Taught over 5,000 classes through the Cambly platform. This position required st
 
 **PHP - Become a PHP Master - CMS Project** - [Udemy](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/) - Remote _(Mar 2021 - Present)_ <br>
 _Course focus:_ <br>
-- Create a CMS <br>
+- Create a Content Management System <br>
 - Security in PHP <br>
 - Object Oriented Programming  <br><br>
 
@@ -94,9 +101,10 @@ _Course focus:_ <br>
 [National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
 
 **Textbooks Read:**
-- HTML & CSS: Build and Design Websites - Jon Duckett <br>
-- Learning Web Design - Jennifer Niederst Robbins <br>
-- Eloquent JavaScript - Marjin Haverbeke <br>
-- JavaScript: The Definitive Guide - David Flanagan <br>
-- Node.js 8 the Right Way Practical, Server-Side JavaScript That Scales - Jim Wilson <br>
+- Programming PHP - Peter MacIntyre <br>
 - Node.js Web Development - David Herron <br>
+- Node.js 8 the Right Way Practical, Server-Side JavaScript That Scales - Jim Wilson <br>
+- JavaScript: The Definitive Guide - David Flanagan <br>
+- Eloquent JavaScript - Marjin Haverbeke <br>
+- Learning Web Design - Jennifer Niederst Robbins <br>
+- HTML & CSS: Build and Design Websites - Jon Duckett <br>
