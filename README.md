@@ -28,9 +28,9 @@ Taught over 5,000 classes through the Cambly platform. This position required st
 
 ## 💬 Languages
 
-<img src="./assets/img/ireland.png"> **English**: Native <br>
-<img src="./assets/img/spain.png"> **Spanish**: C1 (advanced) <br>
-<img src="./assets/img/portugal.png"> **Portuguese**: A2 (beginner)
+<img class="language-flag" src="./assets/img/ireland.png"> **English**: Native <br>
+<img class="language-flag" src="./assets/img/spain.png"> **Spanish**: C1 (advanced) <br>
+<img class="language-flag" src="./assets/img/portugal.png"> **Portuguese**: A2 (beginner)
 <br><br>
 
 ## 👨‍🎓 Education
