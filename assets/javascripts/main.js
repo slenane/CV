@@ -9,7 +9,7 @@ const updateLanguage = (lang) => {
     header1.textContent = "Technical Experience";
   } else if (lang === "esp") {
     header1.textContent = "Experiencia Técnica";
-  } else {
+  } else if (lang === "por") {
     header1.textContent = "Experiência Técnica";
   }
 };
