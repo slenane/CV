@@ -5,6 +5,8 @@ const portuguese = document.querySelector(".lang-por");
 let header1 = document.querySelector(".header_1");
 
 const updateLanguage = (lang) => {
+  console.log(lang);
+  
   if (lang === "eng") {
     header1.textContent = "Technical Experience";
   } else if (lang === "esp") {
@@ -14,6 +16,12 @@ const updateLanguage = (lang) => {
   }
 };
 
-english.addEventListener("click", updateLanguage("eng"));
-spanish.addEventListener("click", updateLanguage("esp"));
-portuguese.addEventListener("click", updateLanguage("por"));
+english.addEventListener("click", () => {
+  updateLanguage("eng")
+});
+spanish.addEventListener("click", () => {
+  updateLanguage("esp")
+});
+portuguese.addEventListener("click", () => {
+  updateLanguage("por")
+});
