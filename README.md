@@ -1,4 +1,4 @@
-## 💻 Technical Experience
+<h2 class="header_1">💻 Technical Experience</h2>
 
 **Web Developer** @ [GoContact, Lisboa](https://www.gocontact.com/) _(Jan 2022 - Present)_ <br>
 
