@@ -22,6 +22,16 @@
         margin:0 25% 1rem;
       }
       
+      .language-grid {
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        gap: 5px;
+      }
+      
+      .language-grid a img {
+        width: 20px;
+      }
+      
       @media (max-width: 700px) {
         h1 {
          text-align: center; 
@@ -51,7 +61,9 @@
         </p>
         
         <p><b>Switch language</b> <br>
-          <a href="https://slenane.github.io/CV/"><img src="/assets/img/ireland.png"></a> <a href="https://slenane.github.io/CV/"><img src="/assets/img/spain.png"></a> <a href="https://slenane.github.io/CV/"><img src="/assets/img/portugal.png"></a>
+          <div class="language-grid">
+            <a href="https://slenane.github.io/CV/"><img src="./assets/img/ireland.png"></a> <a href="https://slenane.github.io/CV/"><img src="./assets/img/spain.png"></a> <a href="https://slenane.github.io/CV/"><img src="./assets/img/portugal.png"></a>
+          </div>
         </p>
 
         {% if site.github.is_user_page %}
