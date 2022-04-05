@@ -7,7 +7,7 @@ let headers = document.querySelectorAll(".header");
 const updateLanguage = (lang) => {
   console.log(lang);
   
-  fetch("./translation.json")
+  fetch("/translation.json")
     .then(response => {
        return response.json();
     })
