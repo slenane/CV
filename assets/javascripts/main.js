@@ -1,3 +1,4 @@
+// CV translations
 const language = {
   english: {
     bio: 'Freelance full-stack software developer based in Lisbon, Portugal',
@@ -181,24 +182,43 @@ const language = {
   },
 };
 
-
+// Language switcher buttons
 const englishBtn = document.querySelector(".lang-eng");
 const spanishBtn = document.querySelector(".lang-esp");
 const portugueseBtn = document.querySelector(".lang-por");
 
+// Content to be updated on language change
+let bio = document.querySelector(".bio");
+let linkHeader = document.querySelector(".link-header");
+let website = document.querySelector(".website");             
+let viewOnGithub = document.querySelector(".view-on-github");
+let host = document.querySelector(".host");
+let and = document.querySelector(".and");                        
 let headers = document.querySelectorAll(".header");
+let positions = document.querySelectorAll(".position");
+let employmentDates = document.querySelectorAll(".employment-dates");
+let employmentDescriptions = document.querySelectorAll(".employment-description");
+let technologyUsed = document.querySelectorAll(".technology-used");
 
+// Update the currently displayed language
 const updateLanguage = (lang) => {
+  // Get the current language   
   let current;
- 
   if (lang === "english") current = language.english;
   else if (lang === "spanish") current = language.spanish;
   else if (lang === "portuguese") current = language.portuguese;
-  
   console.log(current);
+  // Update the content
+  bio.textContent = current.bio;
+  linkHeader.textContent = current["link-header"];
+  website.textContent = current.website;
+  viewOnGithub.textContent = current["view-on-github"];
+  host.textContent = current.host;
+  and.textContent = current.and;
 
 };
 
+// Event listeners
 englishBtn.addEventListener("click", () => {
   updateLanguage("english")
 });
