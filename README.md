@@ -2,7 +2,7 @@
 
 **<span class="position">Web Developer</span>** @ [GoContact, Lisboa](https://www.gocontact.com/) _(<span class="employment-dates">Jan 2022 - Present</span>)_ <br>
 
-<span class="employment-description">During this internship I have been responsible for the support, maintenance, and actualization of the different GoContact websites in addition to SEO optimization. I was tasked with developing [CXBlog](https://www.cxblog.com/) with Elementor, PHP and custom CSS/JavaScript. The site was created to be fully dynamic and require no coding experience to update and manage the site. I was also tasked with creating a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system and create tickets through calls to API endpoints.</span> <br>
+<span class="employment-description">During this internship I have been responsible for the support, maintenance, and actualization of the different GoContact websites in addition to SEO optimization. I was tasked with developing CXBlog with Elementor, PHP and custom CSS/JavaScript. The site was created to be fully dynamic and require no coding experience to update and manage the site. I was also tasked with creating a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system and create tickets through calls to API endpoints.</span> <br>
 
 **_<span class="technology-used">Technology used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman.
 <br><br>
