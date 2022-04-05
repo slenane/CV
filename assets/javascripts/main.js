@@ -18,7 +18,7 @@ const language = {
         position: 'Web Developer',
         'employment-dates': 'Jan 2022 - Present',
         'employment-description':
-          'During this internship I have been responsible for the support, maintenance, and actualization of the different GoContact websites in addition to SEO optimization. I was tasked with developing [CXBlog](https://www.cxblog.com/) with Elementor, PHP and custom CSS/JavaScript. The site was created to be fully dynamic and require no coding experience to update and manage the site. I was also tasked with creating a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system and create tickets through calls to API endpoints.',
+          'During this internship I have been responsible for the support, maintenance, and actualization of the different GoContact websites in addition to SEO optimization. I was tasked with developing CXBlog with Elementor, PHP and custom CSS/JavaScript. The site was created to be fully dynamic and require no coding experience to update and manage the site. I was also tasked with creating a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system and create tickets through calls to API endpoints.',
       },
       {
         position: 'Freelance Web Developer',
@@ -42,18 +42,91 @@ const language = {
     'technology-used': 'Technology used',
     and: 'and',
     languages: [
-      'English: Native',
-      'Spanish: C1 (advanced)',
-      'Portuguese: A2 (beginner)',
+      ['English', 'Native'],
+      ['Spanish', 'C1 (advanced)'],
+      ['Portuguese', 'A2 (beginner)'],
     ],
     education: [
       {
-        location: 'Remote',
         dates: 'Mar 2021 - Present',
+        'course-focus': [
+          'Create a Content Management System',
+          'Security in PHP',
+          'Object-Oriented Programming',
+        ],
+      },
+      {
+        dates: 'Dec 2021 - Present',
         'course-focus': [
           'Hooks, Redux, and React Routing',
           'Animations',
           'Next.js',
+        ],
+      },
+      {
+        dates: 'Jan 2022 - Mar 2022',
+        'course-focus': [
+          'Digital Marketing Technologies and Practice',
+          'Creative Methods for Social Media Marketing',
+          'Social Media Marketing Management',
+          'European and International Digital Media',
+          'Digital Entrepreneurship',
+        ],
+      },
+      {
+        dates: 'Jun 2021 - Oct 2021',
+        'course-focus': [
+          'Building fast and scalable server-side web applications with NodeJS',
+          'REST APIs and GraphQL APIs',
+          'Using databases like MongoDB and SQL',
+        ],
+      },
+      {
+        dates: 'Feb 2021 - Jun 2021',
+        'course-focus': [
+          'C, Python and JavaScript languages',
+          'Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development',
+          'How to think algorithmically and solve problems efficiently',
+        ],
+      },
+      {
+        dates: 'Jun 2020 - Sep 2020',
+        'course-focus': [
+          'Fundamentals of modern JavaScript',
+          'Object-Oriented programming',
+          'Asynchronous JavaScript',
+        ],
+      },
+      {
+        dates: 'Jul 2020 - Aug 2020',
+        'course-focus': [
+          'Fundamentals of JavaScript including variables, arrays, objects, loops, and functions',
+          'Creating algorithms to manipulate strings, factorialize numbers, and calculate the orbit of the International Space Station',
+          'Object-Oriented and Functional Programming',
+        ],
+      },
+      {
+        dates: 'Jun 2020 - Jul 2020',
+        'course-focus': [
+          'Build 30 JavaScript projects in 30 days',
+          'DOM manipulation',
+          'Event Capture, Propagation, Bubbling and Once',
+        ],
+      },
+      {
+        dates: 'Feb 2020 - Jun 2020',
+        'course-focus': [
+          'Create full-stack web applications',
+          'HTML5, CSS3, JavaScript, NodeJS, Express and MongoDB',
+          'AJAX and APIs',
+          'HTTPS and Security',
+        ],
+      },
+      {
+        dates: 'Dec 2019 - Jan 2020',
+        'course-focus': [
+          'Build webpages with HTML and CSS',
+          'Flexbox and CSS Grid',
         ],
       },
     ],
@@ -68,7 +141,7 @@ const language = {
     'view-on-github': 'Ver el proyecto en GitHub',
     host: 'Alojado en GitHub Pages — Tema por',
     headers: [
-      'Techical Experience',
+      'Experiencia Técnica',
       'Experiencia de Trabajo',
       'Idiomas',
       'Educación',
@@ -78,7 +151,7 @@ const language = {
         position: 'Desarrollador Web',
         'employment-dates': 'Ene 2022 - Presente',
         'employment-description':
-          'Durante estas prácticas he sido responsable del soporte, mantenimiento y actualización de los diferentes sitios web de GoContact además de la optimización SEO. Se me encargó el desarrollo de [CXBlog](https://www.cxblog.com/) con Elementor, PHP y CSS/JavaScript personalizado. El sitio fue creado para ser totalmente dinámico y no requerir experiencia en codificación para actualizar y gestionar el sitio. También se me encargó la creación de una página Roadshow para demostrar las capacidades del sistema GoContact Contact Center-as-a-service y crear tickets a través de llamadas a puntos finales de la API.',
+          'Durante estas prácticas he sido responsable del soporte, mantenimiento y actualización de los diferentes sitios web de GoContact además de la optimización SEO. Se me encargó el desarrollo de CXBlog con Elementor, PHP y CSS/JavaScript personalizado. El sitio fue creado para ser totalmente dinámico y no requerir experiencia en codificación para actualizar y gestionar el sitio. También se me encargó la creación de una página Roadshow para demostrar las capacidades del sistema GoContact Contact Center-as-a-service y crear tickets a través de llamadas a puntos finales de la API.',
       },
       {
         position: 'Desarrollador Web Freelance',
@@ -102,23 +175,96 @@ const language = {
     'technology-used': 'Tecnología utilizada',
     and: 'y',
     languages: [
-      'English: Native',
-      'Spanish: C1 (advanced)',
-      'Portuguese: A2 (beginner)',
+      ['Inglés', 'Nativo'],
+      ['Español', 'C1 (avanzado)'],
+      ['Portugués', 'A2 (principiante)'],
     ],
     education: [
       {
-        location: 'Remote',
-        dates: 'Mar 2021 - Present',
+        dates: 'Mar 2021 - Presente',
         'course-focus': [
-          'Hooks, Redux, and React Routing',
-          'Animations',
+          'Crear un Sistema de Gestión de Contenidos (Content Management System, CMS)',
+          'Seguridad en PHP',
+          'Programación Orientada a Objetos',
+        ],
+      },
+      {
+        dates: 'Dic 2021 - Presente',
+        'course-focus': [
+          'Hooks, Redux, y React Routing',
+          'Animaciones',
           'Next.js',
         ],
       },
+      {
+        dates: 'Ene 2022 - Mar 2022',
+        'course-focus': [
+          'Tecnologías y práctica del Marketing Digital',
+          'Métodos Creativos para el Marketing en Redes Sociales',
+          'Gestión de Marketing en Redes Sociales',
+          'Medios Digitales Europeos e Internacionales',
+          'Emprendimiento Digital',
+        ],
+      },
+      {
+        dates: 'Jun 2021 - Oct 2021',
+        'course-focus': [
+          'Creación de aplicaciones web del lado del servidor rápidas y escalables con NodeJS',
+          'APIs REST y APIs GraphQL',
+          'Uso de bases de datos como MongoDB y SQL',
+        ],
+      },
+      {
+        dates: 'Feb 2021 - Jun 2021',
+        'course-focus': [
+          'Lenguajes C, Python y JavaScript',
+          'Los temas incluían la abstracción, los algoritmos, las estructuras de datos, la encapsulación, la gestión de recursos, la seguridad, la ingeniería de software y el desarrollo web.',
+          'Cómo pensar de forma algorítmica y resolver problemas de forma eficaz',
+        ],
+      },
+      {
+        dates: 'Jun 2020 - Sep 2020',
+        'course-focus': [
+          'Fundamentos del JavaScript moderno',
+          'Programación Orientada a Objetos',
+          'JavaScript Asíncrono',
+        ],
+      },
+      {
+        dates: 'Jul 2020 - Ago 2020',
+        'course-focus': [
+          'Fundamentos de JavaScript, incluyendo variables, matrices, objetos, bucles y funciones',
+          'Crear algoritmos para manipular cadenas, factorizar números y calcular la órbita de la Estación Espacial Internacional',
+          'Programación Orientada a Objetos y Programación Funcional',
+        ],
+      },
+      {
+        dates: 'Jun 2020 - Jul 2020',
+        'course-focus': [
+          'Construya 30 proyectos de JavaScript en 30 días',
+          'Manipulación del DOM',
+          'Captura de eventos, propagación, burbujeo y once',
+        ],
+      },
+      {
+        dates: 'Feb 2020 - Jun 2020',
+        'course-focus': [
+          'Crear aplicaciones web full-stack',
+          'HTML5, CSS3, JavaScript, NodeJS, Express y MongoDB',
+          'AJAX y APIs',
+          'HTTPS y Seguridad',
+        ],
+      },
+      {
+        dates: 'Dic 2019 - Ene 2020',
+        'course-focus': [
+          'Construir páginas web con HTML y CSS',
+          'Flexbox y CSS Grid',
+        ],
+      },
     ],
-    'course-focus-header': 'Course focus',
-    'textbooks-read': 'Textbooks read',
+    'course-focus-header': 'Enfoque del curso',
+    'textbooks-read': 'Libros de texto leídos',
   },
   portuguese: {
     bio: 'Programador de software freelance baseado em Lisboa, Portugal',
@@ -128,7 +274,7 @@ const language = {
     'view-on-github': 'Ver o projecto no GitHub',
     host: 'Alojado nas Páginas GitHub — Tema por',
     headers: [
-      'Techical Experience',
+      'Experiência Técnica',
       'Experiência de Trabalho',
       'Línguas',
       'Educação',
@@ -138,7 +284,7 @@ const language = {
         position: 'Desenvolvedor Web',
         'employment-dates': 'Jan 2022 - Presente',
         'employment-description':
-          'Durante este estágio fui responsável pelo apoio, manutenção e actualização dos diferentes sites da GoContact, para além da optimização de SEO. Fui encarregado de desenvolver [CXBlog](https://www.cxblog.com/) com a Elementor, PHP e CSS/JavaScript personalizado. O site foi criado para ser totalmente dinâmico e não requerer experiência de codificação para actualizar e gerir o site. Também fui incumbido de criar uma página Roadshow para demonstrar as capacidades do sistema GoContact Contact Center-as-a-service e criar bilhetes através de chamadas para pontos finais API.',
+          'Durante este estágio fui responsável pelo apoio, manutenção e actualização dos diferentes sites da GoContact, para além da optimização de SEO. Fui encarregado de desenvolver CXBlog com a Elementor, PHP e CSS/JavaScript personalizado. O site foi criado para ser totalmente dinâmico e não requerer experiência de codificação para actualizar e gerir o site. Também fui incumbido de criar uma página Roadshow para demonstrar as capacidades do sistema GoContact Contact Center-as-a-service e criar bilhetes através de chamadas para pontos finais API.',
       },
       {
         position: 'Desenvolvedor Web Freelancer',
@@ -162,78 +308,173 @@ const language = {
     'technology-used': 'Tecnologia utilizada',
     and: 'e',
     languages: [
-      'English: Native',
-      'Spanish: C1 (advanced)',
-      'Portuguese: A2 (beginner)',
+      ['Inglês', 'Nativo'],
+      ['Espanhol', 'C1 (avançado)'],
+      ['Português', 'A2 (principiante)'],
     ],
     education: [
       {
-        location: 'Remote',
-        dates: 'Mar 2021 - Present',
+        dates: 'Mar 2021 - Presente',
         'course-focus': [
-          'Hooks, Redux, and React Routing',
-          'Animations',
+          'Criar um Sistema de Gestão de Conteúdos (Content Management System, CMS)',
+          'Segurança em PHP',
+          'Programação Orientada a Objectos',
+        ],
+      },
+      {
+        dates: 'Dez 2021 - Presente',
+        'course-focus': [
+          'Hooks, Redux, e React Routing',
+          'Animações',
           'Next.js',
         ],
       },
+      {
+        dates: 'Jan 2022 - Mar 2022',
+        'course-focus': [
+          'Tecnologias e Práticas de Marketing Digital',
+          'Métodos Criativos para o Marketing Social Media',
+          'Gestão de Marketing nas Mídias Sociais',
+          'Meios de Comunicação Digitais Europeus e Internacionais',
+          'Empreendedorismo Digital',
+        ],
+      },
+      {
+        dates: 'Jun 2021 - Out 2021',
+        'course-focus': [
+          'Construção rápida e escalável de aplicações web do lado do servidor com NodeJS',
+          'APIs REST e APIs GraphQL',
+          'Utilização de bases de dados como MongoDB e SQL',
+        ],
+      },
+      {
+        dates: 'Fev 2021 - Jun 2021',
+        'course-focus': [
+          'Linguagens C, Python e JavaScript',
+          'Os tópicos incluíram abstracção, algoritmos, estruturas de dados, encapsulamento, gestão de recursos, segurança, engenharia de software, e desenvolvimento web',
+          'Como pensar algorítmicamente e resolver problemas de forma eficiente',
+        ],
+      },
+      {
+        dates: 'Jun 2020 - Set 2020',
+        'course-focus': [
+          'Fundamentos do Javascript moderno',
+          'Programación Orientada a Objetos',
+          'JavaScript Assíncrono',
+        ],
+      },
+      {
+        dates: 'Jul 2020 - Ago 2020',
+        'course-focus': [
+          'Fundamentos do JavaScript incluindo variáveis, matrizes, objectos, loops, e funções',
+          'Criação de algoritmos para manipular cordas, factorializar números, e calcular a órbita da Estação Espacial Internacional',
+          'Programação Orientada a Objectos e Programação Funcional',
+        ],
+      },
+      {
+        dates: 'Jun 2020 - Jul 2020',
+        'course-focus': [
+          'Construir 30 projectos JavaScript em 30 dias',
+          'Manipulação DOM',
+          'Captura de Eventos, Propagação, Borbulhamento e Once',
+        ],
+      },
+      {
+        dates: 'Fev 2020 - Jun 2020',
+        'course-focus': [
+          'Criar aplicações full-stack',
+          'HTML5, CSS3, JavaScript, NodeJS, Express e MongoDB',
+          'AJAX e APIs',
+          'HTTPS e Segurança',
+        ],
+      },
+      {
+        dates: 'Dez 2019 - Jan 2020',
+        'course-focus': [
+          'Construir páginas web com HTML e CSS',
+          'Flexbox e CSS Grid',
+        ],
+      },
     ],
-    'course-focus-header': 'Course focus',
-    'textbooks-read': 'Textbooks read',
+    'course-focus-header': 'Enfoque do curso',
+    'textbooks-read': 'Livros de texto lidos',
   },
 };
 
 // Language switcher buttons
-const englishBtn = document.querySelector(".lang-eng");
-const spanishBtn = document.querySelector(".lang-esp");
-const portugueseBtn = document.querySelector(".lang-por");
+const englishBtn = document.querySelector('.lang-eng');
+const spanishBtn = document.querySelector('.lang-esp');
+const portugueseBtn = document.querySelector('.lang-por');
 
 // Content to be updated on language change
-let bio = document.querySelector(".bio");
-let linkHeader = document.querySelector(".link-header");
-let website = document.querySelector(".website");             
-let viewOnGithub = document.querySelector(".view-on-github");
-let host = document.querySelector(".host");
-let and = document.querySelector(".and");                        
-let headers = document.querySelectorAll(".header");
-let positions = document.querySelectorAll(".position");
-let employmentDates = document.querySelectorAll(".employment-dates");
-let employmentDescriptions = document.querySelectorAll(".employment-description");
-let technologyUsed = document.querySelectorAll(".technology-used");
+let bio = document.querySelector('.bio');
+let linkHeader = document.querySelector('.link-header');
+let website = document.querySelector('.website');
+let viewOnGithub = document.querySelector('.view-on-github');
+let host = document.querySelector('.host');
+let textbooksRead = document.querySelector('.textbooks-read');
+let and = document.querySelectorAll('.and');
+let headers = document.querySelectorAll('.header');
+let positions = document.querySelectorAll('.position');
+let employmentDates = document.querySelectorAll('.employment-dates');
+let employmentDescriptions = document.querySelectorAll(
+  '.employment-description'
+);
+let technologyUsed = document.querySelectorAll('.technology-used');
+let languageName = document.querySelectorAll('.language-name');
+let languageLevel = document.querySelectorAll('.language-level');
+let courseFocus = document.querySelectorAll('.course-focus');
+let courseDates = document.querySelectorAll('.course-dates');
 
 // Update the currently displayed language
 const updateLanguage = (lang) => {
-  // Get the current language   
+  // Get the current language
   let current;
-  if (lang === "english") current = language.english;
-  else if (lang === "spanish") current = language.spanish;
-  else if (lang === "portuguese") current = language.portuguese;
+  if (lang === 'english') current = language.english;
+  else if (lang === 'spanish') current = language.spanish;
+  else if (lang === 'portuguese') current = language.portuguese;
   console.log(current);
   // Update the content
   bio.textContent = current.bio;
-  linkHeader.textContent = current["link-header"];
+  linkHeader.textContent = current['link-header'];
   website.textContent = current.website;
-  viewOnGithub.textContent = current["view-on-github"];
+  viewOnGithub.textContent = current['view-on-github'];
   host.textContent = current.host;
-  and.textContent = current.and;
+  textbooksRead.textContent = current['textbooks-read'];
+  // Use forEach for repeated content
+  and.forEach((i) => (i.textContent = current.and));
+  technologyUsed.forEach(
+    (tech) => (tech.textContent = current['technology-used'])
+  );
+  courseFocus.forEach(
+    (course) => (course.textContent = current['course-focus'])
+  );
+  // Loop through all conent
   for (let i = 0; i < headers.length; i++) {
-   headers[i].textContent = current.headers[i];
+    headers[i].textContent = current.headers[i];
   }
   for (let i = 0; i < positions.length; i++) {
     positions[i].textContent = current.experience[i].position;
-    employmentDates[i].textContent = current.experience[i]["employment-dates"];
-    employmentDescriptions[i].textContent = current.experience[i]["employment-description"];
+    employmentDates[i].textContent = current.experience[i]['employment-dates'];
+    employmentDescriptions[i].textContent =
+      current.experience[i]['employment-description'];
   }
-  technologyUsed.forEach(tech => tech.textContent = current["technology-used"]);
-
+  for (let i = 0; i < languageName.length; i++) {
+    languageName[i].textContent = current.languages[i][0];
+    languageLevel[i].textContent = current.languages[i][1];
+  }
+  for (let i = 0; i < courseDates.length; i++) {
+    courseDates[i].textContent = current.education[i].dates;
+  }
 };
 
 // Event listeners
-englishBtn.addEventListener("click", () => {
-  updateLanguage("english")
+englishBtn.addEventListener('click', () => {
+  updateLanguage('english');
 });
-spanishBtn.addEventListener("click", () => {
-  updateLanguage("spanish")
+spanishBtn.addEventListener('click', () => {
+  updateLanguage('spanish');
 });
-portugueseBtn.addEventListener("click", () => {
-  updateLanguage("portuguese")
+portugueseBtn.addEventListener('click', () => {
+  updateLanguage('portuguese');
 });
