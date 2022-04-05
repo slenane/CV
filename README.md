@@ -28,79 +28,79 @@
 
 ## 💬 <span class="header">Languages</span>
 
-<img class="language-flag" src="./assets/img/ireland.png"> **English**: Native <br>
-<img class="language-flag" src="./assets/img/spain.png"> **Spanish**: C1 (advanced) <br>
-<img class="language-flag" src="./assets/img/portugal.png"> **Portuguese**: A2 (beginner)
+<img class="language-flag" src="./assets/img/ireland.png"> **<span class="language-name">English</span>**: <span class="language-level">Native</span> <br>
+<img class="language-flag" src="./assets/img/spain.png"> **<span class="language-name">Spanish</span>**: <span class="language-level">C1 (advanced)</span> <br>
+<img class="language-flag" src="./assets/img/portugal.png"> **<span class="language-name">Portuguese</span>**: <span class="language-level">A2 (beginner)</span>
 <br><br>
 
 ## 👨‍🎓 <span class="header">Education</span>
 
-**PHP - Become a PHP Master - CMS Project** - [Udemy](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/) - Remote _(Mar 2021 - Present)_ <br>
-_Course focus:_ <br>
+**PHP - Become a PHP Master - CMS Project** - [Udemy](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/) - Remote _(<span class="course-dates">Mar 2021 - Present</span>)_ <br>
+_<span class="course-focus">Course focus</span>:_ <br>
 - Create a Content Management System <br>
 - Security in PHP <br>
-- Object Oriented Programming  <br><br>
+- Object-Oriented Programming  <br><br>
 
-**React - The Complete Guide** - [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - Remote _(Dec 2021 - Present)_ <br>
-_Course focus:_ <br>
+**React - The Complete Guide** - [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - Remote _(<span class="course-dates">Dec 2021 - Present</span>)_ <br>
+_<span class="course-focus">Course focus</span>:_ <br>
 - Hooks, Redux, and React Routing <br>
 - Animations <br>
 - Next.js  <br><br>
 
-**Diploma in European Digital Marketing and Entrepreneurship** - [Capacity Ireland](http://www.capacityireland.ie/digital-marketing) - Remote _(Jan 2022 - Mar 2022)_ <br>
-_Course focus:_ <br>
+**Diploma in European Digital Marketing and Entrepreneurship** - [Capacity Ireland](http://www.capacityireland.ie/digital-marketing) - Remote _(<span class="course-dates">Jan 2022 - Mar 2022</span>)_ <br>
+_<span class="course-focus">Course focus</span>:_ <br>
 - Digital Marketing Technologies and Practice  <br>
 - Creative Methods for Social Media Marketing <br>
 - Social Media Marketing Management <br>
 - European and International Digital Media <br>
 - Digital Entrepreneurship  <br><br>
 
-**NodeJS - The Complete Guide** - [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(Jun 2021 - Oct 2021)_ <br>
-_Course focus:_ <br>
-- Building fast and scalable server-side web applications with NodeJS. <br>
-- REST APIs and GraphQL APIs. <br>
-- Using databases like MongoDB and SQL. <br><br>
+**NodeJS - The Complete Guide** - [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(<span class="course-dates">Jun 2021 - Oct 2021</span>)_ <br>
+_<span class="course-focus">Course focus</span>:_ <br>
+- Building fast and scalable server-side web applications with NodeJS <br>
+- REST APIs and GraphQL APIs <br>
+- Using databases like MongoDB and SQL <br><br>
 
-**CS50 - Harvard University's Introduction to Computer Science** - [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(Feb 2021 - Jun 2021)_ <br>
-_Course focus:_ <br>
-- How to think algorithmically and solve problems efficiently. <br>
-- Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. <br>
-- C, Python and JavaScript languages <br><br>
+**CS50 - Harvard University's Introduction to Computer Science** - [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(<span class="course-dates">Feb 2021 - Jun 2021</span>)_ <br>
+_<span class="course-focus">Course focus</span>:_ <br>
+- C, Python and JavaScript languages <br>
+- Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development <br>
+- How to think algorithmically and solve problems efficiently <br><br>
 
-**The Complete Javascript Course** - [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Remote _(Jun 2020 - Sep 2020)_ <br>
-_Course focus:_ <br>
-- Fundamentals of modern JavaScript. <br>
-- Object-oriented programming. <br>
-- Asynchronous JavaScript. <br><br>
+**The Complete Javascript Course** - [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Remote _(<span class="course-dates">Jun 2020 - Sep 2020</span>)_ <br>
+_<span class="course-focus">Course focus</span>:_ <br>
+- Fundamentals of modern JavaScript <br>
+- Object-Oriented programming <br>
+- Asynchronous JavaScript <br><br>
 
-**JavaScript Algorithms and Data Structures** - [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/  ) - Remote _(Jul 2020 - Aug 2020)_ <br>
-_Course focus:_ <br>
-- Fundamentals of JavaScript including variables, arrays, objects, loops, and functions. <br>
-- Creating algorithms to manipulate strings, factorialize numbers, and even calculate the orbit of the International Space Station. <br>
-- Object Oriented and Functional Programming. <br><br>
+**JavaScript Algorithms and Data Structures** - [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/  ) - Remote _(<span class="course-dates">Jul 2020 - Aug 2020</span>)_ <br>
+_<span class="course-focus">Course focus</span>:_ <br>
+- Fundamentals of JavaScript including variables, arrays, objects, loops, and functions <br>
+- Creating algorithms to manipulate strings, factorialize numbers, and calculate the orbit of the International Space Station <br>
+- Object-Oriented and Functional Programming <br><br>
 
-**JavaScript30 - 30 Day Vanilla JS Coding Challenge** - [JavaScript30](https://javascript30.com/) - Remote _(Jun 2020 - Jul 2020)_ <br>
-_Course focus:_ <br>
-- Build 30 JavaScript projects in 30 days. <br>
-- DOM manipulation. <br>
-- Event Capture, Propagation, Bubbling and Once. <br><br>
+**JavaScript30 - 30 Day Vanilla JS Coding Challenge** - [JavaScript30](https://javascript30.com/) - Remote _(<span class="course-dates">Jun 2020 - Jul 2020</span>)_ <br>
+_<span class="course-focus">Course focus</span>:_ <br>
+- Build 30 JavaScript projects in 30 days <br>
+- DOM manipulation <br>
+- Event Capture, Propagation, Bubbling and Once <br><br>
 
-**The Web Developer Bootcamp** - [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(Feb 2020 - Jun 2020)_ <br>
-_Course focus:_ <br>
-- Create full-stack web applications. <br>
-- HTML5, CSS3, JavaScript, Node, Express and MongoDB. <br>
-- AJAX and APIs. <br>
-- HTTPS and Security. <br><br>
+**The Web Developer Bootcamp** - [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(<span class="course-dates">Feb 2020 - Jun 2020</span>)_ <br>
+_<span class="course-focus">Course focus</span>:_ <br>
+- Create full-stack web applications <br>
+- HTML5, CSS3, JavaScript, NodeJS, Express and MongoDB <br>
+- AJAX and APIs <br>
+- HTTPS and Security <br><br>
 
-**Responsive Web Design** - [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(Dec 2019 - Jan 2020)_ <br>
-_Course focus:_ <br>
-- Build webpages with HTML and CSS. <br>
-- Flexbox and CSS Grid. <br><br>
+**Responsive Web Design** - [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(<span class="course-dates">Dec 2019 - Jan 2020</span>)_ <br>
+ _<span class="course-focus">Course focus</span>:_ <br>
+- Build webpages with HTML and CSS <br>
+- Flexbox and CSS Grid <br><br>
 
 **Bachelor of Science** - Biochemistry - 2.1 Honours (3.5 GPA)<br>
 [National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
 
-**Textbooks Read:**
+**<span class="textbooks-read">Textbooks Read</span>:**
 - Programming PHP - Peter MacIntyre <br>
 - Node.js Web Development - David Herron <br>
 - Node.js 8 the Right Way Practical, Server-Side JavaScript That Scales - Jim Wilson <br>
