@@ -469,12 +469,15 @@ const updateLanguage = (lang) => {
 };
 
 // Event listeners
-englishBtn.addEventListener('click', () => {
+englishBtn.addEventListener('click', (e) => {
+  e.preventDefault();
   updateLanguage('english');
 });
-spanishBtn.addEventListener('click', () => {
+spanishBtn.addEventListener('click', (e) => {
+  e.preventDefault();
   updateLanguage('spanish');
 });
-portugueseBtn.addEventListener('click', () => {
+portugueseBtn.addEventListener('click', (e) => {
+  e.preventDefault();
   updateLanguage('portuguese');
 });
