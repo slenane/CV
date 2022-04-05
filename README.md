@@ -1,39 +1,39 @@
-## 💻 <span class="header_1">Technical Experience</span>
+## 💻 <span class="header">Technical Experience</span>
 
-**Web Developer** @ [GoContact, Lisboa](https://www.gocontact.com/) _(Jan 2022 - Present)_ <br>
+**<span class="position">Web Developer</span>** @ [GoContact, Lisboa](https://www.gocontact.com/) _(<span class="employment-dates">Jan 2022 - Present</span>)_ <br>
 
-During this internship I have been responsible for the support, maintenance, and actualization of the different GoContact websites in addition to SEO optimization. I was tasked with developing [CXBlog](https://www.cxblog.com/) with Elementor, PHP and custom CSS/JavaScript. The site was created to be fully dynamic and require no coding experience to update and manage the site. I was also tasked with creating a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system and create tickets through calls to API endpoints.
+<span class="employment-description">During this internship I have been responsible for the support, maintenance, and actualization of the different GoContact websites in addition to SEO optimization. I was tasked with developing [CXBlog](https://www.cxblog.com/) with Elementor, PHP and custom CSS/JavaScript. The site was created to be fully dynamic and require no coding experience to update and manage the site. I was also tasked with creating a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system and create tickets through calls to API endpoints.</span> <br>
 
-**_Technologies used:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, and Postman.
+**_<span class="technology-used">Technology used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman.
 <br><br>
 
-**Freelance Web Developer** @ [stephenlenane.com](https://www.stephenlenane.com) _(Dec 2020 - Present)_ <br>
+**<span class="position">Freelance Web Developer</span>** @ [stephenlenane.com](https://www.stephenlenane.com) _(<span class="employment-dates">Dec 2020 - Present</span>)_ <br>
 
-I design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers. Through responsive designs I ensure excellent user experience, with a focus on performance, accessibility and best practices to return high SEO scores. I create online stores with the implementation of e-commerce platform payment gateways and custom product templates. <br>
+<span class="employment-description">I design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers. Through responsive designs I ensure excellent user experience, with a focus on performance, accessibility and best practices to return high SEO scores. I create online stores with the implementation of e-commerce platform payment gateways and custom product templates.</span> <br>
 
-**_Technologies used:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, and GIMP.
+**_<span class="technology-used">Technology used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, <span class="and">and</span> GIMP.
 <br><br>
 
-## 💼 Work Experience
+## 💼 <span class="header">Work Experience</span>
 
-**Customer Service Advisor** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(Apr 2021 - Jan 2022)_ <br>
+**<span class="position">Customer Service Advisor</span>** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(<span class="employment-dates">Apr 2021 - Jan 2022</span>)_ <br>
 
-Tasked with receiving inbound calls from customers and providing accurate information on the COVID-19 vaccination process through a virtual call center, completing administrative tasks and entering data collated from customers in a timely manner.
+<span class="employment-description">Tasked with receiving inbound calls from customers and providing accurate information on the COVID-19 vaccination process through a virtual call center, completing administrative tasks and entering data collated from customers in a timely manner.</span>
 <br><br>
 
-**English Teacher** @ [Cambly](https://www.cambly.com/) _(Mar 2019 - Apr 2021)_ <br>
+  **<span class="position">English Teacher</span>** @ [Cambly](https://www.cambly.com/) _(<span class="employment-dates">Mar 2019 - Apr 2021</span>)_ <br>
 
-Taught over 5,000 classes through the Cambly platform. This position required strong interpersonal and communication skills to effectively teach grammar points while making classes enjoyable and engaging for students.
+<span class="employment-description">Taught over 5,000 classes through the Cambly platform. This position required strong interpersonal and communication skills to effectively teach grammar points while making classes enjoyable and engaging for students.</span>
 <br><br>
 
-## 💬 Languages
+## 💬 <span class="header">Languages</span>
 
 <img class="language-flag" src="./assets/img/ireland.png"> **English**: Native <br>
 <img class="language-flag" src="./assets/img/spain.png"> **Spanish**: C1 (advanced) <br>
 <img class="language-flag" src="./assets/img/portugal.png"> **Portuguese**: A2 (beginner)
 <br><br>
 
-## 👨‍🎓 Education
+## 👨‍🎓 <span class="header">Education</span>
 
 **PHP - Become a PHP Master - CMS Project** - [Udemy](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/) - Remote _(Mar 2021 - Present)_ <br>
 _Course focus:_ <br>
