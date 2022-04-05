@@ -410,6 +410,7 @@ const portugueseBtn = document.querySelector('.lang-por');
 let bio = document.querySelector('.bio');
 let linkHeader = document.querySelector('.link-header');
 let website = document.querySelector('.website');
+let languageSwitch = document.querySelector('.switch-language');
 let viewOnGithub = document.querySelector('.view-on-github');
 let host = document.querySelector('.host');
 let textbooksRead = document.querySelector('.textbooks-read');
@@ -439,6 +440,7 @@ const updateLanguage = (lang) => {
   bio.textContent = current.bio;
   linkHeader.textContent = current['link-header'];
   website.textContent = current.website;
+  languageSwitch.textContent = current['language-switcher'];
   viewOnGithub.textContent = current['view-on-github'];
   host.textContent = current.host;
   textbooksRead.textContent = current['textbooks-read'];
