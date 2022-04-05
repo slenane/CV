@@ -447,7 +447,7 @@ const updateLanguage = (lang) => {
     (tech) => (tech.textContent = current['technology-used'])
   );
   courseFocus.forEach(
-    (course) => (course.textContent = current['course-focus'])
+    (course) => (course.textContent = current['course-focus-header'])
   );
   // Loop through all conent
   for (let i = 0; i < headers.length; i++) {
