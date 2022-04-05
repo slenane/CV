@@ -6,7 +6,7 @@ const language = {
     website: 'Website',
     'language-switcher': 'Switch language',
     'view-on-github': 'View the Project on GitHub',
-    host: 'Hosted on GitHub Pages &mdash; Theme by',
+    host: 'Hosted on GitHub Pages — Theme by',
     headers: [
       'Techical Experience',
       'Work Experience',
@@ -66,7 +66,7 @@ const language = {
     website: 'Sitio web',
     'language-switcher': 'Cambiar de idioma',
     'view-on-github': 'Ver el proyecto en GitHub',
-    host: 'Alojado en GitHub Pages &mdash; Tema por',
+    host: 'Alojado en GitHub Pages — Tema por',
     headers: [
       'Techical Experience',
       'Experiencia de Trabajo',
@@ -126,7 +126,7 @@ const language = {
     website: 'Sítio Web',
     'language-switcher': 'Mudar de língua',
     'view-on-github': 'Ver o projecto no GitHub',
-    host: 'Alojado nas Páginas GitHub &mdash; Tema por',
+    host: 'Alojado nas Páginas GitHub — Tema por',
     headers: [
       'Techical Experience',
       'Experiência de Trabalho',
@@ -215,6 +215,15 @@ const updateLanguage = (lang) => {
   viewOnGithub.textContent = current["view-on-github"];
   host.textContent = current.host;
   and.textContent = current.and;
+  for (let i = 0; i < headers.length; i++) {
+   headers[i].textContent = current.headers[i];
+  }
+  for (let i = 0; i < positions.length; i++) {
+    positions[i].textContent = current.experience[i].position;
+    employmentDates[i].textContent = current.experience[i]["employment-dates"];
+    employmentDescriptions[i].textContent = current.experience[i]["employment-description"];
+  }
+  technologyUsed.forEach(tech => tech.textContent = current["technology-used"]);
 
 };
 
