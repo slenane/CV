@@ -425,6 +425,7 @@ let languageName = document.querySelectorAll('.language-name');
 let languageLevel = document.querySelectorAll('.language-level');
 let courseFocus = document.querySelectorAll('.course-focus');
 let courseDates = document.querySelectorAll('.course-dates');
+let courseDescription = document.querySelectorAll('.course-description');
 
 // Update the currently displayed language
 const updateLanguage = (lang) => {
@@ -465,6 +466,15 @@ const updateLanguage = (lang) => {
   }
   for (let i = 0; i < courseDates.length; i++) {
     courseDates[i].textContent = current.education[i].dates;
+  }
+  // Iterate through fields and assign to the correct div in the UI without need for additional separation
+  let count = 0;
+  for (let i = 0; i < current.education.length; i++) {
+    let description = current.education[i]['course-focus'];
+    for (let j = 0; j < description.length; j++) {
+      courseDescription[count].textContent = description[j];
+      count++;
+    }
   }
 };
 
