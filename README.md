@@ -36,19 +36,19 @@
 ## 👨‍🎓 <span class="header">Education</span>
 
 **PHP - Become a PHP Master - CMS Project** - [Udemy](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/) - Remote _(<span class="course-dates">Mar 2021 - Present</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_ <br>
+_<span class="course-focus">Course focus</span>:_ 
 - <span class="course-description">Create a Content Management System</span> <br>
 - <span class="course-description">Security in PHP</span> <br>
 - <span class="course-description">Object-Oriented Programming</span>  <br><br>
 
 **React - The Complete Guide** - [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - Remote _(<span class="course-dates">Dec 2021 - Present</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_ <br>
+_<span class="course-focus">Course focus</span>:_ 
 - <span class="course-description">Hooks, Redux, and React Routing</span> <br>
 - <span class="course-description">Animations</span> <br>
 - <span class="course-description">Next.js</span>  <br><br>
 
 **Diploma in European Digital Marketing and Entrepreneurship** - [Capacity Ireland](http://www.capacityireland.ie/digital-marketing) - Remote _(<span class="course-dates">Jan 2022 - Mar 2022</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_ <br>
+_<span class="course-focus">Course focus</span>:_ 
 - <span class="course-description">Digital Marketing Technologies and Practice</span>  <br>
 - <span class="course-description">Creative Methods for Social Media Marketing</span> <br>
 - <span class="course-description">Social Media Marketing Management</span> <br>
@@ -56,44 +56,44 @@ _<span class="course-focus">Course focus</span>:_ <br>
 - <span class="course-description">Digital Entrepreneurship</span>  <br><br>
 
 **NodeJS - The Complete Guide** - [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(<span class="course-dates">Jun 2021 - Oct 2021</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_ <br>
+_<span class="course-focus">Course focus</span>:_ 
 - <span class="course-description">Building fast and scalable server-side web applications with NodeJS</span> <br>
 - <span class="course-description">REST APIs and GraphQL APIs</span> <br>
 - <span class="course-description">Using databases like MongoDB and SQL</span> <br><br>
 
 **CS50 - Harvard University's Introduction to Computer Science** - [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(<span class="course-dates">Feb 2021 - Jun 2021</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_ <br>
+_<span class="course-focus">Course focus</span>:_ 
 - <span class="course-description">C, Python and JavaScript languages</span> <br>
 - <span class="course-description">Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development</span> <br>
 - <span class="course-description">How to think algorithmically and solve problems efficiently</span> <br><br>
 
 **The Complete Javascript Course** - [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Remote _(<span class="course-dates">Jun 2020 - Sep 2020</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_ <br>
+_<span class="course-focus">Course focus</span>:_
 - <span class="course-description">Fundamentals of modern JavaScript</span> <br>
 - <span class="course-description">Object-Oriented programming</span> <br>
 - <span class="course-description">Asynchronous JavaScript</span> <br><br>
 
 **JavaScript Algorithms and Data Structures** - [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/  ) - Remote _(<span class="course-dates">Jul 2020 - Aug 2020</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_ <br>
+_<span class="course-focus">Course focus</span>:_ 
 - <span class="course-description">Fundamentals of JavaScript including variables, arrays, objects, loops, and functions</span> <br>
 - <span class="course-description">Creating algorithms to manipulate strings, factorialize numbers, and calculate the orbit of the International Space Station</span> <br>
 - <span class="course-description">Object-Oriented and Functional Programming</span> <br><br>
 
 **JavaScript30 - 30 Day Vanilla JS Coding Challenge** - [JavaScript30](https://javascript30.com/) - Remote _(<span class="course-dates">Jun 2020 - Jul 2020</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_ \
+_<span class="course-focus">Course focus</span>:_
 - <span class="course-description">Build 30 JavaScript projects in 30 days</span> <br>
 - <span class="course-description">DOM manipulation</span> <br>
 - <span class="course-description">Event Capture, Propagation, Bubbling and Once</span> <br><br>
  
 **The Web Developer Bootcamp** - [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(<span class="course-dates">Feb 2020 - Jun 2020</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_ \
+_<span class="course-focus">Course focus</span>:_
 - <span class="course-description">Create full-stack web applications</span> <br>
 - <span class="course-description">HTML5, CSS3, JavaScript, NodeJS, Express and MongoDB</span> <br>
 - <span class="course-description">AJAX and APIs</span> <br>
 - <span class="course-description">HTTPS and Security</span> <br><br>
 
 **Responsive Web Design** - [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(<span class="course-dates">Dec 2019 - Jan 2020</span>)_ <br>
- _<span class="course-focus">Course focus</span>:_ \
+ _<span class="course-focus">Course focus</span>:_
 - <span class="course-description">Build webpages with HTML and CSS</span> <br>
 - <span class="course-description">Flexbox and CSS Grid</span> <br><br>
 
