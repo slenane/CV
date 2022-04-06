@@ -43,8 +43,8 @@ const language = {
           'Taught over 5,000 classes through the Cambly platform. This position required strong interpersonal and communication skills to effectively teach grammar points while making classes enjoyable and engaging for students.',
       },
     ],
-    'key-projects-header': 'Key Projects',
-    'key-project-header': 'Key Project',
+    'key-projects-header': 'Key projects',
+    'key-project-header': 'Key project',
     'technology-used': 'Technologies used',
     and: 'and',
     languages: [
@@ -183,7 +183,7 @@ const language = {
       },
     ],
     'key-projects-header': 'Proyectos clave',
-    'key-project-header': 'Proyecto Clave',
+    'key-project-header': 'Proyecto clave',
     'technology-used': 'Tecnología utilizada',
     and: 'y',
     languages: [
