@@ -5,7 +5,7 @@ const language = {
     'link-header': 'Get in touch',
     website: 'Website',
     'language-switcher': 'Switch language',
-    'view-on-github': 'View the Project on GitHub',
+    'view-on-github': 'View GitHub Repository',
     host: 'Hosted on GitHub Pages — Theme by',
     headers: [
       'Techical Experience',
@@ -138,7 +138,7 @@ const language = {
     'link-header': 'Póngase en contacto',
     website: 'Sitio web',
     'language-switcher': 'Cambiar de idioma',
-    'view-on-github': 'Ver el proyecto en GitHub',
+    'view-on-github': 'Ver Repositorio GitHub',
     host: 'Alojado en GitHub Pages — Tema por',
     headers: [
       'Experiencia Técnica',
@@ -271,7 +271,7 @@ const language = {
     'link-header': 'Entre em contacto',
     website: 'Sítio Web',
     'language-switcher': 'Mudar de língua',
-    'view-on-github': 'Ver o projecto no GitHub',
+    'view-on-github': 'Ver Repositório GitHub',
     host: 'Alojado nas Páginas GitHub — Tema por',
     headers: [
       'Experiência Técnica',
