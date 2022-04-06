@@ -4,7 +4,7 @@
 
 <span class="employment-description">During this internship I have been responsible for the support, maintenance, and actualization of the different GoContact websites in addition to SEO optimization. I have worked closely with the design team to develop sites that meet all requirements of functionality and design. I have provided analysis of competitor websites to implement new features in the GoContact website. I was tasked with developing multi-language sites with both WordPress and PHP with custom JavaScript to improve user experience and functionality. </span> <br>
 
-**_<span class="key-projects-header">Key Projects</span>:_** <span class="key-projects">Developed a dynamic customer experience blog, with articles from experts in the field, to be maintained by an editor with no coding experience and a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that creates new leads through calls to API endpoints.</span>
+**_<span class="key-projects-header">Key projects</span>:_** <span class="key-projects">Developed a dynamic customer experience blog, with articles from experts in the field, to be maintained by an editor with no coding experience and a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that creates new leads through calls to API endpoints.</span>
 
 **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman.
 <br><br>
@@ -13,7 +13,7 @@
 
 <span class="employment-description">I design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers. Through responsive designs I ensure excellent user experience, with a focus on performance, accessibility and best practices to return high SEO scores. I create online stores with the implementation of e-commerce platform payment gateways and custom product templates.</span> <br>
 
-**_<span class="key-project-header">Key Project</span>:_** <span class="key-projects">Designed and developed Sacred Tribe Energy Healing, a personalised e-commerce site based on client's vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. <a href="https://www.stephenlenane.com"><span class="website-small">View my website</span></a> for more details</span>
+**_<span class="key-project-header">Key project</span>:_** <span class="key-projects">Designed and developed Sacred Tribe Energy Healing, a personalised e-commerce site based on client's vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. <a href="https://www.stephenlenane.com"><span class="website-small">View my website</span></a> for more details</span>
 
 **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, <span class="and">and</span> GIMP.
 <br><br>
