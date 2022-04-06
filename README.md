@@ -9,7 +9,7 @@
 **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman.
 <br><br>
 
-**<span class="position">Freelance Web Developer</span>** @ [stephenlenane.com](https://www.stephenlenane.com) _(<span class="employment-dates">Dec 2020 - Present</span>)_ <br>
+### **<span class="position">Freelance Web Developer</span>** @ [stephenlenane.com](https://www.stephenlenane.com) _(<span class="employment-dates">Dec 2020 - Present</span>)_ <br>
 
 <span class="employment-description">I design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers. Through responsive designs I ensure excellent user experience, with a focus on performance, accessibility and best practices to return high SEO scores. I create online stores with the implementation of e-commerce platform payment gateways and custom product templates.</span> <br>
 
@@ -20,12 +20,12 @@
 
 ## 💼 <span class="header">Work Experience</span>
 
-**<span class="position">Customer Service Advisor</span>** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(<span class="employment-dates">Apr 2021 - Jan 2022</span>)_ <br>
+### **<span class="position">Customer Service Advisor</span>** @ [Capita Customer Solutions](https://www.capitacustomersolutions.ie/) _(<span class="employment-dates">Apr 2021 - Jan 2022</span>)_ <br>
 
 <span class="employment-description">Tasked with receiving inbound calls from customers and providing accurate information on the COVID-19 vaccination process through a virtual call center, completing administrative tasks and entering data collated from customers in a timely manner.</span>
 <br><br>
 
-  **<span class="position">English Teacher</span>** @ [Cambly](https://www.cambly.com/) _(<span class="employment-dates">Mar 2019 - Apr 2021</span>)_ <br>
+### **<span class="position">English Teacher</span>** @ [Cambly](https://www.cambly.com/) _(<span class="employment-dates">Mar 2019 - Apr 2021</span>)_ <br>
 
 <span class="employment-description">Taught over 5,000 classes through the Cambly platform. This position required strong interpersonal and communication skills to effectively teach grammar points while making classes enjoyable and engaging for students.</span>
 <br><br>
