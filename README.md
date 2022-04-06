@@ -79,12 +79,14 @@ _<span class="course-focus">Course focus</span>:_ <br>
 - <span class="course-description">Creating algorithms to manipulate strings, factorialize numbers, and calculate the orbit of the International Space Station</span> <br>
 - <span class="course-description">Object-Oriented and Functional Programming</span> <br><br>
 
+<div class="education-item">
 **JavaScript30 - 30 Day Vanilla JS Coding Challenge** - [JavaScript30](https://javascript30.com/) - Remote _(<span class="course-dates">Jun 2020 - Jul 2020</span>)_ <br>
 _<span class="course-focus">Course focus</span>:_
 - <span class="course-description">Build 30 JavaScript projects in 30 days</span> <br>
 - <span class="course-description">DOM manipulation</span> <br>
 - <span class="course-description">Event Capture, Propagation, Bubbling and Once</span> <br><br>
-
+<div>
+ 
 **The Web Developer Bootcamp** - [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(<span class="course-dates">Feb 2020 - Jun 2020</span>)_ <br>
 _<span class="course-focus">Course focus</span>:_ <br>
 - <span class="course-description">Create full-stack web applications</span> <br>
