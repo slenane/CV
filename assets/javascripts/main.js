@@ -488,7 +488,9 @@ const updateLanguage = (lang) => {
     employmentDates[i].textContent = current.experience[i]['employment-dates'];
     employmentDescriptions[i].textContent =
       current.experience[i]['employment-description'];
-    keyProjects[i].innerHTML = current.experience[i]['key-projects'];
+    if (keyProjects[i] && current.experience[i]['key-projects']) {
+      keyProjects[i].innerHTML = current.experience[i]['key-projects'];
+    }
   }
   for (let i = 0; i < languageName.length; i++) {
     languageName[i].textContent = current.languages[i][0];
