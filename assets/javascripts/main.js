@@ -167,7 +167,7 @@ const language = {
         'employment-description':
           'Diseño y desarrollo sitios web personalizados para pequeñas empresas como una alternativa asequible a los costosos proveedores de sitios web de arrastrar y soltar. A través de diseños responsivos aseguro una excelente experiencia de usuario, con un enfoque en el rendimiento, la accesibilidad y las mejores prácticas para devolver altas puntuaciones de SEO. Creo tiendas online con la implementación de pasarelas de pago de plataformas de comercio electrónico y plantillas de productos personalizadas.',
         'key-projects':
-          'Diseñé y desarrollé Sacred Tribe Energy Healing, un sitio de comercio electrónico personalizado basado en la visión del cliente y reduje a la mitad sus tarifas mensuales del sitio web. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. <a href="https://www.stephenlenane.com">Ver mi sitio web</a> para más detalles',
+          'Diseñé y desarrollé Sacred Tribe Energy Healing, un sitio de comercio electrónico personalizado basado en la visión del cliente y reduje a la mitad sus tarifas mensuales del sitio web. Se integró Shopify para gestionar los pagos seguros, el inventario de productos y para proporcionar al cliente el control total del negocio. <a href="https://www.stephenlenane.com">Ver mi sitio web</a> para más detalles',
       },
       {
         position: 'Agente de Servicio al Cliente',
