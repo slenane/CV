@@ -104,7 +104,7 @@ _<span class="course-focus">Course focus</span>:_
 **Bachelor of Science** - Biochemistry - 2.1 Honours (3.5 GPA)<br>
 [National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
 
-**<span class="textbooks-read">Textbooks Read</span>:**
+**📚 <span class="textbooks-read">Textbooks Read</span>:**
 - Programming PHP - Peter MacIntyre <br>
 - Node.js Web Development - David Herron <br>
 - Node.js 8 the Right Way Practical: Server-Side JavaScript That Scales - Jim Wilson <br>
