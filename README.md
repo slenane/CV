@@ -107,7 +107,7 @@ _<span class="course-focus">Course focus</span>:_
 **<span class="textbooks-read">Textbooks Read</span>:**
 - Programming PHP - Peter MacIntyre <br>
 - Node.js Web Development - David Herron <br>
-- Node.js 8 the Right Way Practical, Server-Side JavaScript That Scales - Jim Wilson <br>
+- Node.js 8 the Right Way Practical: Server-Side JavaScript That Scales - Jim Wilson <br>
 - JavaScript: The Definitive Guide - David Flanagan <br>
 - Eloquent JavaScript - Marjin Haverbeke <br>
 - Learning Web Design - Jennifer Niederst Robbins <br>
