@@ -13,7 +13,7 @@
 
 <span class="employment-description">I design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers. Through responsive designs I ensure excellent user experience, with a focus on performance, accessibility and best practices to return high SEO scores. I create online stores with the implementation of e-commerce platform payment gateways and custom product templates.</span> <br>
 
-**_<span class="key-projects-header">Key Project</span>:_** <span class="key-projects">Designed and developed Sacred Tribe Energy Healing, a personalised e-commerce site based on client's vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. <a href="https://www.stephenlenane.com"><span class="website-small">View my website</span></a> for more details</span>
+**_<span class="key-project-header">Key Project</span>:_** <span class="key-projects">Designed and developed Sacred Tribe Energy Healing, a personalised e-commerce site based on client's vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. <a href="https://www.stephenlenane.com"><span class="website-small">View my website</span></a> for more details</span>
 
 **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, <span class="and">and</span> GIMP.
 <br><br>
