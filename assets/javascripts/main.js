@@ -28,7 +28,7 @@ const language = {
         'employment-description':
           'I design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers. Through responsive designs I ensure excellent user experience, with a focus on performance, accessibility and best practices to return high SEO scores. I create online stores with the implementation of e-commerce platform payment gateways and custom product templates.',
         'key-projects':
-          'Designed and developed Sacred Tribe Energy Healing, a personalised e-commerce site based on client\'s vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. <a href="https://www.stephenlenane.com">View my website</a> for more details',
+          'Designed and developed Sacred Tribe Energy Healing, a personalised e-commerce site based on client\'s vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. View the <a href="https://github.com/slenane/SacredTribeEnergyHealing">GitHub repository</a> or <a href="https://www.stephenlenane.com">my website</a> for more details',
       },
       {
         position: 'Customer Service Advisor',
@@ -167,7 +167,7 @@ const language = {
         'employment-description':
           'Diseño y desarrollo sitios web personalizados para pequeñas empresas como una alternativa asequible a los costosos proveedores de sitios web de arrastrar y soltar. A través de diseños responsivos aseguro una excelente experiencia de usuario, con un enfoque en el rendimiento, la accesibilidad y las mejores prácticas para devolver altas puntuaciones de SEO. Creo tiendas online con la implementación de pasarelas de pago de plataformas de comercio electrónico y plantillas de productos personalizadas.',
         'key-projects':
-          'Diseñé y desarrollé Sacred Tribe Energy Healing, un sitio de comercio electrónico personalizado basado en la visión del cliente y reduje a la mitad sus tarifas mensuales del sitio web. Se integró Shopify para gestionar los pagos seguros, el inventario de productos y para proporcionar al cliente el control total del negocio. <a href="https://www.stephenlenane.com">Ver mi sitio web</a> para más detalles',
+          'Diseñé y desarrollé Sacred Tribe Energy Healing, un sitio de comercio electrónico personalizado basado en la visión del cliente y reduje a la mitad sus tarifas mensuales del sitio web. Se integró Shopify para gestionar los pagos seguros, el inventario de productos y para proporcionar al cliente el control total del negocio. Vea el <a href="https://github.com/slenane/SacredTribeEnergyHealing">repositorio de GitHub</a> o <a href="https://www.stephenlenane.com"mi sitio web</a> para más detalles',
       },
       {
         position: 'Agente de Servicio al Cliente',
@@ -306,7 +306,7 @@ const language = {
         'employment-description':
           'Desenho e desenvolvo sítios web personalizados para pequenas empresas como uma alternativa acessível aos fornecedores de sítios web caros de arrastar e largar. Através de designs reactivos, asseguro uma excelente experiência do utilizador, com foco no desempenho, acessibilidade e melhores práticas para devolver altas pontuações de SEO. Crio lojas online com a implementação de gateways de pagamento de plataformas de comércio electrónico e modelos de produtos personalizados.',
         'key-projects':
-          'Desenhei e desenvolvi o Sacred Tribe Energy Healing, um site de comércio electrónico personalizado baseado na visão do cliente e reduzi para metade as suas taxas mensais no site. Shopify foi integrado para lidar com pagamentos seguros, inventário de produtos e para fornecer ao cliente o controlo total do negócio. <a href="https://www.stephenlenane.com">Ver o meu sítio web</a> para mais detalhes',
+          'Desenhei e desenvolvi o Sacred Tribe Energy Healing, um site de comércio electrónico personalizado baseado na visão do cliente e reduzi para metade as suas taxas mensais no site. Shopify foi integrado para lidar com pagamentos seguros, inventário de produtos e para fornecer ao cliente o controlo total do negócio. Ver o <a href="https://github.com/slenane/SacredTribeEnergyHealing">repositório GitHub</a> ou o <a href="https://www.stephenlenane.com">meu website</a> para mais detalhes',
       },
       {
         position: 'Agente de Serviço ao Cliente',
