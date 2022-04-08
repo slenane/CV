@@ -1,7 +1,5 @@
 ## 💻 <span class="header">Technical Experience</span>
 
-test
-
 ### **<span class="position">Web Developer</span>** @ <a href="https://www.gocontact.com/">GoContact, <span class="lisbon">Lisbon</span></a> _(<span class="employment-dates">Jan 2022 - Present</span>)_ <br>
 
 <ul class="employment-description">
