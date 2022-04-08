@@ -15,13 +15,13 @@ const language = {
         'employment-dates': 'Jan 2022 - Present',
         'employment-description': `
           <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization</li>
-          <li>Worked closely with the design team to develop sites that meet all requirements of functionality and design</li>
-          <li>Provided analysis of competitor websites to implement new features in the GoContact website</li>
-          <li>Developed multi-language sites with both WordPress and PHP with custom JavaScript to improve user experience and functionality</li>
+          <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX</li>
+          <li>Provided analysis of competitor websites to implement new features on the GoContact website</li>
+          <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality</li>
         `,
         'key-projects': `
           <li>Developed <a href="https://www.cxblog.com/">CXBlog</a>, a customer experience blog with articles from 50+ experts across three languages</li>
-          <li>Developed a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that generates tickets through API calls</li>
+          <li>Developed Roadshow pages to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that generates tickets through API calls</li>
         `,
       },
       {
@@ -147,26 +147,26 @@ const language = {
         position: 'Desarrollador Web',
         'employment-dates': 'Ene 2022 - Presente',
         'employment-description': `
-          <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization</li>
-          <li>Worked closely with the design team to develop sites that meet all requirements of functionality and design</li>
-          <li>Provided analysis of competitor websites to implement new features in the GoContact website</li>
-          <li>BOOPBOOOPBOOPDeveloped multi-language sites with both WordPress and PHP with custom JavaScript to improve user experience and functionality</li>
+          <li>Responsable del soporte, mantenimiento y actualización de los diferentes sitios web de GoContact además de la optimización SEO</li>
+          <li>Trabajé estrechamente con el equipo de diseño para desarrollar sitios que cumplieran con todos los requisitos funcionales con una UX atractiva</li>
+          <li>Proporcioné análisis de los sitios web de la competencia para implementar nuevas funciones en el sitio web de GoContact</li>
+          <li>Desarrollé sitios multilingües tanto con WordPress como con PHP. Esto requirió el uso de JavaScript personalizado para mejorar la UX y la funcionalidad</li>
         `,
         'key-projects': `
-          <li>Developed <a href="https://www.cxblog.com/">CXBlog</a>, a customer experience blog with articles from 50+ experts across three languages</li>
-          <li>Developed a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that generates tickets through API calls</li>
+          <li>Desarrollé <a href="https://www.cxblog.com/">CXBlog</a>, un blog de experiencia del cliente con artículos de más de 50 expertos en tres idiomas</li>
+          <li>Desarrollé páginas Roadshow para demostrar las capacidades del sistema GoContact Contact Center-as-a-service que genera tickets a través de llamadas API</li>
         `,
       },
       {
         position: 'Desarrollador Web Freelance',
         'employment-dates': 'Dic 2020 - Presente',
         'employment-description': `
-          <li>Design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers</li>
-          <li>Ensure excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores</li>
-          <li>Create online stores with the implementation of e-commerce platform payment gateways and custom product templates</li>
+          <li>Diseño y desarrollo sitios web personalizados para pequeñas empresas como una alternativa asequible a los costosos proveedores de sitios web de arrastrar y soltar</li>
+          <li>Garantizo una excelente experiencia de usuario a través de diseños responsivos, con un enfoque en el rendimiento, la accesibilidad y las mejores prácticas para obtener altas puntuaciones de SEO</li>
+          <li>Creo tiendas online con la implementación de pasarelas de pago de plataformas de comercio electrónico y plantillas de productos personalizadas</li>
         `,
         'key-projects':
-          'Designed and developed Sacred Tribe Energy Healing, a personalised e-commerce site based on client\'s vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. View the <a href="https://github.com/slenane/SacredTribeEnergyHealing">GitHub repository</a> or <a href="https://www.stephenlenane.com">my website</a> for more details',
+          'Diseñé y desarrollé Sacred Tribe Energy Healing, un sitio de comercio electrónico personalizado basado en la visión del cliente y reduje a la mitad sus tarifas mensuales del sitio web. Se integró Shopify para gestionar los pagos seguros, el inventario de productos y para proporcionar al cliente el control total del negocio. Ver el <a href="https://github.com/slenane/SacredTribeEnergyHealing">repositorio GitHub</a> o mi <a href="https://www.stephenlenane.com">sitio web</a> para más detalles',
       },
     ],
     'key-projects-header': 'Proyectos clave',
@@ -280,26 +280,26 @@ const language = {
         position: 'Desenvolvedor Web',
         'employment-dates': 'Jan 2022 - Presente',
         'employment-description': `
-          <li>TESTESTESTESTResponsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization</li>
-          <li>Worked closely with the design team to develop sites that meet all requirements of functionality and design</li>
-          <li>Provided analysis of competitor websites to implement new features in the GoContact website</li>
-          <li>Developed multi-language sites with both WordPress and PHP with custom JavaScript to improve user experience and functionality</li>
+          <li>Responsável pelo apoio, manutenção e actualização dos diferentes websites da GoContact, para além da optimização de SEO</li>
+          <li>Trabalhei de perto com a equipa de design para desenvolver sítios que satisfaçam todos os requisitos funcionais com um UX envolvente</li>
+          <li>Fiz a análise dos websites concorrentes para implementar novas funcionalidades no website da GoContact</li>
+          <li>Desenvolvi sítios multilinguísticos com WordPress e PHP. Isto exigiu o uso de JavaScript personalizado para melhorar o UX e a funcionalidade</li>
         `,
         'key-projects': `
-          <li>Developed <a href="https://www.cxblog.com/">CXBlog</a>, a customer experience blog with articles from 50+ experts across three languages</li>
-          <li>Developed a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that generates tickets through API calls</li>
+          <li>Desenvolvi o <a href="https://www.cxblog.com/">CXBlog</a>, um blog de experiência do cliente com artigos de mais de 50 especialistas em três línguas</li>
+          <li>Desenvolvi uma página de Roadshow para demonstrar as capacidades do sistema GoContact Contact Center-as-a-service que gera bilhetes através de chamadas API</li>
         `,
       },
       {
         position: 'Desenvolvedor Web Freelancer',
         'employment-dates': 'Dez 2020 - Presente',
         'employment-description': `
-          <li>Design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers</li>
-          <li>Ensure excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores</li>
-          <li>Create online stores with the implementation of e-commerce platform payment gateways and custom product templates</li>
+          <li>Desenho e desenvolvo sítios Web personalizados para pequenas empresas como uma alternativa acessível aos fornecedores de sítios Web dispendiosos de drag-and-drop</li>
+          <li>Asseguro uma excelente experiência do utilizador através de concepções reactivas, com foco no desempenho, acessibilidade e melhores práticas para obter altas pontuações SEO</li>
+          <li>Crio lojas online com a implementação de gateways de pagamento de plataformas de comércio electrónico e modelos de produtos personalizados</li>
         `,
         'key-projects':
-          'Designed and developed Sacred Tribe Energy Healing, a personalised e-commerce site based on client\'s vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. View the <a href="https://github.com/slenane/SacredTribeEnergyHealing">GitHub repository</a> or <a href="https://www.stephenlenane.com">my website</a> for more details',
+          'Desenhei e desenvolvi o Sacred Tribe Energy Healing, um site de comércio electrónico personalizado baseado na visão do cliente e reduzi para metade as suas taxas mensais no site. Shopify foi integrada para gerir pagamentos seguros, inventário de produtos e para fornecer ao cliente o controlo total do negócio. Ver o <a href="https://github.com/slenane/SacredTribeEnergyHealing">repositório GitHub</a> ou o meu <a href="https://www.stephenlenane.com">website</a> para mais detalhes',
       },
     ],
     'key-projects-header': 'Projectos-chave',
