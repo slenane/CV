@@ -1,19 +1,19 @@
 ## 💻 <span class="header">Technical Experience</span>
 
-### **<span class="position">Web Developer</span>** @ [GoContact, Lisboa](https://www.gocontact.com/) _(<span class="employment-dates">Jan 2022 - Present</span>)_ <br>
+### **<span class="position">Web Developer</span>** @ <a href="https://www.gocontact.com/">GoContact, <span class="lisbon">Lisbon</span></a> _(<span class="employment-dates">Jan 2022 - Present</span>)_ <br>
 
 <ul class="employment-description">
   <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization</li>
-  <li>Worked closely with the design team to develop sites that meet all requirements of functionality and design</li>
-  <li>Provided analysis of competitor websites to implement new features in the GoContact website</li>
-  <li>Developed multi-language sites with both WordPress and PHP with custom JavaScript to improve user experience and functionality</li>
+  <li>Worked closely with the design team to develop sites that meet all functional requirements and an engaging UX</li>
+  <li>Provided analysis of competitor websites to implement new features on the GoContact website</li>
+  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve user experience and functionality</li>
 </ul>
 
 **_<span class="key-projects-header">Key projects</span>:_** <br>
 
 <ul class="key-projects">
   <li>Developed <a href="https://www.cxblog.com/">CXBlog</a>, a customer experience blog with articles from 50+ experts across three languages</li>
-  <li>Developed a Roadshow page to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that generates tickets through API calls</li>
+  <li>Developed Roadshow pages to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that generates tickets through API calls</li>
 </ul>
 
 **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman.
@@ -74,7 +74,7 @@ _<span class="course-focus">Course focus</span>:_
 _<span class="course-focus">Course focus</span>:_
 
 <ul class="course-description">
-  <li>Build fast and scalable server-side web applications with NodeJS</li>
+  <li>Build fast and scalable server-side web applications with Node.js</li>
   <li>REST APIs and GraphQL APIs</li>
   <li>Using databases like MongoDB and SQL</li>
 </ul>
@@ -102,7 +102,7 @@ _<span class="course-focus">Course focus</span>:_
 
 <ul class="course-description">
   <li>Fundamentals of JavaScript including variables, arrays, objects, loops, and functions</li>
-  <li>Creating algorithms to manipulate strings, factorialize numbers, and calculate the orbit of the International Space Station</li>
+  <li>Create algorithms to manipulate strings, factorialize numbers, and calculate the orbit of the International Space Station</li>
   <li>Object-Oriented and Functional Programming</li>
 </ul>
 
@@ -120,7 +120,7 @@ _<span class="course-focus">Course focus</span>:_
 
 <ul class="course-description">
   <li>Create full-stack web applications</li>
-  <li>HTML5, CSS3, JavaScript, NodeJS, Express and MongoDB</li>
+  <li>HTML5, CSS3, JavaScript, Node.js, Express and MongoDB</li>
   <li>AJAX and APIs</li>
   <li>HTTPS and Security</li>
 </ul>
@@ -133,7 +133,7 @@ _<span class="course-focus">Course focus</span>:_
   <li>Flexbox and CSS Grid</li>
 </ul>
 
-**Bachelor of Science** - Biochemistry - 2.1 Honours (3.5 GPA)<br>
+**<span class="degree">Bachelor of Science</span>**<span class="degree-course"> - Biochemistry - 2.1 Honours (3.5 GPA)</span><br>
 [National University of Ireland, Galway](https://www.nuigalway.ie/) - Galway, Ireland _(2010 - 2014)_
 
 **📚 <span class="textbooks-read">Textbooks Read</span>:**
