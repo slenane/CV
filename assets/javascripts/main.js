@@ -47,85 +47,84 @@ const language = {
     education: [
       {
         dates: 'Mar 2021 - Present',
-        'course-focus': [
-          'Create a Content Management System',
-          'Security in PHP',
-          'Object-Oriented Programming',
-        ],
+        'course-focus': `
+          <li>Create a Content Management System</li>
+          <li>Security in PHP</li>
+          <li>Object-Oriented Programming</li>
+        `,
       },
       {
         dates: 'Dec 2021 - Present',
-        'course-focus': [
-          'Hooks, Redux, and React Routing',
-          'Animations',
-          'Next.js',
-        ],
+        'course-focus': `
+          <li>Hooks, Redux, and React Routing</li>
+          <li>Animations</li>
+          <li>Next.js</li>
+        `,
       },
       {
         dates: 'Jan 2022 - Mar 2022',
-        'course-focus': [
-          'Digital Marketing Technologies and Practice',
-          'Creative Methods for Social Media Marketing',
-          'Social Media Marketing Management',
-          'European and International Digital Media',
-          'Digital Entrepreneurship',
-        ],
+        'course-focus': `
+          <li>Digital Marketing Technologies and Practice</li>
+          <li>Creative Methods for Social Media Marketing</li>
+          <li>Social Media Marketing Management</li>
+          <li>European and International Digital Media</li>
+        `,
       },
       {
         dates: 'Jun 2021 - Oct 2021',
-        'course-focus': [
-          'Building fast and scalable server-side web applications with NodeJS',
-          'REST APIs and GraphQL APIs',
-          'Using databases like MongoDB and SQL',
-        ],
+        'course-focus': `
+          <li>Build fast and scalable server-side web applications with Node.js</li>
+          <li>REST APIs and GraphQL APIs</li>
+          <li>Using databases like MongoDB and SQL</li>
+        `,
       },
       {
         dates: 'Feb 2021 - Jun 2021',
-        'course-focus': [
-          'C, Python and JavaScript languages',
-          'Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development',
-          'How to think algorithmically and solve problems efficiently',
-        ],
+        'course-focus': `
+          <li>C, Python and JavaScript languages</li>
+          <li>Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development</li>
+          <li>How to think algorithmically and solve problems efficiently</li>
+        `,
       },
       {
         dates: 'Jun 2020 - Sep 2020',
-        'course-focus': [
-          'Fundamentals of modern JavaScript',
-          'Object-Oriented programming',
-          'Asynchronous JavaScript',
-        ],
+        'course-focus': `
+          <li>Fundamentals of modern JavaScript</li>
+          <li>Object-Oriented programming</li>
+          <li>Asynchronous JavaScript</li>
+        `,
       },
       {
         dates: 'Jul 2020 - Aug 2020',
-        'course-focus': [
-          'Fundamentals of JavaScript including variables, arrays, objects, loops, and functions',
-          'Creating algorithms to manipulate strings, factorialize numbers, and calculate the orbit of the International Space Station',
-          'Object-Oriented and Functional Programming',
-        ],
+        'course-focus': `
+          <li>Fundamentals of JavaScript including variables, arrays, objects, loops, and functions</li>
+          <li>Create algorithms to manipulate strings, factorialize numbers, and calculate the orbit of the International Space Station</li>
+          <li>Object-Oriented and Functional Programming</li>
+        `,
       },
       {
         dates: 'Jun 2020 - Jul 2020',
-        'course-focus': [
-          'Build 30 JavaScript projects in 30 days',
-          'DOM manipulation',
-          'Event Capture, Propagation, Bubbling and Once',
-        ],
+        'course-focus': `
+          <li>Build 30 JavaScript projects in 30 days</li>
+          <li>DOM manipulation</li>
+          <li>Event capture, propagation, bubbling and once</li>
+        `,
       },
       {
         dates: 'Feb 2020 - Jun 2020',
-        'course-focus': [
-          'Create full-stack web applications',
-          'HTML5, CSS3, JavaScript, NodeJS, Express and MongoDB',
-          'AJAX and APIs',
-          'HTTPS and Security',
-        ],
+        'course-focus': `
+          <li>Create full-stack web applications</li>
+          <li>HTML5, CSS3, JavaScript, Node.js, Express and MongoDB</li>
+          <li>AJAX and APIs</li>
+          <li>HTTPS and Security</li>
+        `,
       },
       {
         dates: 'Dec 2019 - Jan 2020',
-        'course-focus': [
-          'Build webpages with HTML and CSS',
-          'Flexbox and CSS Grid',
-        ],
+        'course-focus': `
+          <li>Build webpages with HTML and CSS</li>
+          <li>Flexbox and CSS Grid</li>
+        `,
       },
     ],
     'course-focus-header': 'Course focus',
@@ -178,85 +177,84 @@ const language = {
     education: [
       {
         dates: 'Mar 2021 - Presente',
-        'course-focus': [
-          'Crear un Sistema de Gestión de Contenidos (Content Management System, CMS)',
-          'Seguridad en PHP',
-          'Programación Orientada a Objetos',
-        ],
+        'course-focus': `
+          <li>Crear un Sistema de Gestión de Contenidos (Content Management System, CMS)</li>
+          <li>Seguridad en PHP</li>
+          <li>Programación Orientada a Objetos</li>
+        `,
       },
       {
         dates: 'Dic 2021 - Presente',
-        'course-focus': [
-          'Hooks, Redux, y React Routing',
-          'Animaciones',
-          'Next.js',
-        ],
+        'course-focus': `
+          <li>Hooks, Redux, y React Routing</li>
+          <li>Animaciones</li>
+          <li>Next.js</li>
+        `,
       },
       {
         dates: 'Ene 2022 - Mar 2022',
-        'course-focus': [
-          'Tecnologías y práctica del Marketing Digital',
-          'Métodos Creativos para el Marketing en Redes Sociales',
-          'Gestión de Marketing en Redes Sociales',
-          'Medios Digitales Europeos e Internacionales',
-          'Emprendimiento Digital',
-        ],
+        'course-focus': `
+          <li>Tecnologías y práctica del Marketing Digital</li>
+          <li>Métodos Creativos para el Marketing en Redes Sociales</li>
+          <li>Gestión de Marketing en Redes Sociales</li>
+          <li>Medios Digitales Europeos e Internacionales</li>
+        `,
       },
       {
         dates: 'Jun 2021 - Oct 2021',
-        'course-focus': [
-          'Creación de aplicaciones web del lado del servidor rápidas y escalables con NodeJS',
-          'APIs REST y APIs GraphQL',
-          'Uso de bases de datos como MongoDB y SQL',
-        ],
+        'course-focus': `
+          <li>Creación de aplicaciones web del lado del servidor rápidas y escalables con Node.js</li>
+          <li>APIs REST y APIs GraphQL</li>
+          <li>Uso de bases de datos como MongoDB y SQL</li>
+        `,
       },
       {
         dates: 'Feb 2021 - Jun 2021',
-        'course-focus': [
-          'Lenguajes C, Python y JavaScript',
-          'Los temas incluían la abstracción, los algoritmos, las estructuras de datos, la encapsulación, la gestión de recursos, la seguridad, la ingeniería de software y el desarrollo web.',
-          'Cómo pensar de forma algorítmica y resolver problemas de forma eficaz',
-        ],
+        'course-focus': `
+          <li>Lenguajes C, Python y JavaScript</li>
+          <li>Los temas incluían la abstracción, los algoritmos, las estructuras de datos, la encapsulación, la gestión de recursos, la seguridad, la ingeniería de software y el desarrollo web</li>
+          <li>Cómo pensar de forma algorítmica y resolver problemas de forma eficaz</li>
+        `,
       },
       {
         dates: 'Jun 2020 - Sep 2020',
-        'course-focus': [
-          'Fundamentos del JavaScript moderno',
-          'Programación Orientada a Objetos',
-          'JavaScript Asíncrono',
-        ],
+        'course-focus': `
+          <li>Fundamentos del JavaScript moderno</li>
+          <li>Programación Orientada a Objetos</li>
+          <li>JavaScript Asíncrono</li>
+        `,
       },
       {
         dates: 'Jul 2020 - Ago 2020',
-        'course-focus': [
-          'Fundamentos de JavaScript, incluyendo variables, matrices, objetos, bucles y funciones',
-          'Crear algoritmos para manipular cadenas, factorizar números y calcular la órbita de la Estación Espacial Internacional',
-          'Programación Orientada a Objetos y Programación Funcional',
-        ],
+        'course-focus': `
+          <li>Fundamentos de JavaScript, incluyendo variables, matrices, objetos, bucles y funciones</li>
+          <li>Crear algoritmos para manipular cadenas, factorizar números y calcular la órbita de la Estación Espacial Internacional</li>
+          <li>Programación Orientada a Objetos y Programación Funcional</li>
+        `,
       },
       {
         dates: 'Jun 2020 - Jul 2020',
-        'course-focus': [
-          'Construya 30 proyectos de JavaScript en 30 días',
-          'Manipulación del DOM',
-          'Captura de eventos, propagación, burbujeo y once',
-        ],
+        'course-focus': `
+          <li>Construya 30 proyectos de JavaScript en 30 días</li>
+          <li>Manipulación del DOM</li>
+          <li>Captura de eventos, propagación, burbujeo y once</li>
+        `,
       },
       {
         dates: 'Feb 2020 - Jun 2020',
-        'course-focus': [
-          'Crear aplicaciones web full-stack',
-          'HTML5, CSS3, JavaScript, NodeJS, Express y MongoDB',
-          'AJAX y APIs',
-          'HTTPS y Seguridad',
-        ],
+        'course-focus': `
+          <li>Crear aplicaciones web full-stack</li>
+          <li>HTML5, CSS3, JavaScript, Node.js, Express y MongoDB</li>
+          <li>AJAX y APIs</li>
+          <li>HTTPS y Seguridad</li>
+        `,
       },
       {
         dates: 'Dic 2019 - Ene 2020',
-        'course-focus': [
-          'Construir páginas web con HTML y CSS',
-          'Flexbox y CSS Grid',
-        ],
+        'course-focus': `
+          <li>Construir páginas web con HTML y CSS</li>
+          <li>Flexbox y CSS Grid</li>
+        `,
       },
     ],
     'course-focus-header': 'Enfoque del curso',
@@ -309,85 +307,84 @@ const language = {
     education: [
       {
         dates: 'Mar 2021 - Presente',
-        'course-focus': [
-          'Criar um Sistema de Gestão de Conteúdos (Content Management System, CMS)',
-          'Segurança em PHP',
-          'Programação Orientada a Objectos',
-        ],
+        'course-focus': `
+          <li>Criar um Sistema de Gestão de Conteúdos (Content Management System, CMS)</li>
+          <li>Segurança em PHP</li>
+          <li>Programação Orientada a Objectos</li>
+        `,
       },
       {
         dates: 'Dez 2021 - Presente',
-        'course-focus': [
-          'Hooks, Redux, e React Routing',
-          'Animações',
-          'Next.js',
-        ],
+        'course-focus': `
+          <li>Hooks, Redux, e React Routing</li>
+          <li>Animações</li>
+          <li>Next.js</li>
+        `,
       },
       {
         dates: 'Jan 2022 - Mar 2022',
-        'course-focus': [
-          'Tecnologias e Práticas de Marketing Digital',
-          'Métodos Criativos para o Marketing Social Media',
-          'Gestão de Marketing nas Mídias Sociais',
-          'Meios de Comunicação Digitais Europeus e Internacionais',
-          'Empreendedorismo Digital',
-        ],
+        'course-focus': `
+          <li>Tecnologias e Práticas de Marketing Digital</li>
+          <li>Métodos Criativos para o Marketing Social Media</li>
+          <li>Gestão de Marketing nas Mídias Sociais</li>
+          <li>Meios de Comunicação Digitais Europeus e Internacionais</li>
+        `,
       },
       {
         dates: 'Jun 2021 - Out 2021',
-        'course-focus': [
-          'Construção rápida e escalável de aplicações web do lado do servidor com NodeJS',
-          'APIs REST e APIs GraphQL',
-          'Utilização de bases de dados como MongoDB e SQL',
-        ],
+        'course-focus': `
+          <li>Construção rápida e escalável de aplicações web do lado do servidor com Node.js</li>
+          <li>APIs REST e APIs GraphQL</li>
+          <li>Utilização de bases de dados como MongoDB e SQL</li>
+        `,
       },
       {
         dates: 'Fev 2021 - Jun 2021',
-        'course-focus': [
-          'Linguagens C, Python e JavaScript',
-          'Os tópicos incluíram abstracção, algoritmos, estruturas de dados, encapsulamento, gestão de recursos, segurança, engenharia de software, e desenvolvimento web',
-          'Como pensar algorítmicamente e resolver problemas de forma eficiente',
-        ],
+        'course-focus': `
+          <li>Linguagens C, Python e JavaScript</li>
+          <li>Os tópicos incluíram abstracção, algoritmos, estruturas de dados, encapsulamento, gestão de recursos, segurança, engenharia de software, e desenvolvimento web</li>
+          <li>Como pensar algorítmicamente e resolver problemas de forma eficiente</li>
+        `,
       },
       {
         dates: 'Jun 2020 - Set 2020',
-        'course-focus': [
-          'Fundamentos do Javascript moderno',
-          'Programación Orientada a Objetos',
-          'JavaScript Assíncrono',
-        ],
+        'course-focus': `
+          <li>Fundamentos do Javascript moderno</li>
+          <li>Programação Orientada a Objectos</li>
+          <li>JavaScript Assíncrono</li>
+        `,
       },
       {
         dates: 'Jul 2020 - Ago 2020',
-        'course-focus': [
-          'Fundamentos do JavaScript incluindo variáveis, matrizes, objectos, loops, e funções',
-          'Criação de algoritmos para manipular cordas, factorializar números, e calcular a órbita da Estação Espacial Internacional',
-          'Programação Orientada a Objectos e Programação Funcional',
-        ],
+        'course-focus': `
+          <li>Fundamentos do JavaScript incluindo variáveis, matrizes, objectos, loops, e funções</li>
+          <li>Criação de algoritmos para manipular cordas, factorializar números, e calcular a órbita da Estação Espacial Internacional</li>
+          <li>Programação Orientada a Objectos e Programação Funcional</li>
+        `,
       },
       {
         dates: 'Jun 2020 - Jul 2020',
-        'course-focus': [
-          'Construir 30 projectos JavaScript em 30 dias',
-          'Manipulação DOM',
-          'Captura de Eventos, Propagação, Borbulhamento e Once',
-        ],
+        'course-focus': `
+          <li>Construir 30 projectos JavaScript em 30 dias</li>
+          <li>Manipulação DOM</li>
+          <li>Captura de eventos, propagação, borbulhamento e once</li>
+        `,
       },
       {
         dates: 'Fev 2020 - Jun 2020',
-        'course-focus': [
-          'Criar aplicações full-stack',
-          'HTML5, CSS3, JavaScript, NodeJS, Express e MongoDB',
-          'AJAX e APIs',
-          'HTTPS e Segurança',
-        ],
+        'course-focus': `
+          <li>Criar aplicações full-stack</li>
+          <li>HTML5, CSS3, JavaScript, Node.js, Express e MongoDB</li>
+          <li>AJAX e APIs</li>
+          <li>HTTPS e Segurança</li>
+        `,
       },
       {
         dates: 'Dez 2019 - Jan 2020',
-        'course-focus': [
-          'Construir páginas web com HTML e CSS',
-          'Flexbox e CSS Grid',
-        ],
+        'course-focus': `
+          <li>Construir páginas web com HTML e CSS</li>
+          <li>Flexbox e CSS Grid</li>
+        `,
       },
     ],
     'course-focus-header': 'Enfoque do curso',
@@ -464,9 +461,7 @@ const updateLanguage = (lang) => {
     employmentDates[i].textContent = current.experience[i]['employment-dates'];
     employmentDescriptions[i].innerHTML =
       current.experience[i]['employment-description'];
-    if (keyProjects[i] && current.experience[i]['key-projects']) {
-      keyProjects[i].innerHTML = current.experience[i]['key-projects'];
-    }
+    keyProjects[i].innerHTML = current.experience[i]['key-projects'];
   }
   for (let i = 0; i < languageName.length; i++) {
     languageName[i].textContent = current.languages[i][0];
@@ -475,14 +470,8 @@ const updateLanguage = (lang) => {
   for (let i = 0; i < courseDates.length; i++) {
     courseDates[i].textContent = current.education[i].dates;
   }
-  // Iterate through fields and assign to the correct div in the UI without need for additional separation
-  let count = 0;
-  for (let i = 0; i < current.education.length; i++) {
-    let description = current.education[i]['course-focus'];
-    for (let j = 0; j < description.length; j++) {
-      courseDescription[count].textContent = description[j];
-      count++;
-    }
+  for (let i = 0; i < courseDescription.length; i++) {
+    courseDescription[i].innerHTML = current.education[i]['course-focus'];
   }
 };
 
