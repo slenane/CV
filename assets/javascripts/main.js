@@ -8,6 +8,7 @@ const language = {
     'view-on-github': 'View GitHub Repository',
     host: 'Hosted on GitHub Pages — Theme by',
     headers: ['Techical Experience', 'Languages', 'Education'],
+    lisbon: 'Lisbon',
     experience: [
       {
         position: 'Web Developer',
@@ -127,6 +128,8 @@ const language = {
         `,
       },
     ],
+    degree: 'Bachelor of Science',
+    course: ' - Biochemistry - 2.1 Honours (3.5 GPA)',
     'course-focus-header': 'Course focus',
     'textbooks-read': 'Textbooks read',
   },
@@ -138,6 +141,7 @@ const language = {
     'view-on-github': 'Ver Repositorio GitHub',
     host: 'Alojado en GitHub Pages — Tema por',
     headers: ['Experiencia Técnica', 'Idiomas', 'Educación'],
+    lisbon: 'Lisboa',
     experience: [
       {
         position: 'Desarrollador Web',
@@ -257,6 +261,8 @@ const language = {
         `,
       },
     ],
+    degree: 'Licenciado en Ciencias',
+    course: ' - Bioquímica - 2.1 Honores (3.5 GPA)',
     'course-focus-header': 'Enfoque del curso',
     'textbooks-read': 'Libros de texto leídos',
   },
@@ -268,6 +274,7 @@ const language = {
     'view-on-github': 'Ver Repositório GitHub',
     host: 'Alojado nas Páginas GitHub — Tema por',
     headers: ['Experiência Técnica', 'Línguas', 'Educação'],
+    lisbon: 'Lisboa',
     experience: [
       {
         position: 'Desenvolvedor Web',
@@ -387,6 +394,8 @@ const language = {
         `,
       },
     ],
+    degree: 'Bacharelato em Ciências',
+    course: ' - Bioquímica - 2.1 Honras (3.5 GPA)',
     'course-focus-header': 'Enfoque do curso',
     'textbooks-read': 'Livros de texto lidos',
   },
@@ -399,12 +408,15 @@ const portugueseBtn = document.querySelector('.lang-por');
 
 // Content to be updated on language change
 let bio = document.querySelector('.bio');
+let lisbon = document.querySelector('.lisbon');
 let linkHeader = document.querySelector('.link-header');
 let website = document.querySelector('.website');
 let languageSwitch = document.querySelector('.switch-language');
 let viewOnGithub = document.querySelector('.view-on-github');
 let host = document.querySelector('.host');
 let textbooksRead = document.querySelector('.textbooks-read');
+let degree = document.querySelector('.degree');
+let degreeCourse = document.querySelector('.degree-course');
 let and = document.querySelectorAll('.and');
 let headers = document.querySelectorAll('.header');
 let positions = document.querySelectorAll('.position');
@@ -432,12 +444,15 @@ const updateLanguage = (lang) => {
   console.log(current);
   // Update the content
   bio.textContent = current.bio;
+  lisbon.textContent = current.lisbon;
   linkHeader.textContent = current['link-header'];
   website.textContent = current.website;
   languageSwitch.textContent = current['language-switcher'];
   viewOnGithub.textContent = current['view-on-github'];
   host.textContent = current.host;
   textbooksRead.textContent = current['textbooks-read'];
+  degree.textContent = current.degree;
+  degreeCourse.textContent = current.course;
   // Use forEach for repeated content
   and.forEach((i) => (i.textContent = current.and));
   technologyUsed.forEach(
