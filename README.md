@@ -4,9 +4,9 @@
 
 <ul class="employment-description">
   <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization</li>
-  <li>Worked closely with the design team to develop sites that meet all functional requirements and an engaging UX</li>
+  <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX</li>
   <li>Provided analysis of competitor websites to implement new features on the GoContact website</li>
-  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve user experience and functionality</li>
+  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality</li>
 </ul>
 
 **_<span class="key-projects-header">Key projects</span>:_** <br>
