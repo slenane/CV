@@ -33,17 +33,21 @@
 **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, <span class="and">and</span> GIMP.
 <br><br>
 
-## 💬 <span class="header">Languages</span>
+## 🛠️ <span class="header">Skills and Languages</span>
 
-<img class="language-flag" src="./assets/img/ireland.png"> **<span class="language-name">English</span>**: <span class="language-level">Native</span> <br>
-<img class="language-flag" src="./assets/img/spain.png"> **<span class="language-name">Spanish</span>**: <span class="language-level">C1 (advanced)</span> <br>
-<img class="language-flag" src="./assets/img/portugal.png"> **<span class="language-name">Portuguese</span>**: <span class="language-level">A2 (beginner)</span>
+<div class="skills-grid">
+  <img class="skill-icon" src="./assets/img/javascript.png"> **<span class="skill-name">JavaScript</span>**
+  <img class="skill-icon" src="./assets/img/nodejs.png"> **<span class="skill-name">Node.js</span>**
+  <img class="skill-icon" src="./assets/img/html5.png"> **<span class="skill-name">HTML</span>**
+  <img class="skill-icon" src="./assets/img/css3.png"> **<span class="skill-name">CSS</span>**
+  <img class="language-flag" src="./assets/img/spain.png"> **<span class="language-name">Spanish</span>**: <span class="language-level">C1 (Advanced)</span>
+  <img class="language-flag" src="./assets/img/portugal.png"> **<span class="language-name">Portuguese</span>**: <span class="language-level">A2 (Beginner)</span>
+</div>
 <br><br>
 
 ## 👨‍🎓 <span class="header">Education</span>
 
-**PHP - Become a PHP Master - CMS Project** - [Udemy](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/) - Remote _(<span class="course-dates">Mar 2021 - Present</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_
+**PHP - Become a PHP Master - CMS Project** - [Udemy](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/) - <span class="remote">Remote</span> _(<span class="course-dates">Mar 2021 - Present</span>)_ <br>
 
 <ul class="course-description">
   <li>Create a Content Management System</li>
@@ -51,8 +55,7 @@ _<span class="course-focus">Course focus</span>:_
   <li>Object-Oriented Programming</li>
 </ul>
 
-**React - The Complete Guide** - [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - Remote _(<span class="course-dates">Dec 2021 - Present</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_
+**React - The Complete Guide** - [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - <span class="remote">Remote<span> _(<span class="course-dates">Dec 2021 - Present</span>)_ <br>
 
 <ul class="course-description">
   <li>Hooks, Redux, and React Routing</li>
@@ -60,8 +63,7 @@ _<span class="course-focus">Course focus</span>:_
   <li>Next.js</li>
 </ul>
 
-**Diploma in European Digital Marketing and Entrepreneurship** - [Capacity Ireland](http://www.capacityireland.ie/digital-marketing) - Remote _(<span class="course-dates">Jan 2022 - Mar 2022</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_
+**Diploma in European Digital Marketing and Entrepreneurship** - [Capacity Ireland](http://www.capacityireland.ie/digital-marketing) - <span class="remote">Remote</span> _(<span class="course-dates">Jan 2022 - Mar 2022</span>)_ <br>
 
 <ul class="course-description">
   <li>Digital Marketing Technologies and Practice</li>
@@ -70,8 +72,7 @@ _<span class="course-focus">Course focus</span>:_
   <li>European and International Digital Media</li>
 </ul>
 
-**NodeJS - The Complete Guide** - [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - Remote _(<span class="course-dates">Jun 2021 - Oct 2021</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_
+**NodeJS - The Complete Guide** - [Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) - <span class="remote">Remote</span> _(<span class="course-dates">Jun 2021 - Oct 2021</span>)_ <br>
 
 <ul class="course-description">
   <li>Build fast and scalable server-side web applications with Node.js</li>
@@ -79,8 +80,7 @@ _<span class="course-focus">Course focus</span>:_
   <li>Using databases like MongoDB and SQL</li>
 </ul>
 
-**CS50 - Harvard University's Introduction to Computer Science** - [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Remote _(<span class="course-dates">Feb 2021 - Jun 2021</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_
+**CS50 - Harvard University's Introduction to Computer Science** - [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - <span class="remote">Remote</span> _(<span class="course-dates">Feb 2021 - Jun 2021</span>)_ <br>
 
 <ul class="course-description">
   <li>C, Python and JavaScript languages</li>
@@ -88,8 +88,7 @@ _<span class="course-focus">Course focus</span>:_
   <li>How to think algorithmically and solve problems efficiently</li>
 </ul>
 
-**The Complete Javascript Course** - [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Remote _(<span class="course-dates">Jun 2020 - Sep 2020</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_
+**The Complete Javascript Course** - [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - <span class="remote">Remote</span> _(<span class="course-dates">Jun 2020 - Sep 2020</span>)_ <br>
 
 <ul class="course-description">
   <li>Fundamentals of modern JavaScript</li>
@@ -97,8 +96,7 @@ _<span class="course-focus">Course focus</span>:_
   <li>Asynchronous JavaScript</li>
 </ul>
 
-**JavaScript Algorithms and Data Structures** - [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - Remote _(<span class="course-dates">Jul 2020 - Aug 2020</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_
+**JavaScript Algorithms and Data Structures** - [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - <span class="remote">Remote</span> _(<span class="course-dates">Jul 2020 - Aug 2020</span>)_ <br>
 
 <ul class="course-description">
   <li>Fundamentals of JavaScript including variables, arrays, objects, loops, and functions</li>
@@ -106,27 +104,24 @@ _<span class="course-focus">Course focus</span>:_
   <li>Object-Oriented and Functional Programming</li>
 </ul>
 
-**JavaScript30 - 30 Day Vanilla JS Coding Challenge** - [JavaScript30](https://javascript30.com/) - Remote _(<span class="course-dates">Jun 2020 - Jul 2020</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_
+**JavaScript30 - 30 Day Vanilla JS Coding Challenge** - [JavaScript30](https://javascript30.com/) - <span class="remote">Remote</span> _(<span class="course-dates">Jun 2020 - Jul 2020</span>)_ <br>
 
 <ul class="course-description">
   <li>Build 30 JavaScript projects in 30 days</li>
   <li>DOM manipulation</li>
-  <li>Event capture, propagation, bubbling and once</li>
+  <li>Event capture, propagation, bubbling, and once</li>
 </ul>
 
-**The Web Developer Bootcamp** - [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - Remote _(<span class="course-dates">Feb 2020 - Jun 2020</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_
+**The Web Developer Bootcamp** - [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - <span class="remote">Remote</span> _(<span class="course-dates">Feb 2020 - Jun 2020</span>)_ <br>
 
 <ul class="course-description">
   <li>Create full-stack web applications</li>
-  <li>HTML5, CSS3, JavaScript, Node.js, Express and MongoDB</li>
+  <li>HTML5, CSS3, JavaScript, Node.js, Express, and MongoDB</li>
   <li>AJAX and APIs</li>
   <li>HTTPS and Security</li>
 </ul>
 
-**Responsive Web Design** - [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Remote _(<span class="course-dates">Dec 2019 - Jan 2020</span>)_ <br>
-_<span class="course-focus">Course focus</span>:_
+**Responsive Web Design** - [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - <span class="remote">Remote</span> _(<span class="course-dates">Dec 2019 - Jan 2020</span>)_ <br>
 
 <ul class="course-description">
   <li>Build webpages with HTML and CSS</li>

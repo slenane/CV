@@ -1,13 +1,13 @@
 // CV translations
 const language = {
   english: {
-    bio: 'Freelance full-stack software developer based in Lisbon, Portugal',
+    bio: 'Front-end developer from Ireland based in Lisbon, Portugal',
     'link-header': 'Get in touch',
     website: 'Website',
     'language-switcher': 'Switch language',
     'view-on-github': 'View GitHub Repository',
     host: 'Hosted on GitHub Pages — Theme by',
-    headers: ['Techical Experience', 'Languages', 'Education'],
+    headers: ['Technical Experience', 'Languages', 'Education'],
     lisbon: 'Lisbon',
     experience: [
       {
@@ -42,8 +42,8 @@ const language = {
     and: 'and',
     languages: [
       ['English', 'Native'],
-      ['Spanish', 'C1 (advanced)'],
-      ['Portuguese', 'A2 (beginner)'],
+      ['Spanish', 'C1 (Advanced)'],
+      ['Portuguese', 'A2 (Beginner)'],
     ],
     education: [
       {
@@ -108,14 +108,14 @@ const language = {
         'course-focus': `
           <li>Build 30 JavaScript projects in 30 days</li>
           <li>DOM manipulation</li>
-          <li>Event capture, propagation, bubbling and once</li>
+          <li>Event capture, propagation, bubbling, and once</li>
         `,
       },
       {
         dates: 'Feb 2020 - Jun 2020',
         'course-focus': `
           <li>Create full-stack web applications</li>
-          <li>HTML5, CSS3, JavaScript, Node.js, Express and MongoDB</li>
+          <li>HTML5, CSS3, JavaScript, Node.js, Express, and MongoDB</li>
           <li>AJAX and APIs</li>
           <li>HTTPS and Security</li>
         `,
@@ -128,13 +128,13 @@ const language = {
         `,
       },
     ],
+    remote: 'Remote',
     degree: 'Bachelor of Science',
     course: ' - Biochemistry - 2.1 Honours (3.5 GPA)',
-    'course-focus-header': 'Course focus',
-    'textbooks-read': 'Textbooks read',
+    'textbooks-read': 'Textbooks Read',
   },
   spanish: {
-    bio: 'Desarrollador de software full-stack freelance con base en Lisboa, Portugal',
+    bio: 'Desarrollador Front-end de Irlanda con base en Lisboa, Portugal',
     'link-header': 'Póngase en contacto',
     website: 'Sitio web',
     'language-switcher': 'Cambiar de idioma',
@@ -175,8 +175,8 @@ const language = {
     and: 'y',
     languages: [
       ['Inglés', 'Nativo'],
-      ['Español', 'C1 (avanzado)'],
-      ['Portugués', 'A2 (principiante)'],
+      ['Español', 'C1 (Avanzado)'],
+      ['Portugués', 'A2 (Principiante)'],
     ],
     education: [
       {
@@ -216,7 +216,7 @@ const language = {
         dates: 'Feb 2021 - Jun 2021',
         'course-focus': `
           <li>Lenguajes C, Python y JavaScript</li>
-          <li>Los temas incluían la abstracción, los algoritmos, las estructuras de datos, la encapsulación, la gestión de recursos, la seguridad, la ingeniería de software y el desarrollo web</li>
+          <li>Los temas incluían la abstracción, los algoritmos, las estructuras de datos, la encapsulación, la gestión de recursos, la seguridad, la ingeniería de software, y el desarrollo web</li>
           <li>Cómo pensar de forma algorítmica y resolver problemas de forma eficaz</li>
         `,
       },
@@ -232,7 +232,7 @@ const language = {
         dates: 'Jul 2020 - Ago 2020',
         'course-focus': `
           <li>Fundamentos de JavaScript, incluyendo variables, matrices, objetos, bucles y funciones</li>
-          <li>Crear algoritmos para manipular cadenas, factorizar números y calcular la órbita de la Estación Espacial Internacional</li>
+          <li>Crear algoritmos para manipular cadenas, factorizar números, y calcular la órbita de la Estación Espacial Internacional</li>
           <li>Programación Orientada a Objetos y Programación Funcional</li>
         `,
       },
@@ -241,14 +241,14 @@ const language = {
         'course-focus': `
           <li>Construya 30 proyectos de JavaScript en 30 días</li>
           <li>Manipulación del DOM</li>
-          <li>Captura de eventos, propagación, burbujeo y once</li>
+          <li>Captura de eventos, propagación, burbujeo, y once</li>
         `,
       },
       {
         dates: 'Feb 2020 - Jun 2020',
         'course-focus': `
           <li>Crear aplicaciones web full-stack</li>
-          <li>HTML5, CSS3, JavaScript, Node.js, Express y MongoDB</li>
+          <li>HTML5, CSS3, JavaScript, Node.js, Express, y MongoDB</li>
           <li>AJAX y APIs</li>
           <li>HTTPS y Seguridad</li>
         `,
@@ -261,13 +261,13 @@ const language = {
         `,
       },
     ],
+    remote: 'A Distancia',
     degree: 'Licenciado en Ciencias',
     course: ' - Bioquímica - 2.1 Honores (3.5 GPA)',
-    'course-focus-header': 'Enfoque del curso',
-    'textbooks-read': 'Libros de texto leídos',
+    'textbooks-read': 'Libros de Texto Leídos',
   },
   portuguese: {
-    bio: 'Programador de software freelance baseado em Lisboa, Portugal',
+    bio: 'Desenvolvedor Front-end da Irlanda baseado em Lisboa, Portugal',
     'link-header': 'Entre em contacto',
     website: 'Sítio Web',
     'language-switcher': 'Mudar de língua',
@@ -308,8 +308,8 @@ const language = {
     and: 'e',
     languages: [
       ['Inglês', 'Nativo'],
-      ['Espanhol', 'C1 (avançado)'],
-      ['Português', 'A2 (principiante)'],
+      ['Espanhol', 'C1 (Avançado)'],
+      ['Português', 'A2 (Principiante)'],
     ],
     education: [
       {
@@ -374,14 +374,14 @@ const language = {
         'course-focus': `
           <li>Construir 30 projectos JavaScript em 30 dias</li>
           <li>Manipulação DOM</li>
-          <li>Captura de eventos, propagação, borbulhamento e once</li>
+          <li>Captura de eventos, propagação, borbulhamento, e once</li>
         `,
       },
       {
         dates: 'Fev 2020 - Jun 2020',
         'course-focus': `
           <li>Criar aplicações full-stack</li>
-          <li>HTML5, CSS3, JavaScript, Node.js, Express e MongoDB</li>
+          <li>HTML5, CSS3, JavaScript, Node.js, Express, e MongoDB</li>
           <li>AJAX e APIs</li>
           <li>HTTPS e Segurança</li>
         `,
@@ -394,10 +394,10 @@ const language = {
         `,
       },
     ],
+    remote: 'À Distância',
     degree: 'Bacharelato em Ciências',
     course: ' - Bioquímica - 2.1 Honras (3.5 GPA)',
-    'course-focus-header': 'Enfoque do curso',
-    'textbooks-read': 'Livros de texto lidos',
+    'textbooks-read': 'Livros de Texto Lidos',
   },
 };
 
@@ -430,9 +430,9 @@ let keyProjectHeader = document.querySelectorAll('.key-project-header');
 let technologyUsed = document.querySelectorAll('.technology-used');
 let languageName = document.querySelectorAll('.language-name');
 let languageLevel = document.querySelectorAll('.language-level');
-let courseFocus = document.querySelectorAll('.course-focus');
 let courseDates = document.querySelectorAll('.course-dates');
 let courseDescription = document.querySelectorAll('.course-description');
+let remote = document.querySelectorAll('.remote');
 
 // Update the currently displayed language
 const updateLanguage = (lang) => {
@@ -454,12 +454,10 @@ const updateLanguage = (lang) => {
   degree.textContent = current.degree;
   degreeCourse.textContent = current.course;
   // Use forEach for repeated content
-  and.forEach((i) => (i.textContent = current.and));
+  and.forEach((item) => (item.textContent = current.and));
+  remote.forEach((item) => (item.textContent = current.remote));
   technologyUsed.forEach(
     (tech) => (tech.textContent = current['technology-used'])
-  );
-  courseFocus.forEach(
-    (course) => (course.textContent = current['course-focus-header'])
   );
   keyProjectsHeader.forEach(
     (header) => (header.textContent = current['key-projects-header'])
