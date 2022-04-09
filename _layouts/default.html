@@ -33,30 +33,37 @@
         margin: 0 25% 1rem;
       }
 
-      .skills-grid {
-        display: grid;
-        grid-template-columns: repeat(4, auto);
-      }
-
       a img,
-      .language-flag,
-      .skill-icon {
+      .language-flag {
         width: 30px;
         margin-right: 5px;
         margin-bottom: 5px;
       }
 
-      .skill-name,
-      .language-name,
-      .language-level {
+      .skills-grid {
+        display: grid;
+        grid-template-columns: repeat(4, auto);
+        margin-top: 25px;
+        align-items: center;
+        gap: 20px 0;
+      }
+
+      .skill-item {
+        text-align: center;
+      }
+
+      .skill-icon {
+        width: 45px;
+      }
+
+      .skill-name {
         display: block;
+        font-size: 0.8rem;
       }
 
-      .language-flag {
-        vertical-align: middle;
+      .skill-level {
+        font-size: 0.7rem;
       }
-
-
 
       @media (max-width: 700px) {
         h1 {
