@@ -36,12 +36,24 @@
 ## 🛠️ <span class="header">Skills and Languages</span>
 
 <div class="skills-grid">
-  <img class="skill-icon" src="./assets/img/javascript.png"> **<span class="skill-name">JavaScript</span>**
-  <img class="skill-icon" src="./assets/img/nodejs.png"> **<span class="skill-name">Node.js</span>**
-  <img class="skill-icon" src="./assets/img/html5.png"> **<span class="skill-name">HTML</span>**
-  <img class="skill-icon" src="./assets/img/css3.png"> **<span class="skill-name">CSS</span>**
-  <img class="language-flag" src="./assets/img/spain.png"> **<span class="language-name">Spanish</span>**: <span class="language-level">C1 (Advanced)</span>
-  <img class="language-flag" src="./assets/img/portugal.png"> **<span class="language-name">Portuguese</span>**: <span class="language-level">A2 (Beginner)</span>
+  <div>
+    <img class="skill-icon" src="./assets/img/javascript.png"> **<span class="skill-name">JavaScript</span>**
+  </div>
+  <div>
+    <img class="skill-icon" src="./assets/img/nodejs.png"> **<span class="skill-name">Node.js</span>**
+  </div>
+  <div>
+    <img class="skill-icon" src="./assets/img/html5.png"> **<span class="skill-name">HTML</span>**
+  </div>
+  <div>
+    <img class="skill-icon" src="./assets/img/css3.png"> **<span class="skill-name">CSS</span>**
+  </div>
+  <div>
+    <img class="language-flag" src="./assets/img/spain.png"> **<span class="language-name">Spanish</span>**: <span class="language-level">C1 (Advanced)</span>
+  </div>
+  <div>
+    <img class="language-flag" src="./assets/img/portugal.png"> **<span class="language-name">Portuguese</span>**: <span class="language-level">A2 (Beginner)</span>
+  </div>
 </div>
 <br><br>
 
