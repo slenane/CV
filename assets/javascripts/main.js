@@ -7,7 +7,7 @@ const language = {
     'language-switcher': 'Switch language',
     'view-on-github': 'View GitHub Repository',
     host: 'Hosted on GitHub Pages — Theme by',
-    headers: ['Technical Experience', 'Languages', 'Education'],
+    headers: ['Technical Experience', 'Skills & Languages', 'Education'],
     lisbon: 'Lisbon',
     experience: [
       {
@@ -140,7 +140,7 @@ const language = {
     'language-switcher': 'Cambiar de idioma',
     'view-on-github': 'Ver Repositorio GitHub',
     host: 'Alojado en GitHub Pages — Tema por',
-    headers: ['Experiencia Técnica', 'Idiomas', 'Educación'],
+    headers: ['Experiencia Técnica', 'Habilidades & Idiomas', 'Educación'],
     lisbon: 'Lisboa',
     experience: [
       {
@@ -273,7 +273,7 @@ const language = {
     'language-switcher': 'Mudar de língua',
     'view-on-github': 'Ver Repositório GitHub',
     host: 'Alojado nas Páginas GitHub — Tema por',
-    headers: ['Experiência Técnica', 'Línguas', 'Educação'],
+    headers: ['Experiência Técnica', 'Competências & Línguas', 'Educação'],
     lisbon: 'Lisboa',
     experience: [
       {

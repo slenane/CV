@@ -33,6 +33,11 @@
         margin: 0 25% 1rem;
       }
 
+      .skills-grid {
+        display: grid;
+        grid-template-columns: repeat(4, auto);
+      }
+
       a img,
       .language-flag,
       .skill-icon {
@@ -41,14 +46,17 @@
         margin-bottom: 5px;
       }
 
+      .skill-name,
+      .language-name,
+      .language-level {
+        display: block;
+      }
+
       .language-flag {
         vertical-align: middle;
       }
 
-      .skills-grid {
-        display: grid;
-        grid-template-columns: repeat(3, auto);
-      }
+
 
       @media (max-width: 700px) {
         h1 {

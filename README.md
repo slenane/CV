@@ -16,7 +16,8 @@
   <li>Developed Roadshow pages to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that generates tickets through API calls</li>
 </ul>
 
-**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman.
+<!-- **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman. -->
+
 <br><br>
 
 ### **<span class="position">Freelance Web Developer</span>** @ [stephenlenane.com](https://www.stephenlenane.com) _(<span class="employment-dates">Dec 2020 - Present</span>)_ <br>
@@ -30,29 +31,74 @@
 **_<span class="key-project-header">Key project</span>:_** <br>
 <span class="key-projects">Designed and developed Sacred Tribe Energy Healing, a personalised e-commerce site based on client's vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. View the <a href="https://github.com/slenane/SacredTribeEnergyHealing">GitHub repository</a> or <a href="https://www.stephenlenane.com">my website</a> for more details</span>
 
-**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, <span class="and">and</span> GIMP.
+<!-- **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, <span class="and">and</span> GIMP. -->
+
 <br><br>
 
 ## 🛠️ <span class="header">Skills and Languages</span>
 
 <div class="skills-grid">
   <div>
-    <img class="skill-icon" src="./assets/img/javascript.png"> **<span class="skill-name">JavaScript</span>**
+    <img class="skill-icon" src="./assets/img/javascript.png"> 
+    <b><span class="skill-name">JavaScript</span></b>
   </div>
+
   <div>
-    <img class="skill-icon" src="./assets/img/nodejs.png"> **<span class="skill-name">Node.js</span>**
+    <img class="skill-icon" src="./assets/img/html5.png"> 
+    <span class="skill-name">HTML</span></b>
   </div>
+
   <div>
-    <img class="skill-icon" src="./assets/img/html5.png"> **<span class="skill-name">HTML</span>**
+    <img class="skill-icon" src="./assets/img/css3.png"> 
+    <b><span class="skill-name">CSS</span></b>
   </div>
+
   <div>
-    <img class="skill-icon" src="./assets/img/css3.png"> **<span class="skill-name">CSS</span>**
+    <img class="skill-icon" src="./assets/img/wordpress.png"> 
+    <b><span class="skill-name">WordPress</span></b>
   </div>
+
   <div>
-    <img class="language-flag" src="./assets/img/spain.png"> **<span class="language-name">Spanish</span>**: <span class="language-level">C1 (Advanced)</span>
+    <img class="skill-icon" src="./assets/img/adobe-xd.png"> 
+    <b><span class="skill-name">Adobe Xd</span></b>
   </div>
+
   <div>
-    <img class="language-flag" src="./assets/img/portugal.png"> **<span class="language-name">Portuguese</span>**: <span class="language-level">A2 (Beginner)</span>
+    <img class="skill-icon" src="./assets/img/php.png"> 
+    <b><span class="skill-name">php</span></b>
+  </div>
+
+  <div>
+    <img class="skill-icon" src="./assets/img/nodejs.png"> 
+    <b><span class="skill-name">Node.js</span></b>
+  </div>
+
+  <div>
+    <img class="skill-icon" src="./assets/img/mongodb.png"> 
+    <b><span class="skill-name">MongoDB</span></b>
+  </div>
+
+  <div>
+    <img class="skill-icon" src="./assets/img/mysql.png"> 
+    <b><span class="skill-name">MySql</span></b>
+  </div>
+
+  <div>
+    <img class="language-flag" src="./assets/img/united-kingdom.png"> 
+    <b><span class="language-name">English</span></b>
+    <span class="language-level">Native</span>
+  </div>
+
+  <div>
+    <img class="language-flag" src="./assets/img/spain.png"> 
+    <b><span class="language-name">Spanish</span></b>
+    <span class="language-level">C1 (Advanced)</span>
+  </div>
+  
+  <div>
+    <img class="language-flag" src="./assets/img/portugal.png"> 
+    <b><span class="language-name">Portuguese</span></b> 
+    <span class="language-level">A2 (Beginner)</span>
   </div>
 </div>
 <br><br>
