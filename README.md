@@ -76,7 +76,7 @@
 
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/mysql.png"> 
-    <span class="skill-name">MySql</span>
+    <span class="skill-name">MySQL</span>
   </div>
 
   <div class="skill-item">
