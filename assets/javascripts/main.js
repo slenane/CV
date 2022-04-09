@@ -114,7 +114,6 @@ const language = {
       {
         dates: 'Feb 2020 - Jun 2020',
         'course-focus': `
-          <li>Create full-stack web applications</li>
           <li>HTML5, CSS3, JavaScript, Node.js, Express, and MongoDB</li>
           <li>AJAX and APIs</li>
           <li>HTTPS and Security</li>
@@ -247,7 +246,6 @@ const language = {
       {
         dates: 'Feb 2020 - Jun 2020',
         'course-focus': `
-          <li>Crear aplicaciones web full-stack</li>
           <li>HTML5, CSS3, JavaScript, Node.js, Express, y MongoDB</li>
           <li>AJAX y APIs</li>
           <li>HTTPS y Seguridad</li>
@@ -380,7 +378,6 @@ const language = {
       {
         dates: 'Fev 2020 - Jun 2020',
         'course-focus': `
-          <li>Criar aplicações full-stack</li>
           <li>HTML5, CSS3, JavaScript, Node.js, Express, e MongoDB</li>
           <li>AJAX e APIs</li>
           <li>HTTPS e Segurança</li>

@@ -169,7 +169,6 @@
 **The Web Developer Bootcamp** - [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/) - <span class="remote">Remote</span> _(<span class="course-dates">Feb 2020 - Jun 2020</span>)_ <br>
 
 <ul class="course-description">
-  <li>Create full-stack web applications</li>
   <li>HTML5, CSS3, JavaScript, Node.js, Express, and MongoDB</li>
   <li>AJAX and APIs</li>
   <li>HTTPS and Security</li>
