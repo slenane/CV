@@ -33,7 +33,7 @@ const language = {
           <li>Create online stores with the implementation of e-commerce platform payment gateways and custom product templates</li>
         `,
         'key-projects':
-          'Designed and developed Sacred Tribe Energy Healing, a personalised e-commerce site based on client\'s vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. View the <a href="https://github.com/slenane/SacredTribeEnergyHealing">GitHub repository</a> or <a href="https://www.stephenlenane.com">my website</a> for more details',
+          'Designed and developed <a href="https://www.sacredtribe-energyhealing.com/">Sacred Tribe Energy Healing</a>, a personalised e-commerce site based on client\'s vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. View the <a href="https://github.com/slenane/SacredTribeEnergyHealing">GitHub repository</a> or <a href="https://www.stephenlenane.com">my website</a> for more details',
       },
     ],
     'key-projects-header': 'Key projects',
@@ -47,7 +47,7 @@ const language = {
     ],
     education: [
       {
-        dates: 'Mar 2021 - Present',
+        dates: 'Mar 2022 - Present',
         'course-focus': `
           <li>Create a Content Management System</li>
           <li>Security in PHP</li>
@@ -127,7 +127,6 @@ const language = {
         `,
       },
     ],
-    remote: 'Remote',
     degree: 'Bachelor of Science',
     course: ' - Biochemistry - 2.1 Honours (3.5 GPA)',
     'textbooks-read': 'Textbooks Read',
@@ -165,7 +164,7 @@ const language = {
           <li>Creo tiendas online con la implementación de pasarelas de pago de plataformas de comercio electrónico y plantillas de productos personalizadas</li>
         `,
         'key-projects':
-          'Diseñé y desarrollé Sacred Tribe Energy Healing, un sitio de comercio electrónico personalizado basado en la visión del cliente y reduje a la mitad sus tarifas mensuales del sitio web. Se integró Shopify para gestionar los pagos seguros, el inventario de productos y para proporcionar al cliente el control total del negocio. Ver el <a href="https://github.com/slenane/SacredTribeEnergyHealing">repositorio GitHub</a> o mi <a href="https://www.stephenlenane.com">sitio web</a> para más detalles',
+          'Diseñé y desarrollé <a href="https://www.sacredtribe-energyhealing.com/">Sacred Tribe Energy Healing</a>, un sitio de comercio electrónico personalizado basado en la visión del cliente y reduje a la mitad sus tarifas mensuales del sitio web. Se integró Shopify para gestionar los pagos seguros, el inventario de productos y para proporcionar al cliente el control total del negocio. Ver el <a href="https://github.com/slenane/SacredTribeEnergyHealing">repositorio GitHub</a> o mi <a href="https://www.stephenlenane.com">sitio web</a> para más detalles',
       },
     ],
     'key-projects-header': 'Proyectos clave',
@@ -179,7 +178,7 @@ const language = {
     ],
     education: [
       {
-        dates: 'Mar 2021 - Presente',
+        dates: 'Mar 2022 - Presente',
         'course-focus': `
           <li>Crear un Sistema de Gestión de Contenidos (Content Management System, CMS)</li>
           <li>Seguridad en PHP</li>
@@ -259,7 +258,6 @@ const language = {
         `,
       },
     ],
-    remote: 'A Distancia',
     degree: 'Licenciado en Ciencias',
     course: ' - Bioquímica - 2.1 Honores (3.5 GPA)',
     'textbooks-read': 'Libros de Texto Leídos',
@@ -297,7 +295,7 @@ const language = {
           <li>Crio lojas online com a implementação de gateways de pagamento de plataformas de comércio electrónico e modelos de produtos personalizados</li>
         `,
         'key-projects':
-          'Desenhei e desenvolvi o Sacred Tribe Energy Healing, um site de comércio electrónico personalizado baseado na visão do cliente e reduzi para metade as suas taxas mensais no site. Shopify foi integrada para gerir pagamentos seguros, inventário de produtos e para fornecer ao cliente o controlo total do negócio. Ver o <a href="https://github.com/slenane/SacredTribeEnergyHealing">repositório GitHub</a> ou o meu <a href="https://www.stephenlenane.com">website</a> para mais detalhes',
+          'Desenhei e desenvolvi o <a href="https://www.sacredtribe-energyhealing.com/">Sacred Tribe Energy Healing</a>, um site de comércio electrónico personalizado baseado na visão do cliente e reduzi para metade as suas taxas mensais no site. Shopify foi integrada para gerir pagamentos seguros, inventário de produtos e para fornecer ao cliente o controlo total do negócio. Ver o <a href="https://github.com/slenane/SacredTribeEnergyHealing">repositório GitHub</a> ou o meu <a href="https://www.stephenlenane.com">website</a> para mais detalhes',
       },
     ],
     'key-projects-header': 'Projectos-chave',
@@ -311,7 +309,7 @@ const language = {
     ],
     education: [
       {
-        dates: 'Mar 2021 - Presente',
+        dates: 'Mar 2022 - Presente',
         'course-focus': `
           <li>Criar um Sistema de Gestão de Conteúdos (Content Management System, CMS)</li>
           <li>Segurança em PHP</li>
@@ -391,7 +389,6 @@ const language = {
         `,
       },
     ],
-    remote: 'À Distância',
     degree: 'Bacharelato em Ciências',
     course: ' - Bioquímica - 2.1 Honras (3.5 GPA)',
     'textbooks-read': 'Livros de Texto Lidos',
@@ -429,7 +426,6 @@ let languageName = document.querySelectorAll('.language-name');
 let languageLevel = document.querySelectorAll('.language-level');
 let courseDates = document.querySelectorAll('.course-dates');
 let courseDescription = document.querySelectorAll('.course-description');
-let remote = document.querySelectorAll('.remote');
 
 // Update the currently displayed language
 const updateLanguage = (lang) => {
@@ -452,7 +448,6 @@ const updateLanguage = (lang) => {
   degreeCourse.textContent = current.course;
   // Use forEach for repeated content
   and.forEach((item) => (item.textContent = current.and));
-  remote.forEach((item) => (item.textContent = current.remote));
   technologyUsed.forEach(
     (tech) => (tech.textContent = current['technology-used'])
   );
