@@ -96,8 +96,7 @@
     <span class="skill-name language-name">Portuguese</span> 
     <span class="skill-level language-level">A2 (Beginner)</span>
   </div>
-</div>
-<br><br>
+</div><br><br>
 
 ## 👨‍🎓 <span class="header">Education</span>
 
@@ -194,23 +193,187 @@
 - Learning Web Design - Jennifer Niederst Robbins <br>
 - HTML & CSS: Build and Design Websites - Jon Duckett <br>
 
-<!-- ## 📅 <span class="header">Work History</span> -->
+## 📅 <span class="header">Timeline</span>
 
-<!-- DATE - LOCATION - JOB - DESCRIPTION -->
-<!-- BOX 1 -->
-<!-- Ireland - Graduated - 2014 - Graduated with a 2.1 honours in Biochemistry  -->
-<!-- BOX 2 -->
-<!-- Ireland - Pfizer - Process Technician - 2015 -> 2017 - Worked as a process technician for Pfizer for two years before deciding that it was not for me -->
-<!-- BOX 3 -->
-<!-- Canada - Bartender - 2017 -> 2019 - Moved to Canada and lived in Toronto and Vancouver-->
-<!-- BOX 4 -->
-<!-- Argentina - CELTA - English Teacher - 2019 -> 2020 - Began studying programming and Spanish; Moved to Argentina to learn Spanish - Worked as an English teacher while beginning to learn HTML and CSS -->
- <!-- BOX 5 -->
-<!-- Uruguay - English Teacher - 2020 - Worked in a small town as an English teacher and lived with a family that did not speak English to improve my Spanish. Started learning JavaScript-->
-<!-- BOX 6 -->
-<!-- Bolivia - 2020 - Continued to teach English and travel - Became trapped in Bolivia during the Coronavirus pandemic and spent this time building my first JavaScript application -->
-<!-- BOX 7 -->
-<!-- Ireland - Capita - 2020 -> 2022 - Returned to Ireland and worked part time as a call center assistant while continuing to study web development - specifically node.js, mongoDB etc.
-Built my first full stack application -->
-<!-- BOX 8 -->
-<!-- Portugal - 2022 -> Present - Hired as an intern at GoContact - develop websites using WordPress -->
+<div class="timeline-start-date">2014</div>
+    <div class="timeline">
+      <div class="container ireland">
+        <div class="content">
+          <p class="timeline-country">Ireland</p>
+          <div class="timeline-grid">
+            <div class="timeline-grid__group">
+              <div class="timeline-grid__date">
+                <p>2014</p>
+              </div>
+              <div class="timeline-grid__description">
+                <p>
+                  Graduated from the National University of Ireland, Galway with
+                  a 2.1 Honours Bachelor of Science, Biochemistry
+                </p>
+              </div>
+            </div>
+            <div class="timeline-grid__group">
+              <div class="timeline-grid__date">
+                <p>2015</p>
+              </div>
+              <div class="timeline-grid__description">
+                <p>
+                  Began working for Pfizer, Grange Castle as a Process
+                  Technician in vaccine production
+                </p>
+              </div>
+            </div>
+            <div class="timeline-grid__group">
+              <div class="timeline-grid__date">
+                <p>2017</p>
+              </div>
+              <div class="timeline-grid__description">
+                <p>
+                  Decided to leave Pfizer as the position was not challenging
+                  and there was a lack of potential for growth in the company
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container canada">
+        <div class="content">
+          <p class="timeline-country">Canada</p>
+          <div class="timeline-grid">
+            <div class="timeline-grid__group">
+              <div class="timeline-grid__date">
+                <p>2017</p>
+              </div>
+              <div class="timeline-grid__description">
+                <p>
+                  Moved to Toronto as I had always wanted to live abroad and
+                  began working as a bartender while searching for a new career
+                </p>
+              </div>
+            </div>
+            <div class="timeline-grid__group">
+              <div class="timeline-grid__date">
+                <p>2018</p>
+              </div>
+              <div class="timeline-grid__description">
+                <p>
+                  Moved to Vancouver and began studying Spanish with the
+                  intention of moving to South America. Began thinking of web
+                  development as a potential career
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container argentina">
+        <div class="content">
+          <p class="timeline-country">Argentina</p>
+          <div class="timeline-grid">
+            <div class="timeline-grid__group">
+              <div class="timeline-grid__date">
+                <p>2019</p>
+              </div>
+              <div class="timeline-grid__description">
+                <p>
+                  Moved to Buenos Aires and began working as an English teacher
+                  while continuing to learn Spanish.
+                </p>
+                <p>
+                  Took first step to career in web development with freeCodeCamp
+                  course
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container uruguay">
+        <div class="content">
+          <p class="timeline-country">Uruguay</p>
+          <div class="timeline-grid">
+            <div class="timeline-grid__group">
+              <div class="timeline-grid__date">
+                <p>2020</p>
+              </div>
+              <div class="timeline-grid__description">
+                <p>
+                  Moved to La Paloma to teach English while continuing to study
+                  Spanish and web development
+                </p>
+                <p>Built first static HTML/CSS pages</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container bolivia">
+        <div class="content">
+          <p class="timeline-country">Bolivia</p>
+          <div class="timeline-grid">
+            <div class="timeline-grid__group">
+              <div class="timeline-grid__date">
+                <p>2020</p>
+              </div>
+              <div class="timeline-grid__description">
+                <p>
+                  Traveled to Bolivia on a holiday and became stranded during
+                  the coronavirus pandemic.
+                </p>
+                <p>
+                  Took several JavaScript courses and built first JavaScript
+                  application
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container ireland">
+        <div class="content">
+          <p class="timeline-country">Ireland</p>
+          <div class="timeline-grid">
+            <div class="timeline-grid__group">
+              <div class="timeline-grid__date">
+                <p>2020</p>
+              </div>
+              <div class="timeline-grid__description">
+                <p>
+                  Returned to Ireland with an advanced level of Spanish and a
+                  new career path
+                </p>
+                <p>
+                  Worked part-time for Capita Customer Solutions while studying
+                  web development full-time
+                </p>
+                <p>
+                  Built first full-stack web application and began working as a
+                  freelance web developer
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container portugal">
+        <div class="content">
+          <p class="timeline-country">Portugal</p>
+          <div class="timeline-grid">
+            <div class="timeline-grid__group">
+              <div class="timeline-grid__date">
+                <p>2022</p>
+              </div>
+              <div class="timeline-grid__description">
+                <p>Hired as Web development intern at GoContact</p>
+                <p>
+                  Began learning Portuguese while continuing to study web
+                  development
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-end-date">2022</div>
