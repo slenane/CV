@@ -136,8 +136,8 @@ const language = {
     degree: 'Bachelor of Science',
     course: ' - Biochemistry - 2.1 Honours (3.5 GPA)',
     'textbooks-read': 'Textbooks Read',
-    timeline: {
-      ireland: {
+    timeline: [
+      {
         country: 'Ireland',
         description: [
           `
@@ -160,7 +160,7 @@ const language = {
         `,
         ],
       },
-      canada: {
+      {
         country: 'Canada',
         description: [
           `
@@ -177,7 +177,7 @@ const language = {
           `,
         ],
       },
-      argentina: {
+      {
         country: 'Argentina',
         description: [
           `
@@ -192,7 +192,7 @@ const language = {
           `,
         ],
       },
-      uruguay: {
+      {
         country: 'Uruguay',
         description: [
           `
@@ -204,7 +204,7 @@ const language = {
           `,
         ],
       },
-      bolivia: {
+      {
         country: 'Bolivia',
         description: [
           `
@@ -219,7 +219,7 @@ const language = {
           `,
         ],
       },
-      'ireland-2': {
+      {
         country: 'Ireland',
         description: [
           `
@@ -238,7 +238,7 @@ const language = {
           `,
         ],
       },
-      portugal: {
+      {
         country: 'Portugal',
         description: [
           `
@@ -246,7 +246,7 @@ const language = {
           `,
         ],
       },
-    },
+    ],
   },
   spanish: {
     bio: 'Desarrollador Front-end de Irlanda con base en Lisboa, Portugal',
@@ -384,8 +384,8 @@ const language = {
     degree: 'Licenciado en Ciencias',
     course: ' - Bioquímica - 2.1 Honores (3.5 GPA)',
     'textbooks-read': 'Libros de Texto Leídos',
-    timeline: {
-      ireland: {
+    timeline: [
+      {
         country: 'Irlanda',
         description: [
           `
@@ -405,7 +405,7 @@ const language = {
         `,
         ],
       },
-      canada: {
+      {
         country: 'Canadá',
         description: [
           `
@@ -420,7 +420,7 @@ const language = {
           `,
         ],
       },
-      argentina: {
+      {
         country: 'Argentina',
         description: [
           `
@@ -433,7 +433,7 @@ const language = {
           `,
         ],
       },
-      uruguay: {
+      {
         country: 'Uruguay',
         description: [
           `
@@ -444,7 +444,7 @@ const language = {
           `,
         ],
       },
-      bolivia: {
+      {
         country: 'Bolivia',
         description: [
           `
@@ -457,7 +457,7 @@ const language = {
           `,
         ],
       },
-      'ireland-2': {
+      {
         country: 'Irlanda',
         description: [
           `
@@ -473,7 +473,7 @@ const language = {
           `,
         ],
       },
-      portugal: {
+      {
         country: 'Portugal',
         description: [
           `
@@ -481,7 +481,7 @@ const language = {
           `,
         ],
       },
-    },
+    ],
   },
   portuguese: {
     bio: 'Desenvolvedor Front-end da Irlanda baseado em Lisboa, Portugal',
@@ -619,8 +619,8 @@ const language = {
     degree: 'Bacharelato em Ciências',
     course: ' - Bioquímica - 2.1 Honras (3.5 GPA)',
     'textbooks-read': 'Livros de Texto Lidos',
-    timeline: {
-      ireland: {
+    timeline: [
+      {
         country: 'Irlanda',
         description: [
           `
@@ -640,7 +640,7 @@ const language = {
         `,
         ],
       },
-      canada: {
+      {
         country: 'Canadá',
         description: [
           `
@@ -655,7 +655,7 @@ const language = {
           `,
         ],
       },
-      argentina: {
+      {
         country: 'Argentina',
         description: [
           `
@@ -668,7 +668,7 @@ const language = {
           `,
         ],
       },
-      uruguay: {
+      {
         country: 'Uruguay',
         description: [
           `
@@ -679,7 +679,7 @@ const language = {
           `,
         ],
       },
-      bolivia: {
+      {
         country: 'Bolívia',
         description: [
           `
@@ -692,7 +692,7 @@ const language = {
           `,
         ],
       },
-      'ireland-2': {
+      {
         country: 'Irlanda',
         description: [
           `
@@ -708,7 +708,7 @@ const language = {
           `,
         ],
       },
-      portugal: {
+      {
         country: 'Portugal',
         description: [
           `
@@ -716,7 +716,7 @@ const language = {
           `,
         ],
       },
-    },
+    ],
   },
 };
 
@@ -762,7 +762,6 @@ const updateLanguage = (lang) => {
   if (lang === 'english') current = language.english;
   else if (lang === 'spanish') current = language.spanish;
   else if (lang === 'portuguese') current = language.portuguese;
-  console.log(current);
   // Update the content
   bio.textContent = current.bio;
   lisbon.textContent = current.lisbon;
@@ -807,8 +806,8 @@ const updateLanguage = (lang) => {
     courseDescription[i].innerHTML = current.education[i]['course-focus'];
   }
   for (let i = 0; i < current.timeline.length; i++) {
-    sections[i].querySelector('.timeline-country').textContent =
-      current.timeline[i].country;
+    let country = sections[i].querySelector('.timeline-country');
+    country.textContent = current.timeline[i].country;
     let descriptions = sections[i].querySelectorAll(
       '.timeline-grid__description'
     );
