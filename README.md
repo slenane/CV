@@ -31,7 +31,7 @@
 
 **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, <span class="and">and</span> GIMP. <br><br>
 
-## 🛠️ <span class="header">Skills & Languages</span>
+## 🛠️ <span class="header">Skills</span>
 
 <div class="skills-grid">
   <div class="skill-item">
@@ -65,6 +65,11 @@
   </div>
 
   <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/adobe-xd.png"> 
+    <span class="skill-name">Adobe Xd</span>
+  </div>
+
+  <div class="skill-item">
     <img class="skill-icon" src="./assets/img/nodejs.png"> 
     <span class="skill-name">Node.js</span>
   </div>
@@ -79,6 +84,11 @@
     <span class="skill-name">MySQL</span>
   </div>
 
+</div><br><br>
+
+## 💬 <span class="header">Languages</span>
+
+<div class="skills-grid">
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/united-kingdom.png"> 
     <span class="skill-name language-name">English</span>
@@ -260,7 +270,7 @@
           <div class="timeline-grid__description">
             <p>
               Moved to Vancouver and began studying Spanish with the
-              intention of moving to South America.
+              intention of moving to South America
             </p>
           </div>
         </div>
@@ -278,7 +288,7 @@
           <div class="timeline-grid__description">
             <p>
               Moved to Buenos Aires and began working as an English teacher
-              while continuing to learn Spanish.
+              while continuing to learn Spanish
             </p>
             <p>
               Took first step to career in web development with freeCodeCamp
@@ -319,7 +329,7 @@
           <div class="timeline-grid__description">
             <p>
               Traveled to Bolivia on a holiday and became stranded during
-              the coronavirus pandemic.
+              the coronavirus pandemic
             </p>
             <p>
               Took several JavaScript courses and built first JavaScript
@@ -365,7 +375,7 @@
             <p>2022</p>
           </div>
           <div class="timeline-grid__description">
-            <p>Hired as Web development intern at GoContact</p>
+            <p>Hired as web development intern at GoContact</p>
           </div>
         </div>
       </div>
