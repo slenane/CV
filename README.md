@@ -181,7 +181,7 @@
 </ul>
 
 **<span class="degree">Bachelor of Science</span>**<span class="degree-course"> - Biochemistry - 2.1 Honours (3.5 GPA)</span><br>
-<a target="_blank" href="https://www.nuigalway.ie/">National University of Ireland, Galway</a> - Galway, Ireland _(2010 - 2014)_ <br>
+<a target="_blank" href="https://www.nuigalway.ie/">National University of Ireland, Galway</a> - Galway, Ireland _(2010 - 2014)_ <br><br>
 
 **📚 <span class="textbooks-read">Textbooks Read</span>:**
 
@@ -193,7 +193,7 @@
 - Learning Web Design - Jennifer Niederst Robbins <br>
 - HTML & CSS: Build and Design Websites - Jon Duckett <br><br>
 
-## 📅 <span class="header">Timeline</span>
+## 📅 <span class="header">Personal Timeline</span>
 
 <div class="timeline-start-date">2014</div>
 
