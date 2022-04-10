@@ -805,13 +805,15 @@ const updateLanguage = (lang) => {
   for (let i = 0; i < courseDescription.length; i++) {
     courseDescription[i].innerHTML = current.education[i]['course-focus'];
   }
-  for (let i = 0; i < current.timeline.length; i++) {
+  for (let i = 0; i < sections.length; i++) {
+    console.log(sections[i]);
     let country = sections[i].querySelector('.timeline-country');
     country.textContent = current.timeline[i].country;
     let descriptions = sections[i].querySelectorAll(
       '.timeline-grid__description'
     );
-    for (let j = 0; j < current.timeline[i].description.length; i++) {
+    console.log(descriptions);
+    for (let j = 0; j < descriptions.length; i++) {
       descriptions[j].innerHTML = current.timeline[i].description[j];
     }
   }
