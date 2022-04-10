@@ -7,7 +7,13 @@ const language = {
     'language-switcher': 'Switch language',
     'view-on-github': 'View GitHub Repository',
     host: 'Hosted on GitHub Pages — Theme by',
-    headers: ['Technical Experience', 'Skills & Languages', 'Education'],
+    headers: [
+      'Technical Experience',
+      'Skills',
+      'Languages',
+      'Education',
+      'Personal Timeline',
+    ],
     lisbon: 'Lisbon',
     experience: [
       {
@@ -130,6 +136,117 @@ const language = {
     degree: 'Bachelor of Science',
     course: ' - Biochemistry - 2.1 Honours (3.5 GPA)',
     'textbooks-read': 'Textbooks Read',
+    timeline: {
+      ireland: {
+        country: 'Ireland',
+        description: [
+          `
+        <p>
+          Graduated from the National University of Ireland, Galway with
+          a 2.1 Honours Bachelor of Science, Biochemistry
+        </p>
+        `,
+          `
+        <p>
+          Began working for Pfizer as a Process Technician in vaccine
+          production
+        </p>
+        `,
+          `
+        <p>
+          Decided to leave Pfizer as the position was not challenging
+          and there was a lack of potential for growth in the company
+        </p>
+        `,
+        ],
+      },
+      canada: {
+        country: 'Canada',
+        description: [
+          `
+          <p>
+            Moved to Toronto and began working as a bartender while
+            searching for a new career
+          </p>
+          `,
+          `
+          <p>
+            Moved to Vancouver and began studying Spanish with the
+            intention of moving to South America
+          </p>
+          `,
+        ],
+      },
+      argentina: {
+        country: 'Argentina',
+        description: [
+          `
+          <p>
+            Moved to Buenos Aires and began working as an English teacher
+            while continuing to learn Spanish
+          </p>
+          <p>
+            Took first step to career in web development with freeCodeCamp
+            Responsive Web Design course
+          </p>
+          `,
+        ],
+      },
+      uruguay: {
+        country: 'Uruguay',
+        description: [
+          `
+          <p>
+            Moved to La Paloma to teach English while continuing to study
+            Spanish and web development
+          </p>
+          <p>Built first static HTML/CSS pages</p>
+          `,
+        ],
+      },
+      bolivia: {
+        country: 'Bolivia',
+        description: [
+          `
+          <p>
+            Traveled to Bolivia on a holiday and became stranded during
+            the coronavirus pandemic
+          </p>
+          <p>
+            Took several JavaScript courses and built first JavaScript
+            application
+          </p>
+          `,
+        ],
+      },
+      'ireland-2': {
+        country: 'Ireland',
+        description: [
+          `
+          <p>
+            Returned to Ireland with an advanced level of Spanish and a
+            new career path
+          </p>
+          <p>
+            Worked part-time for Capita Customer Solutions while studying
+            web development full-time
+          </p>
+          <p>
+            Built first full-stack web application and began working as a
+            freelance web developer
+          </p>
+          `,
+        ],
+      },
+      portugal: {
+        country: 'Portugal',
+        description: [
+          `
+          <p>Hired as web development intern at GoContact</p>
+          `,
+        ],
+      },
+    },
   },
   spanish: {
     bio: 'Desarrollador Front-end de Irlanda con base en Lisboa, Portugal',
@@ -138,7 +255,13 @@ const language = {
     'language-switcher': 'Cambiar de idioma',
     'view-on-github': 'Ver Repositorio GitHub',
     host: 'Alojado en GitHub Pages — Tema por',
-    headers: ['Experiencia Técnica', 'Habilidades & Idiomas', 'Educación'],
+    headers: [
+      'Experiencia Técnica',
+      'Habilidades',
+      'Idiomas',
+      'Educación',
+      'Cronología Personal',
+    ],
     lisbon: 'Lisboa',
     experience: [
       {
@@ -261,6 +384,104 @@ const language = {
     degree: 'Licenciado en Ciencias',
     course: ' - Bioquímica - 2.1 Honores (3.5 GPA)',
     'textbooks-read': 'Libros de Texto Leídos',
+    timeline: {
+      ireland: {
+        country: 'Irlanda',
+        description: [
+          `
+        <p>
+          Me gradué en la Universidad Nacional de Irlanda, Galway, con una Licenciatura en Ciencias, Bioquímica, con una nota de 2,1
+        </p>
+        `,
+          `
+        <p>
+          Empecé a trabajar para Pfizer como Técnico de Procesos en la producción de vacunas
+        </p>
+        `,
+          `
+        <p>
+          Decidí dejar Pfizer porque el puesto no suponía un reto y había una falta de potencial de crecimiento en la empresa
+        </p>
+        `,
+        ],
+      },
+      canada: {
+        country: 'Canadá',
+        description: [
+          `
+          <p>
+            Me mudé a Toronto y empecé a trabajar como camarero mientras buscaba una nueva carrera
+          </p>
+          `,
+          `
+          <p>
+           Me mudé a Vancouver y empecé a estudiar español con la intención de irme a Sudamérica
+          </p>
+          `,
+        ],
+      },
+      argentina: {
+        country: 'Argentina',
+        description: [
+          `
+          <p>
+           Me mudé a Buenos Aires y comencé a trabajar como profesora de inglés mientras seguía aprendiendo español
+          </p>
+          <p>
+           Di el primer paso en la carrera de desarrollo web con el curso de Diseño Web Responsivo de freeCodeCamp
+          </p>
+          `,
+        ],
+      },
+      uruguay: {
+        country: 'Uruguay',
+        description: [
+          `
+          <p>
+            Me mudé a La Paloma para enseñar inglés mientras seguía estudiando español y desarrollo web
+          </p>
+          <p>Construí mis primeras páginas estáticas HTML/CSS</p>
+          `,
+        ],
+      },
+      bolivia: {
+        country: 'Bolivia',
+        description: [
+          `
+          <p>
+            Viajé a Bolivia de vacaciones y me quedé tirado durante la pandemia de coronavirus
+          </p>
+          <p>
+            Hice varios cursos de JavaScript y construí mi primera aplicación de JavaScript
+          </p>
+          `,
+        ],
+      },
+      'ireland-2': {
+        country: 'Irlanda',
+        description: [
+          `
+          <p>
+            Volví a Irlanda con un nivel avanzado de español y una nueva trayectoria profesional
+          </p>
+          <p>
+            Trabajé a tiempo parcial para Capita Customer Solutions mientras estudiaba desarrollo web a tiempo completo
+          </p>
+          <p>
+            Construí mi primera aplicación web full-stack y empecé a trabajar como desarrollador web freelance
+          </p>
+          `,
+        ],
+      },
+      portugal: {
+        country: 'Portugal',
+        description: [
+          `
+          <p>Me contrataron como becario de desarrollo web en GoContact</p>
+          `,
+        ],
+      },
+    },
   },
   portuguese: {
     bio: 'Desenvolvedor Front-end da Irlanda baseado em Lisboa, Portugal',
@@ -269,7 +490,13 @@ const language = {
     'language-switcher': 'Mudar de língua',
     'view-on-github': 'Ver Repositório GitHub',
     host: 'Alojado nas Páginas GitHub — Tema por',
-    headers: ['Experiência Técnica', 'Competências & Línguas', 'Educação'],
+    headers: [
+      'Experiência Técnica',
+      'Competências',
+      'Línguas',
+      'Educação',
+      'Cronologia Pessoal',
+    ],
     lisbon: 'Lisboa',
     experience: [
       {
@@ -392,6 +619,104 @@ const language = {
     degree: 'Bacharelato em Ciências',
     course: ' - Bioquímica - 2.1 Honras (3.5 GPA)',
     'textbooks-read': 'Livros de Texto Lidos',
+    timeline: {
+      ireland: {
+        country: 'Irlanda',
+        description: [
+          `
+        <p>
+          Licenciei-me na Universidade Nacional da Irlanda, Galway, com a 2.1 Honras Bacharelato em Ciências, Bioquímica
+        </p>
+        `,
+          `
+        <p>
+          Comecei a trabalhar para a Pfizer como Técnico de Processo na produção de vacinas
+        </p>
+        `,
+          `
+        <p>
+          Decidi deixar a Pfizer porque a posição não era um desafio e havia falta de potencial de crescimento na empresa
+        </p>
+        `,
+        ],
+      },
+      canada: {
+        country: 'Canadá',
+        description: [
+          `
+          <p>
+            Mudei-me para Toronto e comecei a trabalhar como barman enquanto procurava uma nova carreira
+          </p>
+          `,
+          `
+          <p>
+            Mudei-me para Vancouver e comecei a estudar espanhol com o intenção de se mudar para a América do Sul
+          </p>
+          `,
+        ],
+      },
+      argentina: {
+        country: 'Argentina',
+        description: [
+          `
+          <p>
+            Mudei-me para Buenos Aires e comecei a trabalhar como professor de inglês enquanto continua a aprender espanhol
+          </p>
+          <p>
+            Dei o primeiro passo na carreira de desenvolvimento web com o freeCodeCamp Curso de Web Design Responsivo
+          </p>
+          `,
+        ],
+      },
+      uruguay: {
+        country: 'Uruguay',
+        description: [
+          `
+          <p>
+            Mudei-me para La Paloma para ensinar inglês enquanto continuava a estudar Desenvolvimento espanhol e web
+          </p>
+          <p>Construí as minhas primeiras páginas HTML/CSS estáticas</p>
+          `,
+        ],
+      },
+      bolivia: {
+        country: 'Bolívia',
+        description: [
+          `
+          <p>
+            Viajei para a Bolívia numas férias e fiquei encalhado durante a pandemia do coronavírus
+          </p>
+          <p>
+            Fiz vários cursos de JavaScript e construí a minha primeira aplicação JavaScript
+          </p>
+          `,
+        ],
+      },
+      'ireland-2': {
+        country: 'Irlanda',
+        description: [
+          `
+          <p>
+            Regressei à Irlanda com um nível avançado de espanhol e um novo percurso profissional
+          </p>
+          <p>
+            Trabalhei em part-time para a Capita Customer Solutions enquanto estudava desenvolvimento web a tempo inteiro
+          </p>
+          <p>
+            Construí a minha primeira aplicação web full-stack e comecei a trabalhar como programador web freelancer
+          </p>
+          `,
+        ],
+      },
+      portugal: {
+        country: 'Portugal',
+        description: [
+          `
+          <p>Fui contratado como estagiário de desenvolvimento web na GoContact</p>
+          `,
+        ],
+      },
+    },
   },
 };
 
@@ -426,6 +751,9 @@ let languageName = document.querySelectorAll('.language-name');
 let languageLevel = document.querySelectorAll('.language-level');
 let courseDates = document.querySelectorAll('.course-dates');
 let courseDescription = document.querySelectorAll('.course-description');
+// Timeline
+let timeline = document.querySelector('.timeline');
+let sections = timeline.querySelectorAll('.container');
 
 // Update the currently displayed language
 const updateLanguage = (lang) => {
@@ -477,6 +805,16 @@ const updateLanguage = (lang) => {
   }
   for (let i = 0; i < courseDescription.length; i++) {
     courseDescription[i].innerHTML = current.education[i]['course-focus'];
+  }
+  for (let i = 0; i < current.timeline.length; i++) {
+    sections[i].querySelector('.timeline-country').textContent =
+      current.timeline[i].country;
+    let descriptions = sections[i].querySelectorAll(
+      '.timeline-grid__description'
+    );
+    for (let j = 0; j < current.timeline[i].description.length; i++) {
+      descriptions[j].innerHTML = current.timeline[i].description[j];
+    }
   }
 };
 

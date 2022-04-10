@@ -340,7 +340,7 @@
       </div>
     </div>
   </div>
-  <div class="container ireland">
+  <div class="container ireland ireland-2">
     <div class="content">
       <p class="timeline-country">Ireland</p>
       <div class="timeline-grid">
