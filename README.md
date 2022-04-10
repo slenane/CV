@@ -219,8 +219,8 @@
           </div>
           <div class="timeline-grid__description">
             <p>
-              Began working for Pfizer, Grange Castle as a Process
-              Technician in vaccine production
+              Began working for Pfizer as a Process Technician in vaccine
+              production
             </p>
           </div>
         </div>
@@ -248,8 +248,8 @@
           </div>
           <div class="timeline-grid__description">
             <p>
-              Moved to Toronto as I had always wanted to live abroad and
-              began working as a bartender while searching for a new career
+              Moved to Toronto and began working as a bartender while
+              searching for a new career
             </p>
           </div>
         </div>
@@ -260,8 +260,7 @@
           <div class="timeline-grid__description">
             <p>
               Moved to Vancouver and began studying Spanish with the
-              intention of moving to South America. Began thinking of web
-              development as a potential career
+              intention of moving to South America.
             </p>
           </div>
         </div>
@@ -283,7 +282,7 @@
             </p>
             <p>
               Took first step to career in web development with freeCodeCamp
-              course
+              Responsive Web Design course
             </p>
           </div>
         </div>
@@ -367,10 +366,6 @@
           </div>
           <div class="timeline-grid__description">
             <p>Hired as Web development intern at GoContact</p>
-            <p>
-              Began learning Portuguese while continuing to study web
-              development
-            </p>
           </div>
         </div>
       </div>
