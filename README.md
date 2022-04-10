@@ -191,7 +191,7 @@
 - JavaScript: The Definitive Guide - David Flanagan <br>
 - Eloquent JavaScript - Marjin Haverbeke <br>
 - Learning Web Design - Jennifer Niederst Robbins <br>
-- HTML & CSS: Build and Design Websites - Jon Duckett <br>
+- HTML & CSS: Build and Design Websites - Jon Duckett <br><br>
 
 ## 📅 <span class="header">Timeline</span>
 
