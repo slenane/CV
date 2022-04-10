@@ -81,7 +81,7 @@
         content: '';
         position: absolute;
         width: 4px;
-        background-color: #F7F7F7;
+        background-color: #f0ebeb;
         top: 0;
         bottom: 0;
         left: 3%;
@@ -90,7 +90,7 @@
 
       /* Container around content */
       .container {
-        padding: 10px 40px;
+        padding: 0 40px;
         position: relative;
         background-color: inherit;
         width: 100%;
@@ -103,7 +103,7 @@
         width: 32px;
         height: 32px;
         left: -2px;
-        top: 22px;
+        top: 13px;
         border-radius: 50%;
         z-index: 1;
       }
@@ -171,9 +171,13 @@
         left: 2%;
       }
 
+      .container::after {
+        top: 11px;
+      }
+
       /* Container around content */
       .container {
-        padding: 10px 0px 10px 30px;
+        padding: 0 0 0 30px;
       }
 
       /* Points on the timeline */
