@@ -193,7 +193,7 @@
 - Learning Web Design - Jennifer Niederst Robbins <br>
 - HTML & CSS: Build and Design Websites - Jon Duckett <br><br>
 
-## 📅 <span class="header">Personal Timeline</span>
+## 📍 <span class="header">Personal Timeline</span>
 
 <div class="timeline-start-date">2014</div>
 
