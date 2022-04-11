@@ -778,16 +778,12 @@ const updateLanguage = (lang) => {
     courseDescription[i].innerHTML = current.education[i]['course-focus'];
   }
   for (let i = 0; i < sections.length; i++) {
-    console.log(sections[i]);
     let country = sections[i].querySelector('.timeline-country');
     country.textContent = current.timeline[i].country;
     let descriptions = sections[i].querySelectorAll(
       '.timeline-grid__description'
     );
-    console.log(descriptions);
-    console.log(current.timeline[i].description);
-    for (let j = 0; j < descriptions.length; i++) {
-      console.log(current.timeline[i].description[j]);
+    for (let j = 0; j < descriptions.length; j++) {
       descriptions[j].innerHTML = current.timeline[i].description[j];
     }
   }
