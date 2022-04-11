@@ -624,19 +624,13 @@ const language = {
         country: 'Irlanda',
         description: [
           `
-        <p>
-          Licenciei-me na Universidade Nacional da Irlanda, Galway, com a 2.1 Honras Bacharelato em Ciências, Bioquímica
-        </p>
+        <p>Licenciei-me na Universidade Nacional da Irlanda, Galway, com a 2.1 Honras Bacharelato em Ciências, Bioquímica</p>
         `,
           `
-        <p>
-          Comecei a trabalhar para a Pfizer como Técnico de Processo na produção de vacinas
-        </p>
+        <p>Comecei a trabalhar para a Pfizer como Técnico de Processo na produção de vacinas</p>
         `,
           `
-        <p>
-          Decidi deixar a Pfizer porque a posição não era um desafio e havia falta de potencial de crescimento na empresa
-        </p>
+        <p>Decidi deixar a Pfizer porque a posição não era um desafio e havia falta de potencial de crescimento na empresa</p>
         `,
         ],
       },
@@ -644,14 +638,10 @@ const language = {
         country: 'Canadá',
         description: [
           `
-          <p>
-            Mudei-me para Toronto e comecei a trabalhar como barman enquanto procurava uma nova carreira
-          </p>
+          <p>Mudei-me para Toronto e comecei a trabalhar como barman enquanto procurava uma nova carreira</p>
           `,
           `
-          <p>
-            Mudei-me para Vancouver e comecei a estudar espanhol com o intenção de se mudar para a América do Sul
-          </p>
+          <p>Mudei-me para Vancouver e comecei a estudar espanhol com o intenção de se mudar para a América do Sul</p>
           `,
         ],
       },
@@ -659,12 +649,8 @@ const language = {
         country: 'Argentina',
         description: [
           `
-          <p>
-            Mudei-me para Buenos Aires e comecei a trabalhar como professor de inglês enquanto continua a aprender espanhol
-          </p>
-          <p>
-            Dei o primeiro passo na carreira de desenvolvimento web com o freeCodeCamp Curso de Web Design Responsivo
-          </p>
+          <p>Mudei-me para Buenos Aires e comecei a trabalhar como professor de inglês enquanto continua a aprender espanhol</p>
+          <p>Dei o primeiro passo na carreira de desenvolvimento web com o freeCodeCamp Curso de Web Design Responsivo</p>
           `,
         ],
       },
@@ -696,9 +682,7 @@ const language = {
         country: 'Irlanda',
         description: [
           `
-          <p>
-            Regressei à Irlanda com um nível avançado de espanhol e um novo percurso profissional
-          </p>
+          <p>Regressei à Irlanda com um nível avançado de espanhol e um novo percurso profissional</p>
           <p>
             Trabalhei em part-time para a Capita Customer Solutions enquanto estudava desenvolvimento web a tempo inteiro
           </p>
@@ -813,8 +797,10 @@ const updateLanguage = (lang) => {
       '.timeline-grid__description'
     );
     console.log(descriptions);
+    console.log(current.timeline[i].description);
     for (let j = 0; j < descriptions.length; i++) {
-      descriptions[j].innerHTML = current.timeline[i].description[j];
+      console.log(current.timeline[i].description[j]);
+      // descriptions[j].innerHTML = current.timeline[i].description[j];
     }
   }
 };
