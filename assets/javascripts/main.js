@@ -388,21 +388,9 @@ const language = {
       {
         country: 'Irlanda',
         description: [
-          `
-        <p>
-          Me gradué en la Universidad Nacional de Irlanda, Galway, con una Licenciatura en Ciencias, Bioquímica, con una nota de 2,1
-        </p>
-        `,
-          `
-        <p>
-          Empecé a trabajar para Pfizer como Técnico de Procesos en la producción de vacunas
-        </p>
-        `,
-          `
-        <p>
-          Decidí dejar Pfizer porque el puesto no suponía un reto y había una falta de potencial de crecimiento en la empresa
-        </p>
-        `,
+          `<p>Me gradué en la Universidad Nacional de Irlanda, Galway, con una Licenciatura en Ciencias, Bioquímica, con una nota de 2,1</p>`,
+          `<p>Empecé a trabajar para Pfizer como Técnico de Procesos en la producción de vacunas</p>`,
+          `<p>Decidí dejar Pfizer porque el puesto no suponía un reto y había una falta de potencial de crecimiento en la empresa</p>`,
         ],
       },
       {
@@ -800,7 +788,7 @@ const updateLanguage = (lang) => {
     console.log(current.timeline[i].description);
     for (let j = 0; j < descriptions.length; i++) {
       console.log(current.timeline[i].description[j]);
-      // descriptions[j].innerHTML = current.timeline[i].description[j];
+      descriptions[j].innerHTML = current.timeline[i].description[j];
     }
   }
 };
