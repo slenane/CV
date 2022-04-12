@@ -804,7 +804,7 @@ portugueseBtn.addEventListener('click', (e) => {
 });
 
 window.addEventListener('load', () => {
-  if (window.location.url === 'https://slenane.github.io/CV/?lang=ES') {
+  if (window.location.href === 'https://slenane.github.io/CV/?lang=ES') {
     updateLanguage('spanish');
   }
 });
