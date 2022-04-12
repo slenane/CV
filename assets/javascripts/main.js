@@ -802,3 +802,9 @@ portugueseBtn.addEventListener('click', (e) => {
   e.preventDefault();
   updateLanguage('portuguese');
 });
+
+window.addEventListener('load', () => {
+  if (window.location.url === 'https://slenane.github.io/CV/?lang=ES') {
+    updateLanguage('spanish');
+  }
+});
