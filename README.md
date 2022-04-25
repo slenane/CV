@@ -3,33 +3,33 @@
 ### **<span class="position">Web Developer</span>** @ <a target="_blank" href="https://www.gocontact.com/">GoContact, <span class="lisbon">Lisbon</span></a> _(<span class="employment-dates">Jan 2022 - Present</span>)_ <br>
 
 <ul class="employment-description">
-  <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization</li>
-  <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX</li>
-  <li>Provided analysis of competitor websites to implement new features on the GoContact website</li>
-  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality</li>
+  <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
+  <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
+  <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
+  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
 </ul>
 
 **_<span class="key-projects-header">Key projects</span>:_** <br>
 
 <ul class="key-projects">
-  <li>Developed <a target="_blank" href="https://www.cxblog.com/">CXBlog</a>, a customer experience blog with articles from 50+ experts across three languages</li>
-  <li>Developed Roadshow pages to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that generates tickets through API calls</li>
+  <li>Developed <a target="_blank" href="https://www.cxblog.com/">CXBlog</a>, a customer experience blog with articles from 50+ experts across three languages.</li>
+  <li>Developed Roadshow pages to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that generates tickets through API calls.</li>
 </ul>
 
-**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman <br><br>
+**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman. <br><br>
 
 ### **<span class="position">Freelance Web Developer</span>** @ <a target="_blank" href="https://www.stephenlenane.com">stephenlenane.com</a> _(<span class="employment-dates">Dec 2020 - Present</span>)_ <br>
 
 <ul class="employment-description">
-  <li>Design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers</li>
-  <li>Ensure excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores</li>
-  <li>Create online stores with the implementation of e-commerce platform payment gateways and custom product templates</li>
+  <li>Design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
+  <li>Ensure excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores.</li>
+  <li>Create online stores with the implementation of e-commerce platform payment gateways and custom product templates.</li>
 </ul>
 
 **_<span class="key-project-header">Key project</span>:_** <br>
-<span class="key-projects">Designed and developed <a target="_blank" href="https://www.sacredtribe-energyhealing.com/">Sacred Tribe Energy Healing</a>, a personalised e-commerce site based on client's vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. View the <a target="_blank" href="https://github.com/slenane/SacredTribeEnergyHealing">GitHub repository</a> or <a target="_blank" href="https://www.stephenlenane.com">my website</a> for more details</span>
+<span class="key-projects">Designed and developed <a target="_blank" href="https://www.sacredtribe-energyhealing.com/">Sacred Tribe Energy Healing</a>, a personalised e-commerce site based on client's vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. View the <a target="_blank" href="https://github.com/slenane/SacredTribeEnergyHealing">GitHub repository</a> or <a target="_blank" href="https://www.stephenlenane.com">my website</a> for more details.</span>
 
-**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, <span class="and">and</span> GIMP <br><br>
+**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, <span class="and">and</span> GIMP. <br><br>
 
 ## 🛠️ <span class="header">Skills</span>
 
@@ -219,7 +219,7 @@
           <div class="timeline-grid__description">
             <p>
               Graduated from the National University of Ireland, Galway with
-              a 2.1 Honours Bachelor of Science, Biochemistry
+              a 2.1 Honours (3.5 GPA) Bachelor of Science, Biochemistry
             </p>
           </div>
         </div>
