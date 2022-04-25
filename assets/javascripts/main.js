@@ -1,7 +1,7 @@
 // CV translations
 const language = {
   english: {
-    bio: 'Front-end developer from Ireland based in Lisbon, Portugal',
+    bio: 'Front-end developer from Ireland based in Seville, Spain',
     'link-header': 'Get in touch',
     website: 'Website',
     'language-switcher': 'Switch language',
@@ -249,8 +249,8 @@ const language = {
     ],
   },
   spanish: {
-    bio: 'Desarrollador Front-end de Irlanda con base en Lisboa, Portugal',
-    'link-header': 'Póngase en contacto',
+    bio: 'Desarrollador Front-end de Irlanda con base en Sevilla, España',
+    'link-header': 'Contacto',
     website: 'Sitio web',
     'language-switcher': 'Cambiar de idioma',
     'view-on-github': 'Ver Repositorio GitHub',
@@ -472,8 +472,8 @@ const language = {
     ],
   },
   portuguese: {
-    bio: 'Desenvolvedor Front-end da Irlanda baseado em Lisboa, Portugal',
-    'link-header': 'Entre em contacto',
+    bio: 'Desenvolvedor Front-end da Irlanda baseado em Seville, Espanha',
+    'link-header': 'Contacto',
     website: 'Sítio Web',
     'language-switcher': 'Mudar de língua',
     'view-on-github': 'Ver Repositório GitHub',
