@@ -110,20 +110,20 @@
 
 ## 👨‍🎓 <span class="header">Education</span>
 
-**PHP - Become a PHP Master - CMS Project** - <a target="_blank" href="https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/">Udemy</a> _(<span class="course-dates">Mar 2022 - Present</span>)_ <br>
-
-<ul class="course-description">
-  <li>Create a Content Management System</li>
-  <li>Security in PHP</li>
-  <li>Object-Oriented Programming</li>
-</ul>
-
 **React - The Complete Guide** - <a target="_blank" href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">Udemy</a> _(<span class="course-dates">Dec 2021 - Present</span>)_ <br>
 
 <ul class="course-description">
   <li>Hooks, Redux, and React Routing</li>
   <li>Animations</li>
   <li>Next.js</li>
+</ul>
+
+**PHP - Become a PHP Master - CMS Project** - <a target="_blank" href="https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/">Udemy</a> _(<span class="course-dates">Mar 2022 - Apr 2022</span>)_ <br>
+
+<ul class="course-description">
+  <li>Create a Content Management System</li>
+  <li>Security in PHP</li>
+  <li>Object-Oriented Programming</li>
 </ul>
 
 **Diploma in European Digital Marketing and Entrepreneurship** - <a target="_blank" href="http://www.capacityireland.ie/digital-marketing">Capacity Ireland</a> _(<span class="course-dates">Jan 2022 - Mar 2022</span>)_ <br>
