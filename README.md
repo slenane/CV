@@ -29,7 +29,7 @@
 **_<span class="key-project-header">Key project</span>:_** <br>
 <span class="key-projects">Designed and developed <a target="_blank" href="https://www.sacredtribe-energyhealing.com/">Sacred Tribe Energy Healing</a>, a personalised e-commerce site based on client's vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. View the <a target="_blank" href="https://github.com/slenane/SacredTribeEnergyHealing">GitHub repository</a> or <a target="_blank" href="https://www.stephenlenane.com">my website</a> for more details.</span>
 
-**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, SQL, Adobe XD, <span class="and">and</span> GIMP. <br><br>
+**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, Adobe XD, GIMP <span class="and">and</span> Shopify. <br><br>
 
 ## 🛠️ <span class="header">Skills</span>
 
