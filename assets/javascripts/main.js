@@ -33,7 +33,7 @@ const language = {
       },
       {
         position: 'Freelance Web Developer',
-        'employment-dates': 'Dec 2020 - Present',
+        'employment-dates': 'Dec 2020 - Jan 2022',
         'employment-description': `
           <li>Design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
           <li>Ensure excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores.</li>
@@ -292,7 +292,7 @@ const language = {
       },
       {
         position: 'Desarrollador Web Freelance',
-        'employment-dates': 'Dic 2020 - Presente',
+        'employment-dates': 'Dic 2020 - Ene 2022',
         'employment-description': `
           <li>Diseño y desarrollo sitios web personalizados para pequeñas empresas como una alternativa asequible a los costosos proveedores de sitios web de 'drag-and-drop'.</li>
           <li>Garantizo una excelente experiencia de usuario a través de diseños responsivos, con un enfoque en el rendimiento, la accesibilidad y las mejores prácticas para obtener altas puntuaciones de SEO.</li>

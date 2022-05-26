@@ -18,7 +18,7 @@
 
 **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman. <br><br>
 
-### **<span class="position">Freelance Web Developer</span>** @ <a target="_blank" href="https://www.stephenlenane.com">stephenlenane.com</a> _(<span class="employment-dates">Dec 2020 - Present</span>)_ <br>
+### **<span class="position">Freelance Web Developer</span>** @ <a target="_blank" href="https://www.stephenlenane.com">stephenlenane.com</a> _(<span class="employment-dates">Dec 2020 - Jan 2022</span>)_ <br>
 
 <ul class="employment-description">
   <li>Design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
