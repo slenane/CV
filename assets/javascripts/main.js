@@ -486,7 +486,7 @@ const language = {
         country: 'Spain',
         description: [
           `
-          <p>Me mudé permanentemente a Sevilla para seguir mejorando mi español/p>
+          <p>Me mudé permanentemente a Sevilla para seguir mejorando mi español</p>
           <p>Actualmente estoy buscando oportunidades como desarrollador frontend</p>          
           `,
         ],
