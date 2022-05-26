@@ -1,6 +1,6 @@
 ## 💻 <span class="header">Technical Experience</span>
 
-### **<span class="position">Web Developer</span>** @ <a target="_blank" href="https://www.gocontact.com/">GoContact, <span class="lisbon">Lisbon</span></a> _(<span class="employment-dates">Jan 2022 - Present</span>)_ <br>
+### **<span class="position">Web Developer</span>** @ <a target="_blank" href="https://www.gocontact.com/">GoContact, <span class="lisbon">Lisbon</span></a> _(<span class="employment-dates">Jan 2022 - May 2022</span>)_ <br>
 
 <ul class="employment-description">
   <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>

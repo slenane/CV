@@ -18,7 +18,7 @@ const language = {
     lisbon: 'Lisbon',
     experience: [
       {
-        position: 'Junior Web Developer',
+        position: 'Web Developer',
         'employment-dates': 'Jan 2022 - May 2022',
         'employment-description': `
           <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
@@ -278,7 +278,7 @@ const language = {
     experience: [
       {
         position: 'Desarrollador Web',
-        'employment-dates': 'Ene 2022 - Abr 2022',
+        'employment-dates': 'Ene 2022 - May 2022',
         'employment-description': `
           <li>Responsable del soporte, mantenimiento y actualización de los diferentes sitios web de GoContact además de la optimización SEO.</li>
           <li>Trabajé estrechamente con el equipo de diseño para desarrollar sitios que cumplieran con todos los requisitos funcionales con una UX atractiva.</li>
