@@ -35,11 +35,6 @@
 
 <div class="skills-grid">
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/javascript.png"> 
-    <span class="skill-name">JavaScript</span>
-  </div>
-
-  <div class="skill-item">
     <img class="skill-icon" src="./assets/img/html5.png"> 
     <span class="skill-name">HTML</span>
   </div>
@@ -50,23 +45,28 @@
   </div>
 
   <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/sass.png"> 
+    <span class="skill-name">SASS</span>
+  </div>
+
+  <div class="skill-item">
     <img class="skill-icon" src="./assets/img/bootstrap.png"> 
     <span class="skill-name">Bootstrap</span>
   </div>
 
   <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/javascript.png"> 
+    <span class="skill-name">JavaScript</span>
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/typescript.png"> 
+    <span class="skill-name">TypeScript</span>
+  </div>
+
+  <div class="skill-item">
     <img class="skill-icon" src="./assets/img/wordpress.png"> 
     <span class="skill-name">WordPress</span>
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/php.png"> 
-    <span class="skill-name">PHP</span>
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/adobe-xd.png"> 
-    <span class="skill-name">Adobe Xd</span>
   </div>
 
   <div class="skill-item">
@@ -98,7 +98,7 @@
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/spain.png"> 
     <span class="skill-name language-name">Spanish</span>
-    <span class="skill-level language-level">C1 (Advanced)</span>
+    <span class="skill-level language-level">B1 (Intermediate)</span>
   </div>
 
   <div class="skill-item">
@@ -375,7 +375,24 @@
             <p>2022</p>
           </div>
           <div class="timeline-grid__description">
-            <p>Hired as web development intern at GoContact</p>
+            <p>Hired for three month web development internship at GoContact</p>
+            <p>Internship extended by one month</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container spain">
+    <div class="content">
+      <p class="timeline-country">Spain</p>
+      <div class="timeline-grid">
+        <div class="timeline-grid__group">
+          <div class="timeline-grid__date">
+            <p>2022</p>
+          </div>
+          <div class="timeline-grid__description">
+            <p>Permanently moved to Seville to continue to improve my Spanish</p>
+            <p>Currently looking for opportunities as a frontend developer</p>
           </div>
         </div>
       </div>

@@ -41,6 +41,16 @@
         margin: 0 25% 1rem;
       }
 
+      .bio-projects {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        align-items: center;
+      }
+
+      .bio-projects_icon {
+        width: 30px;
+      }
+
       a img,
       .language-flag {
         width: 30px;
@@ -130,6 +140,9 @@
       .container.portugal::after {
         background-image: url(./assets/img/portugal-circle.png);
       }
+      .container.spain::after {
+        background-image: url(./assets/img/spain-circle.png);
+      }
 
       /* The actual content */
       .content {
@@ -206,13 +219,20 @@
         {% endif %}
 
         <p class="bio">{{ site.description | default: site.github.project_tagline }}</p>
+
+        <div class="bio-projects">
+          <img class="bio-projects_icon" src="./assets/img/chesscom.png" alt="Chess.com icon">
+          <div>
+            <p><span class="creator">Creator of</span> <a href="https://chrome.google.com/webstore/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh?hl=en">Daily Chess Puzzle</a></p>
+          </div>
+        </div>
         
         <p><b><span class="link-header">Get in touch<span></b> <br>
           <a target="_blank" href="https://www.stephenlenane.com/"><span class="website">Website</span></a> / <a target="_blank" href="mailto:info@stephenlenane.com">Email</a> / <a target="_blank" href="https://github.com/slenane">GitHub</a> / <a target="_blank" href="https://www.linkedin.com/in/stephen-lenane-6756a0228/">LinkedIn</a>
         </p>
         
         <p><b><span class="switch-language">Switch language<span></b> <br>
-          <a class="lang-eng" href="#"><img src="./assets/img/united-kingdom.png"></a> <a class="lang-esp" href="#"><img src="./assets/img/spain.png"></a> <a class="lang-por" href="#"><img src="./assets/img/portugal.png"></a>
+          <a class="lang-eng" href="#"><img src="./assets/img/united-kingdom.png"></a> <a class="lang-esp" href="#"><img src="./assets/img/spain.png"></a> 
         </p>
 
         {% if site.github.is_user_page %}

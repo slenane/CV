@@ -3,6 +3,7 @@ const language = {
   english: {
     bio: 'Front-end developer from Ireland based in Seville, Spain',
     'link-header': 'Get in touch',
+    creator: 'Creator of',
     website: 'Website',
     'language-switcher': 'Switch language',
     'view-on-github': 'View GitHub Repository',
@@ -17,8 +18,8 @@ const language = {
     lisbon: 'Lisbon',
     experience: [
       {
-        position: 'Web Developer',
-        'employment-dates': 'Jan 2022 - Present',
+        position: 'Junior Web Developer',
+        'employment-dates': 'Jan 2022 - May 2022',
         'employment-description': `
           <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
           <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
@@ -48,24 +49,24 @@ const language = {
     and: 'and',
     languages: [
       ['English', 'Native'],
-      ['Spanish', 'C1 (Advanced)'],
+      ['Spanish', 'B1 (Intermediate)'],
       ['Portuguese', 'A2 (Beginner)'],
     ],
     education: [
-      {
-        dates: 'Mar 2022 - Present',
-        'course-focus': `
-          <li>Create a Content Management System</li>
-          <li>Security in PHP</li>
-          <li>Object-Oriented Programming</li>
-        `,
-      },
       {
         dates: 'Dec 2021 - Present',
         'course-focus': `
           <li>Hooks, Redux, and React Routing</li>
           <li>Animations</li>
           <li>Next.js</li>
+        `,
+      },
+      {
+        dates: 'Mar 2022 - Apr 2022',
+        'course-focus': `
+          <li>Create a Content Management System</li>
+          <li>Security in PHP</li>
+          <li>Object-Oriented Programming</li>
         `,
       },
       {
@@ -242,7 +243,17 @@ const language = {
         country: 'Portugal',
         description: [
           `
-          <p>Hired as web development intern at GoContact</p>
+          <p>Hired for three month web development internship at GoContact</p>
+          <p>Internship extended by one month</p>          
+          `,
+        ],
+      },
+      {
+        country: 'Spain',
+        description: [
+          `
+          <p>Permanently moved to Seville to continue to improve my Spanish</p>
+          <p>Currently looking for opportunities as a frontend developer</p>          
           `,
         ],
       },
@@ -250,6 +261,7 @@ const language = {
   },
   spanish: {
     bio: 'Desarrollador Front-end de Irlanda con base en Sevilla, España',
+    creator: 'Creador de',
     'link-header': 'Contacto',
     website: 'Sitio web',
     'language-switcher': 'Cambiar de idioma',
@@ -266,7 +278,7 @@ const language = {
     experience: [
       {
         position: 'Desarrollador Web',
-        'employment-dates': 'Ene 2022 - Presente',
+        'employment-dates': 'Ene 2022 - Abr 2022',
         'employment-description': `
           <li>Responsable del soporte, mantenimiento y actualización de los diferentes sitios web de GoContact además de la optimización SEO.</li>
           <li>Trabajé estrechamente con el equipo de diseño para desarrollar sitios que cumplieran con todos los requisitos funcionales con una UX atractiva.</li>
@@ -296,24 +308,24 @@ const language = {
     and: 'y',
     languages: [
       ['Inglés', 'Nativo'],
-      ['Español', 'C1 (Avanzado)'],
+      ['Español', 'B1 (Intermedio)'],
       ['Portugués', 'A2 (Principiante)'],
     ],
     education: [
-      {
-        dates: 'Mar 2022 - Presente',
-        'course-focus': `
-          <li>Crear un Sistema de Gestión de Contenidos (Content Management System, CMS)</li>
-          <li>Seguridad en PHP</li>
-          <li>Programación Orientada a Objetos</li>
-        `,
-      },
       {
         dates: 'Dic 2021 - Presente',
         'course-focus': `
           <li>Hooks, Redux, y React Routing</li>
           <li>Animaciones</li>
           <li>Next.js</li>
+        `,
+      },
+      {
+        dates: 'Mar 2022 - Abr 2022',
+        'course-focus': `
+          <li>Crear un Sistema de Gestión de Contenidos (Content Management System, CMS)</li>
+          <li>Seguridad en PHP</li>
+          <li>Programación Orientada a Objetos</li>
         `,
       },
       {
@@ -465,226 +477,17 @@ const language = {
         country: 'Portugal',
         description: [
           `
-          <p>Me contrataron como becario de desarrollo web en GoContact</p>
-          `,
-        ],
-      },
-    ],
-  },
-  portuguese: {
-    bio: 'Desenvolvedor Front-end da Irlanda baseado em Seville, Espanha',
-    'link-header': 'Contacto',
-    website: 'Sítio Web',
-    'language-switcher': 'Mudar de língua',
-    'view-on-github': 'Ver Repositório GitHub',
-    host: 'Alojado nas Páginas GitHub — Tema por',
-    headers: [
-      'Experiência Técnica',
-      'Competências',
-      'Línguas',
-      'Educação',
-      'Cronologia Pessoal',
-    ],
-    lisbon: 'Lisboa',
-    experience: [
-      {
-        position: 'Desenvolvedor Web',
-        'employment-dates': 'Jan 2022 - Presente',
-        'employment-description': `
-          <li>Responsável pelo apoio, manutenção e actualização dos diferentes websites da GoContact, para além da optimização de SEO.</li>
-          <li>Trabalhei de perto com a equipa de design para desenvolver sítios que satisfaçam todos os requisitos funcionais com um UX envolvente..</li>
-          <li>Fiz a análise dos websites concorrentes para implementar novas funcionalidades no website da GoContact.</li>
-          <li>Desenvolvi sítios multilinguísticos com WordPress e PHP. Isto exigiu o uso de JavaScript personalizado para melhorar o UX e a funcionalidade.</li>
-        `,
-        'key-projects': `
-          <li>Desenvolvi o <a href="https://www.cxblog.com/">CXBlog</a>, um blog de experiência do cliente com artigos de mais de 50 especialistas em três línguas.</li>
-          <li>Desenvolvi uma página de Roadshow para demonstrar as capacidades do sistema GoContact Contact Center-as-a-service que gera bilhetes através de chamadas API.</li>
-        `,
-      },
-      {
-        position: 'Desenvolvedor Web Freelancer',
-        'employment-dates': 'Dez 2020 - Presente',
-        'employment-description': `
-          <li>Desenho e desenvolvo sítios Web personalizados para pequenas empresas como uma alternativa acessível aos fornecedores de sítios Web dispendiosos de drag-and-drop.</li>
-          <li>Asseguro uma excelente experiência do utilizador através de concepções reactivas, com foco no desempenho, acessibilidade e melhores práticas para obter altas pontuações SEO.</li>
-          <li>Crio lojas online com a implementação de gateways de pagamento de plataformas de comércio electrónico e modelos de produtos personalizados.</li>
-        `,
-        'key-projects':
-          'Desenhei e desenvolvi o <a href="https://www.sacredtribe-energyhealing.com/">Sacred Tribe Energy Healing</a>, um site de comércio electrónico personalizado baseado na visão do cliente e reduzi para metade as suas taxas mensais no site. Shopify foi integrada para gerir pagamentos seguros, inventário de produtos e para fornecer ao cliente o controlo total do negócio. Ver o <a href="https://github.com/slenane/SacredTribeEnergyHealing">repositório GitHub</a> ou o meu <a href="https://www.stephenlenane.com">website</a> para mais detalhes.',
-      },
-    ],
-    'key-projects-header': 'Projectos-chave',
-    'key-project-header': 'Projecto-chave',
-    'technology-used': 'Tecnologia utilizada',
-    and: 'e',
-    languages: [
-      ['Inglês', 'Nativo'],
-      ['Espanhol', 'C1 (Avançado)'],
-      ['Português', 'A2 (Principiante)'],
-    ],
-    education: [
-      {
-        dates: 'Mar 2022 - Presente',
-        'course-focus': `
-          <li>Criar um Sistema de Gestão de Conteúdos (Content Management System, CMS)</li>
-          <li>Segurança em PHP</li>
-          <li>Programação Orientada a Objectos</li>
-        `,
-      },
-      {
-        dates: 'Dez 2021 - Presente',
-        'course-focus': `
-          <li>Hooks, Redux, e React Routing</li>
-          <li>Animações</li>
-          <li>Next.js</li>
-        `,
-      },
-      {
-        dates: 'Jan 2022 - Mar 2022',
-        'course-focus': `
-          <li>Tecnologias e Práticas de Marketing Digital</li>
-          <li>Métodos Criativos para o Marketing Social Media</li>
-          <li>Gestão de Marketing nas Mídias Sociais</li>
-          <li>Meios de Comunicação Digitais Europeus e Internacionais</li>
-        `,
-      },
-      {
-        dates: 'Jun 2021 - Out 2021',
-        'course-focus': `
-          <li>Construção rápida e escalável de aplicações web do lado do servidor com Node.js</li>
-          <li>APIs REST e APIs GraphQL</li>
-          <li>Utilização de bases de dados como MongoDB e SQL</li>
-        `,
-      },
-      {
-        dates: 'Fev 2021 - Jun 2021',
-        'course-focus': `
-          <li>Linguagens C, Python e JavaScript</li>
-          <li>Os tópicos incluíram abstracção, algoritmos, estruturas de dados, encapsulamento, gestão de recursos, segurança, engenharia de software, e desenvolvimento web</li>
-          <li>Como pensar algorítmicamente e resolver problemas de forma eficiente</li>
-        `,
-      },
-      {
-        dates: 'Jun 2020 - Set 2020',
-        'course-focus': `
-          <li>Fundamentos do Javascript moderno</li>
-          <li>Programação Orientada a Objectos</li>
-          <li>JavaScript Assíncrono</li>
-        `,
-      },
-      {
-        dates: 'Jul 2020 - Ago 2020',
-        'course-focus': `
-          <li>Fundamentos do JavaScript incluindo variáveis, matrizes, objectos, loops, e funções</li>
-          <li>Criação de algoritmos para manipular cordas, factorializar números, e calcular a órbita da Estação Espacial Internacional</li>
-          <li>Programação Orientada a Objectos e Programação Funcional</li>
-        `,
-      },
-      {
-        dates: 'Jun 2020 - Jul 2020',
-        'course-focus': `
-          <li>Construir 30 projectos JavaScript em 30 dias</li>
-          <li>Manipulação DOM</li>
-          <li>Captura de eventos, propagação, borbulhamento, e once</li>
-        `,
-      },
-      {
-        dates: 'Fev 2020 - Jun 2020',
-        'course-focus': `
-          <li>HTML5, CSS3, JavaScript, Node.js, Express, e MongoDB</li>
-          <li>AJAX e APIs</li>
-          <li>HTTPS e Segurança</li>
-        `,
-      },
-      {
-        dates: 'Dez 2019 - Jan 2020',
-        'course-focus': `
-          <li>Construir páginas web com HTML e CSS</li>
-          <li>Flexbox e CSS Grid</li>
-        `,
-      },
-    ],
-    degree: 'Bacharelato em Ciências',
-    course: ' - Bioquímica - 2.1 Honras (3.5 GPA)',
-    'textbooks-read': 'Livros de Texto Lidos',
-    timeline: [
-      {
-        country: 'Irlanda',
-        description: [
-          `
-        <p>Licenciei-me na Universidade Nacional da Irlanda, Galway, com a 2.1 Honras (3.5 GPA) Bacharelato em Ciências, Bioquímica</p>
-        `,
-          `
-        <p>Comecei a trabalhar para a Pfizer como Técnico de Processo na produção de vacinas</p>
-        `,
-          `
-        <p>Decidi deixar a Pfizer porque a posição não era um desafio e havia falta de potencial de crescimento na empresa</p>
-        `,
-        ],
-      },
-      {
-        country: 'Canadá',
-        description: [
-          `
-          <p>Mudei-me para Toronto e comecei a trabalhar como barman enquanto procurava uma nova carreira</p>
-          `,
-          `
-          <p>Mudei-me para Vancouver e comecei a estudar espanhol com o intenção de se mudar para a América do Sul</p>
+          <p>Me contrataron como pasante de desarrollo web por tres meses en GoContact</p>
+          <p>Las pasantía se prolongó por un mes</p>
           `,
         ],
       },
       {
-        country: 'Argentina',
+        country: 'Spain',
         description: [
           `
-          <p>Mudei-me para Buenos Aires e comecei a trabalhar como professor de inglês enquanto continua a aprender espanhol</p>
-          <p>Dei o primeiro passo na carreira de desenvolvimento web com o freeCodeCamp Curso de Web Design Responsivo</p>
-          `,
-        ],
-      },
-      {
-        country: 'Uruguay',
-        description: [
-          `
-          <p>
-            Mudei-me para La Paloma para ensinar inglês enquanto continuava a estudar Desenvolvimento espanhol e web
-          </p>
-          <p>Construí as minhas primeiras páginas HTML/CSS estáticas</p>
-          `,
-        ],
-      },
-      {
-        country: 'Bolívia',
-        description: [
-          `
-          <p>
-            Viajei para a Bolívia numas férias e fiquei encalhado durante a pandemia do coronavírus
-          </p>
-          <p>
-            Fiz vários cursos de JavaScript e construí a minha primeira aplicação JavaScript
-          </p>
-          `,
-        ],
-      },
-      {
-        country: 'Irlanda',
-        description: [
-          `
-          <p>Regressei à Irlanda com um nível avançado de espanhol e um novo percurso profissional</p>
-          <p>
-            Trabalhei em part-time para a Capita Customer Solutions enquanto estudava desenvolvimento web a tempo inteiro
-          </p>
-          <p>
-            Construí a minha primeira aplicação web full-stack e comecei a trabalhar como programador web freelancer
-          </p>
-          `,
-        ],
-      },
-      {
-        country: 'Portugal',
-        description: [
-          `
-          <p>Fui contratado como estagiário de desenvolvimento web na GoContact</p>
+          <p>Me mudé permanentemente a Sevilla para seguir mejorando mi español/p>
+          <p>Actualmente estoy buscando oportunidades como desarrollador frontend</p>          
           `,
         ],
       },
@@ -695,10 +498,10 @@ const language = {
 // Language switcher buttons
 const englishBtn = document.querySelector('.lang-eng');
 const spanishBtn = document.querySelector('.lang-esp');
-const portugueseBtn = document.querySelector('.lang-por');
 
 // Content to be updated on language change
 let bio = document.querySelector('.bio');
+let creator = document.querySelector('.creator');
 let lisbon = document.querySelector('.lisbon');
 let linkHeader = document.querySelector('.link-header');
 let website = document.querySelector('.website');
@@ -733,9 +536,9 @@ const updateLanguage = (lang) => {
   let current;
   if (lang === 'english') current = language.english;
   else if (lang === 'spanish') current = language.spanish;
-  else if (lang === 'portuguese') current = language.portuguese;
   // Update the content
   bio.textContent = current.bio;
+  creator.textContent = current.creator;
   lisbon.textContent = current.lisbon;
   linkHeader.textContent = current['link-header'];
   website.textContent = current.website;
@@ -797,10 +600,6 @@ englishBtn.addEventListener('click', (e) => {
 spanishBtn.addEventListener('click', (e) => {
   e.preventDefault();
   updateLanguage('spanish');
-});
-portugueseBtn.addEventListener('click', (e) => {
-  e.preventDefault();
-  updateLanguage('portuguese');
 });
 
 window.addEventListener('load', () => {
