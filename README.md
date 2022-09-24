@@ -4,8 +4,8 @@
 
 <ul class="employment-description">
   <li>Responsible for the development and testing of new features on bmetric's Angular application.</li>
-  <li>Identification of bugs and performance of optimization on JavaScript applications.</li>
   <li>Consultation on Javascript tasks with the Customer Success Team to deliver custom functionality and optimal UX.</li>
+  <li>Identification of bugs and performance of optimization on JavaScript applications.</li>
   <li>Performance of code reviews and application management through version control.</li>
 </ul>
 
