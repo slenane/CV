@@ -15,8 +15,19 @@ const language = {
       'Education',
       'Personal Timeline',
     ],
+    copenhagen: 'Copenhagen',
     lisbon: 'Lisbon',
     experience: [
+      {
+        position: 'Frontend Developer',
+        'employment-dates': 'Jun 2022 - Present',
+        'employment-description': `
+          <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
+          <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
+          <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
+          <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
+        `
+      },
       {
         position: 'Web Developer',
         'employment-dates': 'Jan 2022 - May 2022',
@@ -25,11 +36,7 @@ const language = {
           <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
           <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
           <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
-        `,
-        'key-projects': `
-          <li>Developed <a href="https://www.cxblog.com/">CXBlog</a>, a customer experience blog with articles from 50+ experts across three languages.</li>
-          <li>Developed Roadshow pages to demonstrate the capabilities of the GoContact Contact Center-as-a-service system that generates tickets through API calls.</li>
-        `,
+        `
       },
       {
         position: 'Freelance Web Developer',
@@ -38,27 +45,22 @@ const language = {
           <li>Design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
           <li>Ensure excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores.</li>
           <li>Create online stores with the implementation of e-commerce platform payment gateways and custom product templates.</li>
-        `,
-        'key-projects':
-          'Designed and developed <a href="https://www.sacredtribe-energyhealing.com/">Sacred Tribe Energy Healing</a>, a personalised e-commerce site based on client\'s vision and halved their monthly website fees. Shopify was integrated to handle secure payments, product inventory and to provide the client with full control of the business. View the <a href="https://github.com/slenane/SacredTribeEnergyHealing">GitHub repository</a> or <a href="https://www.stephenlenane.com">my website</a> for more details.',
+        `
       },
     ],
-    'key-projects-header': 'Key projects',
-    'key-project-header': 'Key project',
     'technology-used': 'Technologies used',
     and: 'and',
     languages: [
       ['English', 'Native'],
-      ['Spanish', 'B1 (Intermediate)'],
-      ['Portuguese', 'A2 (Beginner)'],
+      ['Spanish', 'B1 (Intermediate)']
     ],
     education: [
       {
-        dates: 'Dec 2021 - Present',
+        dates: 'Jul 2022 - Sep 2022',
         'course-focus': `
-          <li>Hooks, Redux, and React Routing</li>
-          <li>Animations</li>
-          <li>Next.js</li>
+          <li>Angular Component and Service Testing</li>
+          <li>Continuous Integration with Travis CI</li>
+          <li>Angular E2E Testing with Cypress</li>
         `,
       },
       {
@@ -137,127 +139,6 @@ const language = {
     degree: 'Bachelor of Science',
     course: ' - Biochemistry - 2.1 Honours (3.5 GPA)',
     'textbooks-read': 'Textbooks Read',
-    timeline: [
-      {
-        country: 'Ireland',
-        description: [
-          `
-        <p>
-          Graduated from the National University of Ireland, Galway with
-          a 2.1 Honours Bachelor of Science, Biochemistry
-        </p>
-        `,
-          `
-        <p>
-          Began working for Pfizer as a Process Technician in vaccine
-          production
-        </p>
-        `,
-          `
-        <p>
-          Decided to leave Pfizer as the position was not challenging
-          and there was a lack of potential for growth in the company
-        </p>
-        `,
-        ],
-      },
-      {
-        country: 'Canada',
-        description: [
-          `
-          <p>
-            Moved to Toronto and began working as a bartender while
-            searching for a new career
-          </p>
-          `,
-          `
-          <p>
-            Moved to Vancouver and began studying Spanish with the
-            intention of moving to South America
-          </p>
-          `,
-        ],
-      },
-      {
-        country: 'Argentina',
-        description: [
-          `
-          <p>
-            Moved to Buenos Aires and began working as an English teacher
-            while continuing to learn Spanish
-          </p>
-          <p>
-            Took first step to career in web development with freeCodeCamp
-            Responsive Web Design course
-          </p>
-          `,
-        ],
-      },
-      {
-        country: 'Uruguay',
-        description: [
-          `
-          <p>
-            Moved to La Paloma to teach English while continuing to study
-            Spanish and web development
-          </p>
-          <p>Built first static HTML/CSS pages</p>
-          `,
-        ],
-      },
-      {
-        country: 'Bolivia',
-        description: [
-          `
-          <p>
-            Traveled to Bolivia on a holiday and became stranded during
-            the coronavirus pandemic
-          </p>
-          <p>
-            Took several JavaScript courses and built first JavaScript
-            application
-          </p>
-          `,
-        ],
-      },
-      {
-        country: 'Ireland',
-        description: [
-          `
-          <p>
-            Returned to Ireland with an advanced level of Spanish and a
-            new career path
-          </p>
-          <p>
-            Worked part-time for Capita Customer Solutions while studying
-            web development full-time
-          </p>
-          <p>
-            Built first full-stack web application and began working as a
-            freelance web developer
-          </p>
-          `,
-        ],
-      },
-      {
-        country: 'Portugal',
-        description: [
-          `
-          <p>Hired for three month web development internship at GoContact</p>
-          <p>Internship extended by one month</p>          
-          `,
-        ],
-      },
-      {
-        country: 'Spain',
-        description: [
-          `
-          <p>Permanently moved to Seville to continue to improve my Spanish</p>
-          <p>Currently looking for opportunities as a frontend developer</p>          
-          `,
-        ],
-      },
-    ],
   },
   spanish: {
     bio: 'Desarrollador Front-end de Irlanda con base en Sevilla, España',
@@ -274,8 +155,19 @@ const language = {
       'Educación',
       'Cronología Personal',
     ],
+    copenhagen: 'Copenhague',
     lisbon: 'Lisboa',
     experience: [
+      {
+        position: 'Desarrollador Web Frontend',
+        'employment-dates': 'Jun 2022 - Presente',
+        'employment-description': `
+          <li>Responsable del soporte, mantenimiento y actualización de los diferentes sitios web de GoContact además de la optimización SEO.</li>
+          <li>Trabajé estrechamente con el equipo de diseño para desarrollar sitios que cumplieran con todos los requisitos funcionales con una UX atractiva.</li>
+          <li>Proporcioné análisis de los sitios web de la competencia para implementar nuevas funciones en el sitio web de GoContact.</li>
+          <li>Desarrollé sitios multilingües tanto con WordPress como con PHP. Esto requirió el uso de JavaScript personalizado para mejorar la UX y la funcionalidad.</li>
+        `
+      },
       {
         position: 'Desarrollador Web',
         'employment-dates': 'Ene 2022 - May 2022',
@@ -284,11 +176,7 @@ const language = {
           <li>Trabajé estrechamente con el equipo de diseño para desarrollar sitios que cumplieran con todos los requisitos funcionales con una UX atractiva.</li>
           <li>Proporcioné análisis de los sitios web de la competencia para implementar nuevas funciones en el sitio web de GoContact.</li>
           <li>Desarrollé sitios multilingües tanto con WordPress como con PHP. Esto requirió el uso de JavaScript personalizado para mejorar la UX y la funcionalidad.</li>
-        `,
-        'key-projects': `
-          <li>Desarrollé <a href="https://www.cxblog.com/">CXBlog</a>, un blog de experiencia del cliente con artículos de más de 50 expertos en tres idiomas.</li>
-          <li>Desarrollé páginas Roadshow para demostrar las capacidades del sistema GoContact Contact Center-as-a-service que genera tickets a través de llamadas API.</li>
-        `,
+        `
       },
       {
         position: 'Desarrollador Web Freelance',
@@ -297,27 +185,22 @@ const language = {
           <li>Diseño y desarrollo sitios web personalizados para pequeñas empresas como una alternativa asequible a los costosos proveedores de sitios web de 'drag-and-drop'.</li>
           <li>Garantizo una excelente experiencia de usuario a través de diseños responsivos, con un enfoque en el rendimiento, la accesibilidad y las mejores prácticas para obtener altas puntuaciones de SEO.</li>
           <li>Creo tiendas online con la implementación de pasarelas de pago de plataformas de comercio electrónico y plantillas de productos personalizadas.</li>
-        `,
-        'key-projects':
-          'Diseñé y desarrollé <a href="https://www.sacredtribe-energyhealing.com/">Sacred Tribe Energy Healing</a>, un sitio de comercio electrónico personalizado basado en la visión del cliente y reduje a la mitad sus tarifas mensuales del sitio web. Se integró Shopify para gestionar los pagos seguros, el inventario de productos y para proporcionar al cliente el control total del negocio. Ver el <a href="https://github.com/slenane/SacredTribeEnergyHealing">repositorio GitHub</a> o mi <a href="https://www.stephenlenane.com">sitio web</a> para más detalles.',
+        `
       },
     ],
-    'key-projects-header': 'Proyectos clave',
-    'key-project-header': 'Proyecto clave',
     'technology-used': 'Tecnología utilizada',
     and: 'y',
     languages: [
       ['Inglés', 'Nativo'],
-      ['Español', 'B1 (Intermedio)'],
-      ['Portugués', 'A2 (Principiante)'],
+      ['Español', 'B1 (Intermedio)']
     ],
     education: [
       {
-        dates: 'Dic 2021 - Presente',
+        dates: 'Jul 2022 - Sep 2022',
         'course-focus': `
-          <li>Hooks, Redux, y React Routing</li>
-          <li>Animaciones</li>
-          <li>Next.js</li>
+          <li>Pruebas de componentes y servicios de Angular</li>
+          <li>Integración continua con Travis CI</li>
+          <li>Pruebas E2E de Angular con Cypress</li>
         `,
       },
       {
@@ -396,102 +279,6 @@ const language = {
     degree: 'Licenciado en Ciencias',
     course: ' - Bioquímica - 2.1 Honores (3.5 GPA)',
     'textbooks-read': 'Libros de Texto Leídos',
-    timeline: [
-      {
-        country: 'Irlanda',
-        description: [
-          `<p>Me gradué en la Universidad Nacional de Irlanda, Galway, con una Licenciatura en Ciencias, Bioquímica, con la segunda nota más alta</p>`,
-          `<p>Empecé a trabajar para Pfizer como Técnico de Procesos en la producción de vacunas</p>`,
-          `<p>Decidí dejar Pfizer porque el puesto no suponía un reto y había una falta de potencial de crecimiento en la empresa</p>`,
-        ],
-      },
-      {
-        country: 'Canadá',
-        description: [
-          `
-          <p>
-            Me mudé a Toronto y empecé a trabajar como camarero mientras buscaba una nueva carrera
-          </p>
-          `,
-          `
-          <p>
-           Me mudé a Vancouver y empecé a estudiar español con la intención de irme a Sudamérica
-          </p>
-          `,
-        ],
-      },
-      {
-        country: 'Argentina',
-        description: [
-          `
-          <p>
-           Me mudé a Buenos Aires y comencé a trabajar como profesor de inglés mientras seguía aprendiendo español
-          </p>
-          <p>
-           Di el primer paso en la carrera de desarrollo web con el curso de Diseño Web Responsivo de freeCodeCamp
-          </p>
-          `,
-        ],
-      },
-      {
-        country: 'Uruguay',
-        description: [
-          `
-          <p>
-            Me mudé a La Paloma para enseñar inglés mientras seguía estudiando español y desarrollo web
-          </p>
-          <p>Construí mis primeras páginas estáticas HTML/CSS</p>
-          `,
-        ],
-      },
-      {
-        country: 'Bolivia',
-        description: [
-          `
-          <p>
-            Viajé a Bolivia y tuve que quedarme durante la pandemia de coronavirus
-          </p>
-          <p>
-            Hice varios cursos de JavaScript y construí mi primera aplicación de JavaScript
-          </p>
-          `,
-        ],
-      },
-      {
-        country: 'Irlanda',
-        description: [
-          `
-          <p>
-            Volví a Irlanda con un nivel avanzado de español y una nueva trayectoria profesional
-          </p>
-          <p>
-            Trabajé a tiempo parcial para Capita Customer Solutions mientras estudiaba desarrollo web a tiempo completo
-          </p>
-          <p>
-            Construí mi primera aplicación web full-stack y empecé a trabajar como desarrollador web freelance
-          </p>
-          `,
-        ],
-      },
-      {
-        country: 'Portugal',
-        description: [
-          `
-          <p>Me contrataron como pasante de desarrollo web por tres meses en GoContact</p>
-          <p>Las pasantía se prolongó por un mes</p>
-          `,
-        ],
-      },
-      {
-        country: 'Spain',
-        description: [
-          `
-          <p>Me mudé permanentemente a Sevilla para seguir mejorando mi español</p>
-          <p>Actualmente estoy buscando oportunidades como desarrollador frontend</p>          
-          `,
-        ],
-      },
-    ],
   },
 };
 
@@ -500,45 +287,43 @@ const englishBtn = document.querySelector('.lang-eng');
 const spanishBtn = document.querySelector('.lang-esp');
 
 // Content to be updated on language change
-let bio = document.querySelector('.bio');
-let creator = document.querySelector('.creator');
-let lisbon = document.querySelector('.lisbon');
-let linkHeader = document.querySelector('.link-header');
-let website = document.querySelector('.website');
-let languageSwitch = document.querySelector('.switch-language');
-let viewOnGithub = document.querySelector('.view-on-github');
-let host = document.querySelector('.host');
-let textbooksRead = document.querySelector('.textbooks-read');
-let degree = document.querySelector('.degree');
-let degreeCourse = document.querySelector('.degree-course');
-let and = document.querySelectorAll('.and');
-let headers = document.querySelectorAll('.header');
-let positions = document.querySelectorAll('.position');
-let employmentDates = document.querySelectorAll('.employment-dates');
-let employmentDescriptions = document.querySelectorAll(
-  '.employment-description'
-);
-let keyProjects = document.querySelectorAll('.key-projects');
-let keyProjectsHeader = document.querySelectorAll('.key-projects-header');
-let keyProjectHeader = document.querySelectorAll('.key-project-header');
-let technologyUsed = document.querySelectorAll('.technology-used');
-let languageName = document.querySelectorAll('.language-name');
-let languageLevel = document.querySelectorAll('.language-level');
-let courseDates = document.querySelectorAll('.course-dates');
-let courseDescription = document.querySelectorAll('.course-description');
+const bio = document.querySelector('.bio');
+const creator = document.querySelector('.creator');
+const copenhagen = document.querySelector('.copenhagen');
+const lisbon = document.querySelector('.lisbon');
+const linkHeader = document.querySelector('.link-header');
+const website = document.querySelector('.website');
+const languageSwitch = document.querySelector('.switch-language');
+const viewOnGithub = document.querySelector('.view-on-github');
+const host = document.querySelector('.host');
+const textbooksRead = document.querySelector('.textbooks-read');
+const degree = document.querySelector('.degree');
+const degreeCourse = document.querySelector('.degree-course');
+const and = document.querySelectorAll('.and');
+const headers = document.querySelectorAll('.header');
+const positions = document.querySelectorAll('.position');
+const employmentDates = document.querySelectorAll('.employment-dates');
+const employmentDescriptions = document.querySelectorAll('.employment-description');
+// const keyProjects = document.querySelectorAll('.key-projects');
+// const keyProjectsHeader = document.querySelectorAll('.key-projects-header');
+// const keyProjectHeader = document.querySelectorAll('.key-project-header');
+const technologyUsed = document.querySelectorAll('.technology-used');
+const languageName = document.querySelectorAll('.language-name');
+const languageLevel = document.querySelectorAll('.language-level');
+const courseDates = document.querySelectorAll('.course-dates');
+const courseDescription = document.querySelectorAll('.course-description');
 // Timeline
-let timeline = document.querySelector('.timeline');
-let sections = timeline.querySelectorAll('.container');
+// const timeline = document.querySelector('.timeline');
+// const sections = timeline.querySelectorAll('.container');
 
 // Update the currently displayed language
 const updateLanguage = (lang) => {
   // Get the current language
-  let current;
-  if (lang === 'english') current = language.english;
-  else if (lang === 'spanish') current = language.spanish;
+  const current = lang === 'english' ? language.english : language.spanish;
   // Update the content
   bio.textContent = current.bio;
   creator.textContent = current.creator;
+  copenhagen.textContent = current.copenhagen;
   lisbon.textContent = current.lisbon;
   linkHeader.textContent = current['link-header'];
   website.textContent = current.website;
@@ -553,12 +338,12 @@ const updateLanguage = (lang) => {
   technologyUsed.forEach(
     (tech) => (tech.textContent = current['technology-used'])
   );
-  keyProjectsHeader.forEach(
-    (header) => (header.textContent = current['key-projects-header'])
-  );
-  keyProjectHeader.forEach(
-    (header) => (header.textContent = current['key-project-header'])
-  );
+  // keyProjectsHeader.forEach(
+  //   (header) => (header.textContent = current['key-projects-header'])
+  // );
+  // keyProjectHeader.forEach(
+  //   (header) => (header.textContent = current['key-project-header'])
+  // );
   // Loop through all conent
   for (let i = 0; i < headers.length; i++) {
     headers[i].textContent = current.headers[i];
@@ -566,9 +351,8 @@ const updateLanguage = (lang) => {
   for (let i = 0; i < positions.length; i++) {
     positions[i].textContent = current.experience[i].position;
     employmentDates[i].textContent = current.experience[i]['employment-dates'];
-    employmentDescriptions[i].innerHTML =
-      current.experience[i]['employment-description'];
-    keyProjects[i].innerHTML = current.experience[i]['key-projects'];
+    employmentDescriptions[i].innerHTML = current.experience[i]['employment-description'];
+    // keyProjects[i].innerHTML = current.experience[i]['key-projects'];
   }
   for (let i = 0; i < languageName.length; i++) {
     languageName[i].textContent = current.languages[i][0];
@@ -580,16 +364,16 @@ const updateLanguage = (lang) => {
   for (let i = 0; i < courseDescription.length; i++) {
     courseDescription[i].innerHTML = current.education[i]['course-focus'];
   }
-  for (let i = 0; i < sections.length; i++) {
-    let country = sections[i].querySelector('.timeline-country');
-    country.textContent = current.timeline[i].country;
-    let descriptions = sections[i].querySelectorAll(
-      '.timeline-grid__description'
-    );
-    for (let j = 0; j < descriptions.length; j++) {
-      descriptions[j].innerHTML = current.timeline[i].description[j];
-    }
-  }
+  // for (let i = 0; i < sections.length; i++) {
+  //   let country = sections[i].querySelector('.timeline-country');
+  //   country.textContent = current.timeline[i].country;
+  //   let descriptions = sections[i].querySelectorAll(
+  //     '.timeline-grid__description'
+  //   );
+  //   for (let j = 0; j < descriptions.length; j++) {
+  //     descriptions[j].innerHTML = current.timeline[i].description[j];
+  //   }
+  // }
 };
 
 // Event listeners

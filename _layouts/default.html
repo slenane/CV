@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <title>Stephen Lenane | CV</title>
     <meta charset="UTF-8">
@@ -8,7 +8,7 @@
 
 
 {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <!-- FAVICON -->
     <link rel="shortcut icon" href="https://raw.githubusercontent.com/slenane/cv/gh-pages/assets/img/favicon.ico" type="image/x-icon"> 
     <!--[if lt IE 9]>
@@ -86,19 +86,19 @@
         font-style: italic;
       }
 
-      /* TIMELINE */
+      /* TIMELINE
       .timeline-start-date,
       .timeline-end-date {
         font-weight: bold;
       }
 
       /* The actual timeline (the vertical ruler) */
-      .timeline {
+      /*.timeline {
         position: relative;
-      }
+      } */
 
       /* The actual timeline (the vertical ruler) */
-      .timeline::after {
+      /*.timeline::after {
         content: '';
         position: absolute;
         width: 4px;
@@ -107,18 +107,18 @@
         bottom: 0;
         left: 3%;
         margin-left: -3px;
-      }
+      } */
 
       /* Container around content */
-      .container {
+      /*.container {
         padding: 0 40px;
         position: relative;
         background-color: inherit;
         width: 100%;
-      }
+      } */
 
       /* Points on the timeline */
-      .container::after {
+      /*.container::after {
         content: '';
         position: absolute;
         width: 32px;
@@ -149,12 +149,11 @@
       }
       .container.spain::after {
         background-image: url(./assets/img/spain-circle.png);
-      }
+      }*/
 
       /* The actual content */
-      .content {
+      /*.content {
         padding: 10px 0;
-        /* background-color: #f7f7f7; */
         position: relative;
         border-radius: 10px;
       }
@@ -168,13 +167,12 @@
       .timeline-grid__group {
         display: grid;
         grid-template-columns: auto 1fr;
-        /* align-items: center; */
         gap: 10px;
       }
 
       .timeline-grid__date {
         font-weight: bold;
-      }
+      } */
 
       @media (max-width: 700px) {
         h1 {
@@ -191,27 +189,26 @@
         }
 
       /* The actual timeline (the vertical ruler) */
-      .timeline::after {
+      /*.timeline::after {
         left: 2%;
       }
-
       .container::after {
         top: 11px;
       }
-
+*/
       /* Container around content */
-      .container {
+       /* .container {
         padding: 0 0 0 30px;
       }
-
+      */
       /* Points on the timeline */
-      .container::after {
+      /*.container::after {
         left: -10px;
       }
 
       .timeline-country {
         font-size: 16px;
-      }
+      }*/
       }
     </style>
     
@@ -239,7 +236,8 @@
         </p>
         
         <p><b><span class="switch-language">Switch language<span></b> <br>
-          <a class="lang-eng" href="#"><img src="./assets/img/united-kingdom.png"></a> <a class="lang-esp" href="#"><img src="./assets/img/spain.png"></a> 
+          <a class="lang-eng" href="#"><img src="./assets/img/united-kingdom.png"></a>
+          <a class="lang-esp" href="#"><img src="./assets/img/spain.png"></a> 
         </p>
 
         {% if site.github.is_user_page %}
@@ -266,7 +264,7 @@
         <p><small><span class="host">Hosted on GitHub Pages &mdash; Theme by</span> <a target="_blank" href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    <script src="./assets/javascripts/main.js""></script>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <script src="./assets/javascripts/main.js"></script>
   </body>
 </html>
