@@ -3,13 +3,13 @@
 ### **<span class="position">Frontend Developer</span>** @ <a target="_blank" href="https://bmetric.com/">bmetric, <span class="copenhagen">Copenhagen</span></a> _(<span class="employment-dates">Jun 2022 - Present</span>)_ <br>
 
 <ul class="employment-description">
-  <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
-  <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
-  <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
-  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
+  <li>Responsible for the development and testing of new features on the Angular application.</li>
+  <li>Identification of bugs and performance optimization of JavaScript applications.</li>
+  <li>Consultation on Javascript tasks with the Customer Success Team to deliver optimal UX.</li>
+  <li>Performance of code reviews and application management through version control.</li>
 </ul>
 
-**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman. <br><br>
+**_<span class="technology-used">Technologies used</span>:_** Angular, TypeScript, JavaScript, HTML, SCSS, Jasmine, <span class="and">and</span> Karma. <br><br>
 
 ### **<span class="position">Web Developer</span>** @ <a target="_blank" href="https://www.gocontact.com/">GoContact, <span class="lisbon">Lisbon</span></a> _(<span class="employment-dates">Jan 2022 - May 2022</span>)_ <br>
 
@@ -25,9 +25,9 @@
 ### **<span class="position">Freelance Web Developer</span>** @ <a target="_blank" href="https://www.stephenlenane.com">stephenlenane.com</a> _(<span class="employment-dates">Dec 2020 - Jan 2022</span>)_ <br>
 
 <ul class="employment-description">
-  <li>Design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
-  <li>Ensure excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores.</li>
-  <li>Create online stores with the implementation of e-commerce platform payment gateways and custom product templates.</li>
+  <li>Designed and developed custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
+  <li>Ensured excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores.</li>
+  <li>Created online stores with the implementation of e-commerce platform payment gateways and custom product templates.</li>
 </ul>
 
 **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, Adobe XD, GIMP <span class="and">and</span> Shopify. <br><br>

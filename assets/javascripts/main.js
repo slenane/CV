@@ -1,7 +1,7 @@
 // CV translations
 const language = {
   english: {
-    bio: 'Front-end developer from Ireland based in Seville, Spain',
+    bio: 'Frontend developer from Ireland based in Seville, Spain',
     'link-header': 'Get in touch',
     creator: 'Creator of',
     website: 'Website',
@@ -13,7 +13,6 @@ const language = {
       'Skills',
       'Languages',
       'Education',
-      'Personal Timeline',
     ],
     copenhagen: 'Copenhagen',
     lisbon: 'Lisbon',
@@ -22,10 +21,10 @@ const language = {
         position: 'Frontend Developer',
         'employment-dates': 'Jun 2022 - Present',
         'employment-description': `
-          <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
-          <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
-          <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
-          <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
+          <li>Responsible for the development and testing of new features on the Angular application.</li>
+          <li>Identification of bugs and performance optimization of JavaScript applications.</li>
+          <li>Consultation on Javascript tasks with the Customer Success Team to deliver optimal UX.</li>
+          <li>Performance of code reviews and application management through version control.</li>
         `
       },
       {
@@ -42,9 +41,9 @@ const language = {
         position: 'Freelance Web Developer',
         'employment-dates': 'Dec 2020 - Jan 2022',
         'employment-description': `
-          <li>Design and develop custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
-          <li>Ensure excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores.</li>
-          <li>Create online stores with the implementation of e-commerce platform payment gateways and custom product templates.</li>
+          <li>Designed and developed custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
+          <li>Ensured excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores.</li>
+          <li>Created online stores with the implementation of e-commerce platform payment gateways and custom product templates.</li>
         `
       },
     ],
@@ -141,7 +140,7 @@ const language = {
     'textbooks-read': 'Textbooks Read',
   },
   spanish: {
-    bio: 'Desarrollador Front-end de Irlanda con base en Sevilla, España',
+    bio: 'Desarrollador Frontend de Irlanda con base en Sevilla, España',
     creator: 'Creador de',
     'link-header': 'Contacto',
     website: 'Sitio web',
@@ -153,7 +152,6 @@ const language = {
       'Habilidades',
       'Idiomas',
       'Educación',
-      'Cronología Personal',
     ],
     copenhagen: 'Copenhague',
     lisbon: 'Lisboa',
@@ -162,10 +160,10 @@ const language = {
         position: 'Desarrollador Web Frontend',
         'employment-dates': 'Jun 2022 - Presente',
         'employment-description': `
-          <li>Responsable del soporte, mantenimiento y actualización de los diferentes sitios web de GoContact además de la optimización SEO.</li>
-          <li>Trabajé estrechamente con el equipo de diseño para desarrollar sitios que cumplieran con todos los requisitos funcionales con una UX atractiva.</li>
-          <li>Proporcioné análisis de los sitios web de la competencia para implementar nuevas funciones en el sitio web de GoContact.</li>
-          <li>Desarrollé sitios multilingües tanto con WordPress como con PHP. Esto requirió el uso de JavaScript personalizado para mejorar la UX y la funcionalidad.</li>
+          <li>Responsable del desarrollo y prueba de nuevas funcionalidades en la aplicación Angular.</li>
+          <li>Identificación de errores y optimización del rendimiento de las aplicaciones JavaScript.</li>
+          <li>Consulta sobre las tareas de Javascript con el equipo de éxito del cliente para ofrecer una UX óptima.</li>
+          <li>Realización de revisiones de código y gestión de aplicaciones mediante el control de versiones.</li>
         `
       },
       {
@@ -182,9 +180,9 @@ const language = {
         position: 'Desarrollador Web Freelance',
         'employment-dates': 'Dic 2020 - Ene 2022',
         'employment-description': `
-          <li>Diseño y desarrollo sitios web personalizados para pequeñas empresas como una alternativa asequible a los costosos proveedores de sitios web de 'drag-and-drop'.</li>
-          <li>Garantizo una excelente experiencia de usuario a través de diseños responsivos, con un enfoque en el rendimiento, la accesibilidad y las mejores prácticas para obtener altas puntuaciones de SEO.</li>
-          <li>Creo tiendas online con la implementación de pasarelas de pago de plataformas de comercio electrónico y plantillas de productos personalizadas.</li>
+          <li>Diseñé y desarrollé sitios web personalizados para pequeñas empresas como una alternativa asequible a los costosos proveedores de sitios web de 'drag-and-drop'.</li>
+          <li>Aseguré una excelente experiencia de usuario a través de diseños responsivos, con un enfoque en el rendimiento, la accesibilidad y las mejores prácticas para obtener altas puntuaciones de SEO.</li>
+          <li>Creé tiendas online con la implementación de pasarelas de pago de plataformas de comercio electrónico y plantillas de productos personalizadas.</li>
         `
       },
     ],
@@ -304,19 +302,12 @@ const headers = document.querySelectorAll('.header');
 const positions = document.querySelectorAll('.position');
 const employmentDates = document.querySelectorAll('.employment-dates');
 const employmentDescriptions = document.querySelectorAll('.employment-description');
-// const keyProjects = document.querySelectorAll('.key-projects');
-// const keyProjectsHeader = document.querySelectorAll('.key-projects-header');
-// const keyProjectHeader = document.querySelectorAll('.key-project-header');
 const technologyUsed = document.querySelectorAll('.technology-used');
 const languageName = document.querySelectorAll('.language-name');
 const languageLevel = document.querySelectorAll('.language-level');
 const courseDates = document.querySelectorAll('.course-dates');
 const courseDescription = document.querySelectorAll('.course-description');
-// Timeline
-// const timeline = document.querySelector('.timeline');
-// const sections = timeline.querySelectorAll('.container');
 
-// Update the currently displayed language
 const updateLanguage = (lang) => {
   // Get the current language
   const current = lang === 'english' ? language.english : language.spanish;
@@ -333,47 +324,20 @@ const updateLanguage = (lang) => {
   textbooksRead.textContent = current['textbooks-read'];
   degree.textContent = current.degree;
   degreeCourse.textContent = current.course;
-  // Use forEach for repeated content
-  and.forEach((item) => (item.textContent = current.and));
-  technologyUsed.forEach(
-    (tech) => (tech.textContent = current['technology-used'])
-  );
-  // keyProjectsHeader.forEach(
-  //   (header) => (header.textContent = current['key-projects-header'])
-  // );
-  // keyProjectHeader.forEach(
-  //   (header) => (header.textContent = current['key-project-header'])
-  // );
-  // Loop through all conent
-  for (let i = 0; i < headers.length; i++) {
-    headers[i].textContent = current.headers[i];
-  }
+  and.forEach(item => item.textContent = current.and);
+  technologyUsed.forEach(tech => tech.textContent = current['technology-used']);
+  for (let i = 0; i < headers.length; i++) headers[i].textContent = current.headers[i];
+  for (let i = 0; i < courseDates.length; i++) courseDates[i].textContent = current.education[i].dates;
+  for (let i = 0; i < courseDescription.length; i++) courseDescription[i].innerHTML = current.education[i]['course-focus'];
   for (let i = 0; i < positions.length; i++) {
     positions[i].textContent = current.experience[i].position;
     employmentDates[i].textContent = current.experience[i]['employment-dates'];
     employmentDescriptions[i].innerHTML = current.experience[i]['employment-description'];
-    // keyProjects[i].innerHTML = current.experience[i]['key-projects'];
   }
   for (let i = 0; i < languageName.length; i++) {
     languageName[i].textContent = current.languages[i][0];
     languageLevel[i].textContent = current.languages[i][1];
   }
-  for (let i = 0; i < courseDates.length; i++) {
-    courseDates[i].textContent = current.education[i].dates;
-  }
-  for (let i = 0; i < courseDescription.length; i++) {
-    courseDescription[i].innerHTML = current.education[i]['course-focus'];
-  }
-  // for (let i = 0; i < sections.length; i++) {
-  //   let country = sections[i].querySelector('.timeline-country');
-  //   country.textContent = current.timeline[i].country;
-  //   let descriptions = sections[i].querySelectorAll(
-  //     '.timeline-grid__description'
-  //   );
-  //   for (let j = 0; j < descriptions.length; j++) {
-  //     descriptions[j].innerHTML = current.timeline[i].description[j];
-  //   }
-  // }
 };
 
 // Event listeners
@@ -385,9 +349,6 @@ spanishBtn.addEventListener('click', (e) => {
   e.preventDefault();
   updateLanguage('spanish');
 });
-
 window.addEventListener('load', () => {
-  if (window.location.href === 'https://slenane.github.io/cv/?lang=ES') {
-    updateLanguage('spanish');
-  }
+  if (window.location.href === 'https://slenane.github.io/cv/?lang=ES') updateLanguage('spanish');
 });
