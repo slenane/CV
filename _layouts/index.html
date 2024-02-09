@@ -13,75 +13,7 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]--> 
-    <style>
-      * { box-sizing: border-box; }
-      body { font-family: 'Segoe UI'; }
-      h3 { font-size: 0.95rem; }
-      p { margin-bottom: 10px !important; }
-      ul { padding-inline-start: 20px; }
-
-      .avatar {
-        text-align: center;
-        max-width: 50%;
-        margin: 0 25% 1rem;
-      }
-
-      .bio-projects {
-        display: grid;
-        grid-template-columns: auto 1fr;
-        align-items: center;
-        gap: 0.2rem;
-        margin-bottom: 10px !important;
-      }
-
-      .bio-projects_icon {
-        width: 16px;
-      }
-
-      .bio-projects_text p {
-        margin-bottom: 0 !important;
-        font-size: 0.8rem;
-      }
-
-      a img,
-      .language-flag {
-        width: 30px;
-        margin-right: 5px;
-        margin-bottom: 5px;
-      }
-
-      .skills-grid {
-        display: grid;
-        grid-template-columns: repeat(4, 25%);
-        margin-top: 25px;
-        gap: 20px 0;
-      }
-
-      .skill-icon { width: 45px; }
-
-      .skill-name {
-        display: block;
-        font-size: 0.75rem;
-      }
-
-      .skill-level {
-        font-size: 0.7rem;
-        font-style: italic;
-      }
-
-      @media (max-width: 700px) {
-        h1 { text-align: center; }
-
-        .avatar {
-          max-width: 40%;
-          margin: 0 30% 0;
-        }
-
-        .skill-icon {
-          width: 35px;
-        }
-      }
-    </style>
+    <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
     <div class="wrapper">
@@ -93,9 +25,13 @@
         <p class="bio">{{ site.description | default: site.github.project_tagline }}</p>
 
         <div class="bio-projects">
-          <img class="bio-projects_icon" src="./assets/img/chesscom.png" alt="Chess.com icon">
-          <div class="bio-projects_text">
-            <p><span class="creator">Creator of</span> <a target="_blank" href="https://chrome.google.com/webstore/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh?hl=en">Daily Chess Puzzle</a></p>
+          <div class="bio-project">
+            <img class="bio-projects_icon" src="./assets/img/roadmapr.png" alt="Chess.com icon">
+            <p class="bio-projects_text"><span class="creator">Creator of</span> <a target="_blank" href="https://www.roadmapr.dev">roadmapr</a></p>
+          </div>
+          <div class="bio-project">
+            <img class="bio-projects_icon" src="./assets/img/chesscom.png" alt="Chess.com icon">
+            <p class="bio-projects_text"><span class="creator">Creator of</span> <a target="_blank" href="https://chrome.google.com/webstore/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh?hl=en">Daily Chess Puzzle</a></p>
           </div>
         </div>
         

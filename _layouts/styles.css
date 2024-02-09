@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI";
+}
+
+h3 {
+  font-size: 0.95rem;
+}
+
+p {
+  margin-bottom: 10px !important;
+}
+
+ul {
+  padding-inline-start: 20px;
+}
+
+.avatar {
+  text-align: center;
+  max-width: 50%;
+  margin: 0 25% 1rem;
+}
+
+.bio-project {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 0.2rem;
+  margin-bottom: 10px !important;
+}
+
+.bio-projects_icon {
+  width: 16px;
+}
+
+.bio-projects_text {
+  margin-bottom: 0 !important;
+  font-size: 0.8rem;
+}
+
+a img,
+.language-flag {
+  width: 30px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  margin-top: 25px;
+  gap: 20px 0;
+}
+
+.skill-icon {
+  width: 45px;
+}
+
+.skill-name {
+  display: block;
+  font-size: 0.75rem;
+}
+
+.skill-level {
+  font-size: 0.7rem;
+  font-style: italic;
+}
+
+@media (max-width: 700px) {
+  h1 {
+    text-align: center;
+  }
+
+  .avatar {
+    max-width: 40%;
+    margin: 0 30% 0;
+  }
+
+  .skill-icon {
+    width: 35px;
+  }
+}
