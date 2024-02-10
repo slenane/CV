@@ -11,33 +11,33 @@
 
 **_<span class="technology-used">Technologies used</span>:_** <br>
 
-<div class="skills-grid">
+<div class="skills-grid-sm">
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/angular.png"> 
+    <img class="skill-icon-sm" src="./assets/img/angular.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/typescript.png"> 
+    <img class="skill-icon-sm" src="./assets/img/typescript.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/html5.png"> 
+    <img class="skill-icon-sm" src="./assets/img/html5.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/sass.png"> 
+    <img class="skill-icon-sm" src="./assets/img/sass.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/javascript.png"> 
+    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/jasmine.png"> 
+    <img class="skill-icon-sm" src="./assets/img/jasmine.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/git.png"> 
+    <img class="skill-icon-sm" src="./assets/img/git.png"> 
   </div>
 </div>
 <br><br>
@@ -53,106 +53,112 @@
 
 **_<span class="technology-used">Technologies used</span>:_** <br>
 
- <div class="skills-grid">
+ <div class="skills-grid-sm">
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/html5.png"> 
+    <img class="skill-icon-sm" src="./assets/img/html5.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/css3.png"> 
+    <img class="skill-icon-sm" src="./assets/img/css3.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/javascript.png"> 
+    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/wordpress.png"> 
+    <img class="skill-icon-sm" src="./assets/img/wordpress.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/php.png"> 
+    <img class="skill-icon-sm" src="./assets/img/php.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/xd.png"> 
+    <img class="skill-icon-sm" src="./assets/img/xd.png"> 
   </div>
 </div>
  <br><br>
 
 ## 🛠️ <span class="header">Projects</span>
 
-### **<span class="position"><a target="_blank" href="https://www.roadmapr.dev">roadmapr</a></span>** <br>
-
-<!-- ### **<span class="position">Freelance Web Developer</span>** @ <a target="_blank" href="https://www.stephenlenane.com">stephenlenane.com</a> _(<span class="employment-dates">Dec 2020 - Jan 2022</span>)_ <br>
+### **<span class="position">roadmapr</span>** <a target="_blank" href="https://www.roadmapr.dev">roadmapr.dev</a> <br>
 
 <ul class="employment-description">
-  <li>Designed and developed custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
-  <li>Ensured excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores.</li>
-  <li>Created online stores with the implementation of e-commerce platform payment gateways and custom product templates.</li>
+  <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
+  <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
+  <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
+  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
 </ul>
 
-**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, Adobe XD, GIMP <span class="and">and</span> Shopify. <br><br> -->
-
-<!-- ## 🛠️ <span class="header">Skills</span>
-
-<div class="skills-grid">
+<div class="skills-grid-sm">
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/javascript.png">
-    <span class="skill-name">JavaScript</span>
+    <img class="skill-icon-sm" src="./assets/img/angular.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/typescript.png">
-    <span class="skill-name">TypeScript</span>
+    <img class="skill-icon-sm" src="./assets/img/typescript.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/angular.png">
-    <span class="skill-name">Angular</span>
+    <img class="skill-icon-sm" src="./assets/img/html5.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/jasmine.png">
-    <span class="skill-name">Jasmine</span>
+    <img class="skill-icon-sm" src="./assets/img/sass.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/html5.png">
-    <span class="skill-name">HTML</span>
+    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/css3.png">
-    <span class="skill-name">CSS</span>
+    <img class="skill-icon-sm" src="./assets/img/nodejs.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/sass.png">
-    <span class="skill-name">SASS</span>
+    <img class="skill-icon-sm" src="./assets/img/mongodb.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/bootstrap.png">
-    <span class="skill-name">Bootstrap</span>
+    <img class="skill-icon-sm" src="./assets/img/git.png"> 
+  </div>
+</div>
+
+<br><br>
+
+### **<span class="position">Daily Chess Puzzle</span>** <a target="_blank" href="https://chromewebstore.google.com/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh">Daily Chess Puzzle</a> <br>
+
+<ul class="employment-description">
+  <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
+  <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
+  <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
+  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
+</ul>
+
+<div class="skills-grid-sm">
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/nodejs.png">
-    <span class="skill-name">Node.js</span>
+    <img class="skill-icon-sm" src="./assets/img/html5.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/mongodb.png">
-    <span class="skill-name">MongoDB</span>
+    <img class="skill-icon-sm" src="./assets/img/css3.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/git.png">
-    <span class="skill-name">Git</span>
+    <img class="skill-icon-sm" src="./assets/img/nodejs.png"> 
   </div>
 
-</div><br><br> -->
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/git.png"> 
+  </div>
+</div>
+
+<br><br>
 
 ## 💬 <span class="header">Languages</span>
 
@@ -264,6 +270,7 @@
 
 **📚 <span class="textbooks-read">Textbooks Read</span>:**
 
+- Clean Code - Robert C. Martin <br>
 - Pro Angular - Adam Freeman <br>
 - Programming PHP - Peter MacIntyre <br>
 - Node.js Web Development - David Herron <br>
