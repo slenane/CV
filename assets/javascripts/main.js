@@ -4,11 +4,8 @@ const language = {
     bio: "Frontend developer from Ireland based in Seville, Spain",
     "link-header": "Get in touch",
     creator: "Creator of",
-    website: "Website",
     "language-switcher": "Switch language",
     headers: ["Technical Experience", "Projects", "Languages", "Education"],
-    copenhagen: "Copenhagen",
-    lisbon: "Lisbon",
     experience: [
       {
         position: "Frontend Developer",
@@ -40,8 +37,6 @@ const language = {
         `,
       },
     ],
-    "technology-used": "Technologies used",
-    and: "and",
     languages: [
       ["English", "Native"],
       ["Spanish", "B1 (Intermediate)"],
@@ -137,11 +132,8 @@ const language = {
     bio: "Desarrollador Frontend de Irlanda con base en Sevilla, España",
     creator: "Creador de",
     "link-header": "Contacto",
-    website: "Sitio web",
     "language-switcher": "Cambiar de idioma",
     headers: ["Experiencia Técnica", "Habilidades", "Idiomas", "Educación"],
-    copenhagen: "Copenhague",
-    lisbon: "Lisboa",
     experience: [
       {
         position: "Desarrollador Web Frontend",
@@ -173,8 +165,6 @@ const language = {
         `,
       },
     ],
-    "technology-used": "Tecnología utilizada",
-    and: "y",
     languages: [
       ["Inglés", "Nativo"],
       ["Español", "B1 (Intermedio)"],
@@ -269,28 +259,22 @@ const language = {
 
 // Language switcher buttons
 const englishBtn = document.querySelector(".lang-eng");
-const spanishBtn = document.querySelector(".lang-esp");
+const italianBtn = document.querySelector(".lang-ita");
 
 // Content to be updated on language change
 const bio = document.querySelector(".bio");
 const creator = document.querySelector(".creator");
-const copenhagen = document.querySelector(".copenhagen");
-const lisbon = document.querySelector(".lisbon");
 const linkHeader = document.querySelector(".link-header");
-const website = document.querySelector(".website");
 const languageSwitch = document.querySelector(".switch-language");
-const viewOnGithub = document.querySelector(".view-on-github");
 const textbooksRead = document.querySelector(".textbooks-read");
 const degree = document.querySelector(".degree");
 const degreeCourse = document.querySelector(".degree-course");
-const and = document.querySelectorAll(".and");
 const headers = document.querySelectorAll(".header");
 const positions = document.querySelectorAll(".position");
 const employmentDates = document.querySelectorAll(".employment-dates");
 const employmentDescriptions = document.querySelectorAll(
   ".employment-description"
 );
-const technologyUsed = document.querySelectorAll(".technology-used");
 const languageName = document.querySelectorAll(".language-name");
 const languageLevel = document.querySelectorAll(".language-level");
 const courseDates = document.querySelectorAll(".course-dates");
@@ -302,19 +286,11 @@ const updateLanguage = (lang) => {
   // Update the content
   bio.textContent = current.bio;
   creator.textContent = current.creator;
-  copenhagen.textContent = current.copenhagen;
-  lisbon.textContent = current.lisbon;
   linkHeader.textContent = current["link-header"];
-  website.textContent = current.website;
   languageSwitch.textContent = current["language-switcher"];
-  viewOnGithub.textContent = current["view-on-github"];
   textbooksRead.textContent = current["textbooks-read"];
   degree.textContent = current.degree;
   degreeCourse.textContent = current.course;
-  and.forEach((item) => (item.textContent = current.and));
-  technologyUsed.forEach(
-    (tech) => (tech.textContent = current["technology-used"])
-  );
   for (let i = 0; i < headers.length; i++)
     headers[i].textContent = current.headers[i];
   for (let i = 0; i < courseDates.length; i++)
@@ -338,13 +314,13 @@ englishBtn.addEventListener("click", (e) => {
   e.preventDefault();
   updateLanguage("english");
 });
-spanishBtn.addEventListener("click", (e) => {
+italianBtn.addEventListener("click", (e) => {
   e.preventDefault();
-  updateLanguage("spanish");
+  updateLanguage("italian");
 });
 window.addEventListener("load", () => {
-  if (window.location.href === "https://slenane.github.io/cv/?lang=ES")
-    updateLanguage("spanish");
+  if (window.location.href === "https://slenane.github.io/cv/?lang=IT")
+    updateLanguage("italian");
 });
 
 const tooltip = document.getElementById("tooltip");
