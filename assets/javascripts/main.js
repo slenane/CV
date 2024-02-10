@@ -337,8 +337,8 @@ tooltipElements.forEach(function (element) {
 
     // Display the tooltip at the mouse position
     tooltip.style.display = "block";
-    tooltip.style.top = event.clientY - 30 + "px";
-    tooltip.style.left = event.clientX - 37 + "px";
+    tooltip.style.top = event.clientY - 40 + "px";
+    tooltip.style.left = event.clientX - 20 + "px";
   });
 
   // Hide the tooltip on mouseout
