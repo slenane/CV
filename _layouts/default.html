@@ -54,10 +54,16 @@
         display: grid;
         grid-template-columns: auto 1fr;
         gap: 1rem;
+        align-items: center;
+        margin-bottom: 1rem;
+      }
+
+      .name {
+        margin-bottom: 0 !important;
       }
 
       .avatar {
-        max-width: 3rem;
+        width: 3rem;
       }
 
       .bio-project {
@@ -149,7 +155,7 @@
         font-style: italic;
       }
 
-      @media (min-width: 1000px) {
+      @media (min-width: 960px) {
         section {
          width: 550px !important;
         }
@@ -159,8 +165,8 @@
       }
 
       .avatar {
-        max-width: 7rem;
-        margin: 0 3rem 1rem;
+        width: 7rem;
+        margin: 0 3rem;
       }
       }
 
@@ -182,7 +188,7 @@
         <div class="bio-header">
           <img src="{{site.logo | relative_url}}" class="avatar" alt="Logo" />
   
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <h1 class="name">{{ site.title | default: site.github.repository_name }}</h1>
         </div>
 
         <p class="bio">{{ site.description | default: site.github.project_tagline }}</p>
