@@ -50,10 +50,14 @@
         padding-inline-start: 20px;
       }
 
+      .bio-header {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 1rem;
+      }
+
       .avatar {
-        text-align: center;
-        max-width: 45%;
-        margin: 0 3rem 1rem;
+        max-width: 3rem;
       }
 
       .bio-project {
@@ -102,13 +106,13 @@
 
       .position-skills-grid {
         display: flex;
-        gap: .8rem;
+        gap: .5rem;
         justify-content: flex-end;
         align-items: center;
       }
 
       .position-skill {
-        width: 18px;
+        width: 16px;
       }
 
       .sub-header {
@@ -124,22 +128,11 @@
         color: white !important;
       }
 
-      .skills-grid-sm {
-        display: grid;
-        grid-template-columns: repeat(8, 1fr);
-        margin-top: 10px;
-        gap: 1rem;
-      }
-
       .skills-grid {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         margin-top: 10px;
         gap: 1rem;
-      }
-
-      .skill-icon-sm {
-        width: 24px;
       }
 
       .skill-icon {
@@ -160,6 +153,15 @@
         section {
          width: 550px !important;
         }
+
+        .bio-header {
+        grid-template-columns: 1fr;
+      }
+
+      .avatar {
+        max-width: 7rem;
+        margin: 0 3rem 1rem;
+      }
       }
 
       @media (min-width: 1700px) {
@@ -176,9 +178,12 @@
   <body>
     <div class="wrapper">
       <header>
-        <img src="{{site.logo | relative_url}}" class="avatar" alt="Logo" />
 
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <div class="bio-header">
+          <img src="{{site.logo | relative_url}}" class="avatar" alt="Logo" />
+  
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </div>
 
         <p class="bio">{{ site.description | default: site.github.project_tagline }}</p>
 
