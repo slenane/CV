@@ -8,7 +8,6 @@
       <img class="position-skill" src="./assets/img/typescript.png"> 
       <img class="position-skill" src="./assets/img/html5.png"> 
       <img class="position-skill" src="./assets/img/sass.png"> 
-      <img class="position-skill" src="./assets/img/javascript.png"> 
       <img class="position-skill" src="./assets/img/jasmine.png"> 
       <img class="position-skill" src="./assets/img/git.png"> 
     </div>
@@ -20,7 +19,7 @@
   <ul class="employment-description">
     <li>Lead a team of 3 frontend developers in project execution and delivery.</li>
     <li>Designed and implemented new UI to modernize the application.</li>
-    <li>Played a key role in task planning and prioritization.</li>
+    <li>Play a key role in task planning and prioritization.</li>
     <li>Provide training to new employees and feedback on technical assessments.</li>
   </ul>
 </div>
@@ -33,7 +32,6 @@
       <img class="position-skill" src="./assets/img/typescript.png"> 
       <img class="position-skill" src="./assets/img/html5.png"> 
       <img class="position-skill" src="./assets/img/sass.png"> 
-      <img class="position-skill" src="./assets/img/javascript.png"> 
       <img class="position-skill" src="./assets/img/jasmine.png"> 
       <img class="position-skill" src="./assets/img/git.png"> 
     </div>
@@ -97,10 +95,9 @@
   </div>
 
   <ul class="employment-description">
-  <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
-  <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
-  <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
-  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
+  <li>roadmapr is a free-to-use platform designed for self-taught developers to organize and track their progress while receiving recommendations from users who have become professional developers.</li>
+  <li>Built with Angular and Node.js, this platform aims to provide a clear path for self-taught developers to employment based on their chosen stack and location.</li>
+  <li>If you are interested demoing roadmapr without needing to sign up, send me an email and I will give you guest credentials.</li>
   </ul>
 </div>
 
@@ -120,10 +117,10 @@
   </div>
 
   <ul class="employment-description">
-  <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
-  <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
-  <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
-  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
+  <li>Solve chess.com's Daily Puzzle with unlimited access to the puzzle archives, for free!</li>
+  <li>This chrome extension was created as my final project for Harvard University's Introduction to Computer Science (CS50) course and currently has over 600 weekly users.</li>
+  <li>Built mainly using JavaScript, this extension allows users to access chess.com's free daily puzzle straight from the browser.</li>
+  <li>Using chess.com's API, I was able to access the daily chess archives through the random puzzle property that is updated every 15 seconds, essentially allowing user's to have unlimited access to chess.com puzzles for free.</li>
   </ul>
 </div>
 <br>
