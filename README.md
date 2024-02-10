@@ -20,9 +20,38 @@
   <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
 </ul>
 
-**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman. <br><br>
+**_<span class="technology-used">Technologies used</span>:_** <br>
 
-### **<span class="position">Freelance Web Developer</span>** @ <a target="_blank" href="https://www.stephenlenane.com">stephenlenane.com</a> _(<span class="employment-dates">Dec 2020 - Jan 2022</span>)_ <br>
+<!-- HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman. -->
+
+ <div class="skills-grid-sm">
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/typescript.png"> 
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/angular.png"> 
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/jasmine.png"> 
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/html5.png"> 
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/css3.png"> 
+  </div>
+</div>
+ <br><br>
+
+<!-- ### **<span class="position">Freelance Web Developer</span>** @ <a target="_blank" href="https://www.stephenlenane.com">stephenlenane.com</a> _(<span class="employment-dates">Dec 2020 - Jan 2022</span>)_ <br>
 
 <ul class="employment-description">
   <li>Designed and developed custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
@@ -30,7 +59,7 @@
   <li>Created online stores with the implementation of e-commerce platform payment gateways and custom product templates.</li>
 </ul>
 
-**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, Adobe XD, GIMP <span class="and">and</span> Shopify. <br><br>
+**_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, Adobe XD, GIMP <span class="and">and</span> Shopify. <br><br> -->
 
 ## 🛠️ <span class="header">Skills</span>
 
