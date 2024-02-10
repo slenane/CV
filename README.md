@@ -16,12 +16,9 @@
     <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - <span class="employment-dates">Nov 2023 - Present</span></div>
   </div>
 
-  <ul class="employment-description">
-    <li>Lead a team of 3 frontend developers in project execution and delivery.</li>
-    <li>Designed and implemented new UI to modernize the application.</li>
-    <li>Play a key role in task planning and prioritization.</li>
-    <li>Provide training to new employees and feedback on technical assessments.</li>
-  </ul>
+  <div class="employment-description">
+    <p>Lead a team of 3 frontend developers in project execution and delivery. Design and implement new UI features to modernize the application. Play a key role in task planning and prioritization. Provide training to new employees and offer feedback on technical assessments.</p>
+  </div>
 </div>
 
 <div class="position">
@@ -41,11 +38,11 @@
   </div>
 
   <ul class="employment-description">
-    <li>Responsible for the development and testing of new features on bmetric's Angular application.</li>
+    <li>Was responsible for the development and testing of new features on bmetric's Angular application.</li>
     <li>Developed reporting dashboards to drive user engagement</li>
     <li>Stabilized application by implementing essential updates, bug fixes, and adding more than 1,000 unit tests</li>
     <li>Enhanced user-friendliness by updating editors/interfaces.</li>
-    <li>Performance of code reviews and application management through version control.</li>
+    <li>Performed code reviews and application management through version control.</li>
   </ul>
 </div>
 
@@ -66,10 +63,10 @@
   </div>
 
   <ul class="employment-description">
-  <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
-  <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
-  <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
-  <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
+    <li>Was responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
+    <li>Worked closely with the design team to develop sites that met all functional requirements with an engaging UX.</li>
+    <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
+    <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
   </ul>
 </div>
 <br>
