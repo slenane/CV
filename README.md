@@ -14,13 +14,39 @@
     </div>
   </div>
   <div class="sub-header">
-    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - Jun 2022 - Present</div>
+    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - Nov 2023 - Present</div>
+  </div>
+
+  <ul class="employment-description">
+    <li>Lead a team of 3 frontend developers in project execution and delivery.</li>
+    <li>Designed and implemented new UI to modernize the application.</li>
+    <li>Played a key role in task planning and prioritization.</li>
+    <li>Provide training to new employees and feedback on technical assessments.</li>
+  </ul>
+</div>
+
+<div class="position">
+  <div class="position-header">
+    <h3 class="position-title">Frontend Developer</h3>
+    <div class="position-skills-grid">
+      <img class="position-skill" src="./assets/img/angular.png"> 
+      <img class="position-skill" src="./assets/img/typescript.png"> 
+      <img class="position-skill" src="./assets/img/html5.png"> 
+      <img class="position-skill" src="./assets/img/sass.png"> 
+      <img class="position-skill" src="./assets/img/javascript.png"> 
+      <img class="position-skill" src="./assets/img/jasmine.png"> 
+      <img class="position-skill" src="./assets/img/git.png"> 
+    </div>
+  </div>
+  <div class="sub-header">
+    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - Jun 2022 - Nov 2023</div>
   </div>
 
   <ul class="employment-description">
     <li>Responsible for the development and testing of new features on bmetric's Angular application.</li>
-    <li>Consultation on Javascript tasks with the Customer Success Team to deliver custom functionality and optimal UX.</li>
-    <li>Identification of bugs and performance of optimization on JavaScript applications.</li>
+    <li>Developed reporting dashboards to drive user engagement</li>
+    <li>Stabilized application by implementing essential updates, bug fixes, and adding more than 1,000 unit tests</li>
+    <li>Enhanced user-friendliness by updating editors/interfaces.</li>
     <li>Performance of code reviews and application management through version control.</li>
   </ul>
 </div>
