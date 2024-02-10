@@ -9,7 +9,45 @@
   <li>Performance of code reviews and application management through version control.</li>
 </ul>
 
-**_<span class="technology-used">Technologies used</span>:_** Angular, TypeScript, JavaScript, HTML, SCSS, Jasmine, <span class="and">and</span> Karma. <br><br>
+**_<span class="technology-used">Technologies used</span>:_** <br>
+
+<div class="skills-grid">
+  <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/angular.png"> 
+    <span class="skill-name">Angular</span>
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/typescript.png"> 
+    <span class="skill-name">TypeScript</span>
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/html5.png"> 
+    <span class="skill-name">HTML</span>
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/sass.png"> 
+    <span class="skill-name">SASS</span>
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/javascript.png"> 
+    <span class="skill-name">JavaScript</span>
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/jasmine.png"> 
+    <span class="skill-name">Jasmine</span>
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/git.png"> 
+    <span class="skill-name">Git</span>
+  </div>
+</div>
+<br><br>
 
 ### **<span class="position">Web Developer</span>** @ <a target="_blank" href="https://www.gocontact.com/">GoContact, <span class="lisbon">Lisbon</span></a> _(<span class="employment-dates">Jan 2022 - May 2022</span>)_ <br>
 
@@ -22,25 +60,7 @@
 
 **_<span class="technology-used">Technologies used</span>:_** <br>
 
-<!-- HTML, CSS, JavaScript, PHP, WordPress, Elementor, Adobe XD, <span class="and">and</span> Postman. -->
-
  <div class="skills-grid-sm">
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/typescript.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/angular.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/jasmine.png"> 
-  </div>
-
   <div class="skill-item">
     <img class="skill-icon-sm" src="./assets/img/html5.png"> 
   </div>
@@ -48,8 +68,28 @@
   <div class="skill-item">
     <img class="skill-icon-sm" src="./assets/img/css3.png"> 
   </div>
+
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/wordpress.png"> 
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/php.png"> 
+  </div>
+
+  <div class="skill-item">
+    <img class="skill-icon-sm" src="./assets/img/xd.png"> 
+  </div>
 </div>
  <br><br>
+
+## 🛠️ <span class="header">Projects</span>
+
+### **<span class="position"><a target="_blank" href="https://www.roadmapr.dev">roadmapr</a></span>** <br>
 
 <!-- ### **<span class="position">Freelance Web Developer</span>** @ <a target="_blank" href="https://www.stephenlenane.com">stephenlenane.com</a> _(<span class="employment-dates">Dec 2020 - Jan 2022</span>)_ <br>
 
@@ -61,65 +101,65 @@
 
 **_<span class="technology-used">Technologies used</span>:_** HTML, CSS, JavaScript, Node.js, MongoDB, Adobe XD, GIMP <span class="and">and</span> Shopify. <br><br> -->
 
-## 🛠️ <span class="header">Skills</span>
+<!-- ## 🛠️ <span class="header">Skills</span>
 
 <div class="skills-grid">
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/javascript.png"> 
+    <img class="skill-icon" src="./assets/img/javascript.png">
     <span class="skill-name">JavaScript</span>
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/typescript.png"> 
+    <img class="skill-icon" src="./assets/img/typescript.png">
     <span class="skill-name">TypeScript</span>
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/angular.png"> 
+    <img class="skill-icon" src="./assets/img/angular.png">
     <span class="skill-name">Angular</span>
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/jasmine.png"> 
+    <img class="skill-icon" src="./assets/img/jasmine.png">
     <span class="skill-name">Jasmine</span>
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/html5.png"> 
+    <img class="skill-icon" src="./assets/img/html5.png">
     <span class="skill-name">HTML</span>
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/css3.png"> 
+    <img class="skill-icon" src="./assets/img/css3.png">
     <span class="skill-name">CSS</span>
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/sass.png"> 
+    <img class="skill-icon" src="./assets/img/sass.png">
     <span class="skill-name">SASS</span>
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/bootstrap.png"> 
+    <img class="skill-icon" src="./assets/img/bootstrap.png">
     <span class="skill-name">Bootstrap</span>
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/nodejs.png"> 
+    <img class="skill-icon" src="./assets/img/nodejs.png">
     <span class="skill-name">Node.js</span>
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/mongodb.png"> 
+    <img class="skill-icon" src="./assets/img/mongodb.png">
     <span class="skill-name">MongoDB</span>
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/git.png"> 
+    <img class="skill-icon" src="./assets/img/git.png">
     <span class="skill-name">Git</span>
   </div>
 
-</div><br><br>
+</div><br><br> -->
 
 ## 💬 <span class="header">Languages</span>
 
