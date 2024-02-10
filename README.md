@@ -114,13 +114,13 @@
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/spain.png"> 
     <span class="skill-name language-name">Spanish</span>
-    <span class="skill-level language-level">B1 (Intermediate)</span>
+    <span class="skill-level language-level">B1</span>
   </div>
 
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/italy.png"> 
     <span class="skill-name language-name">Italian</span>
-    <span class="skill-level language-level">A1 (Beginner)</span>
+    <span class="skill-level language-level">A1</span>
   </div>
 
 </div><br><br>
