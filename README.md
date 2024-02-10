@@ -14,8 +14,7 @@
     </div>
   </div>
   <div class="sub-header">
-    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a></div>
-   <div class="timeline">Jun 2022 - Present</div>
+    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric - </a>Jun 2022 - Present</div>
   </div>
 
   <ul class="employment-description">
@@ -25,7 +24,7 @@
     <li>Performance of code reviews and application management through version control.</li>
   </ul>
 </div>
-<br><br>
+<br>
 
 ### **<span class="position">Web Developer</span>** @ <a target="_blank" href="https://www.gocontact.com/">GoContact, <span class="lisbon">Lisbon</span></a> _(<span class="employment-dates">Jan 2022 - May 2022</span>)_ <br>
 
