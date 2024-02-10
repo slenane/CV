@@ -91,6 +91,8 @@
   <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
 </ul>
 
+**_<span class="technology-used">Technologies used</span>:_** <br>
+
 <div class="skills-grid-sm">
   <div class="skill-item">
     <img class="skill-icon-sm" src="./assets/img/angular.png"> 
@@ -135,6 +137,8 @@
   <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
   <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
 </ul>
+
+**_<span class="technology-used">Technologies used</span>:_** <br>
 
 <div class="skills-grid-sm">
   <div class="skill-item">
