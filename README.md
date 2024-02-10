@@ -1,8 +1,8 @@
 ## 💻 <span class="header">Technical Experience</span>
 
 <div class="position">
-  <div class="header">
-    <div class="title">Frontend Lead Developer</div>
+  <div class="position-header">
+    <h3 class="position-title">Frontend Lead Developer</h3>
     <div class="position-skills-grid">
       <img class="position-skill" src="./assets/img/angular.png"> 
       <img class="position-skill" src="./assets/img/typescript.png"> 
