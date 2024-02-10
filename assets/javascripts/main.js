@@ -350,8 +350,9 @@ window.addEventListener("load", () => {
 });
 
 skills.forEach((skill) => {
-  skill.addEventListener("hover", (e) => {
-    console.log(e.target);
-    console.log(e.target[dataset]);
-  });
+  console.log(skill);
+  // skill.addEventListener("hover", (e) => {
+  //   console.log(e.target);
+  //   console.log(e.target[dataset]);
+  // });
 });
