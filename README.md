@@ -13,7 +13,7 @@
     </div>
   </div>
   <div class="sub-header">
-    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - Nov 2023 - Present</div>
+    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - <span class="employment-dates">Nov 2023 - Present</span></div>
   </div>
 
   <ul class="employment-description">
@@ -37,7 +37,7 @@
     </div>
   </div>
   <div class="sub-header">
-    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - Jun 2022 - Nov 2023</div>
+    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - <span class="employment-dates">Jun 2022 - Nov 2023</span></div>
   </div>
 
   <ul class="employment-description">
@@ -62,7 +62,7 @@
     </div>
   </div>
   <div class="sub-header">
-    <div class="company"><a target="_blank" href="https://www.gocontact.com/">GoContact</a> - Jan 2022 - May 2022</div>
+    <div class="company"><a target="_blank" href="https://www.gocontact.com/">GoContact</a> - <span class="employment-dates">Jan 2022 - May 2022</span></div>
   </div>
 
   <ul class="employment-description">
@@ -247,9 +247,9 @@
 
 ## 🏃‍♂️ <span class="header">Interests</span>
 
-**Running** - I am training for my 3rd marathon and I have run several half-marathons <br>
-**Chess** - Rated in top 1.8% of players on chess.com <br>
-**Travel** - Visited over 30 countries and have lived in 6<br>
+**<span class="interest">Running</span>** - <span class="interest-text">I am training for my 3rd marathon and I have run several half-marathons</span> <br>
+**<span class="interest">Chess</span>** - <span class="interest-text">Rated in top 1.8% of players on chess.com</span> <br>
+**<span class="interest">Travel</span>** - <span class="interest-text">Visited over 30 countries and have lived in 6</span><br>
 
 <!-- Hidden until hover over tech item -->
 <div id="tooltip" class="custom-tooltip"></div>

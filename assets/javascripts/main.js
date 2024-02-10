@@ -1,19 +1,36 @@
 // CV translations
 const language = {
   english: {
-    bio: "Frontend developer from Ireland based in Seville, Spain",
+    bio: "Self-taught frontend developer from Ireland based in Milan, Italy.",
     "link-header": "Get in touch",
     creator: "Creator of",
     "language-switcher": "Switch language",
-    headers: ["Technical Experience", "Projects", "Languages", "Education"],
+    headers: [
+      "Technical Experience",
+      "Projects",
+      "Languages",
+      "Education",
+      "Interests",
+    ],
     experience: [
       {
-        position: "Frontend Developer",
-        "employment-dates": "Jun 2022 - Present",
+        position: "Frontend Lead Developer",
+        "employment-dates": "Nov 2023 - Present",
         "employment-description": `
-          <li>Responsible for the development and testing of new features on the Angular application.</li>
-          <li>Identification of bugs and performance optimization of JavaScript applications.</li>
-          <li>Consultation on Javascript tasks with the Customer Success Team to deliver optimal UX.</li>
+          <li>Lead a team of 3 frontend developers in project execution and delivery.</li>
+          <li>Designed and implemented new UI to modernize the application.</li>
+          <li>Play a key role in task planning and prioritization.</li>
+          <li>Provide training to new employees and feedback on technical assessments.</li>
+        `,
+      },
+      {
+        position: "Frontend Developer",
+        "employment-dates": "Jun 2022 - Nov 2023",
+        "employment-description": `
+          <li>Responsible for the development and testing of new features on bmetric's Angular application.</li>
+          <li>Developed reporting dashboards to drive user engagement</li>
+          <li>Stabilized application by implementing essential updates, bug fixes, and adding more than 1,000 unit tests</li>
+          <li>Enhanced user-friendliness by updating editors/interfaces.</li>
           <li>Performance of code reviews and application management through version control.</li>
         `,
       },
@@ -28,19 +45,27 @@ const language = {
         `,
       },
       {
-        position: "Freelance Web Developer",
-        "employment-dates": "Dec 2020 - Jan 2022",
+        position: "roadmapr",
         "employment-description": `
-          <li>Designed and developed custom websites for small businesses as an affordable alternative to expensive drag-and-drop website providers.</li>
-          <li>Ensured excellent user experience through responsive designs, with a focus on performance, accessibility and best practices to yield high SEO scores.</li>
-          <li>Created online stores with the implementation of e-commerce platform payment gateways and custom product templates.</li>
+        <li>roadmapr is a free-to-use platform designed for self-taught developers to organize and track their progress while receiving recommendations from users who have become professional developers.</li>
+        <li>Built with Angular and Node.js, this platform aims to provide a clear path for self-taught developers to employment based on their chosen stack and location.</li>
+        <li>If you are interested demoing roadmapr without needing to sign up, send me an email and I will give you guest credentials.</li>
+        `,
+      },
+      {
+        position: "Daily Chess Puzzle",
+        "employment-description": `
+        <li>Solve chess.com's Daily Puzzle with unlimited access to the puzzle archives, for free!</li>
+        <li>This chrome extension was created as my final project for Harvard University's Introduction to Computer Science (CS50) course and currently has over 600 weekly users.</li>
+        <li>Built mainly using JavaScript, this extension allows users to access chess.com's free daily puzzle straight from the browser.</li>
+        <li>Using chess.com's API, I was able to access the daily chess archives through the random puzzle property that is updated every 15 seconds, essentially allowing user's to have unlimited access to chess.com puzzles for free.</li>
         `,
       },
     ],
     languages: [
       ["English", "Native"],
-      ["Spanish", "B1 (Intermediate)"],
-      ["Italian", "A1 (Beginner)"],
+      ["Spanish", "B1"],
+      ["Italian", "A1"],
     ],
     education: [
       {
@@ -127,133 +152,175 @@ const language = {
     degree: "Bachelor of Science",
     course: " - Biochemistry - 2.1 Honours (3.5 GPA)",
     "textbooks-read": "Textbooks Read",
+    languages: [
+      [
+        "Running",
+        "I am training for my 3rd marathon and I have run several half-marathons",
+      ],
+      ["Chess", "Rated in top 1.8% of players on chess.com"],
+      ["Travel", "Visited over 30 countries and have lived in 6"],
+    ],
   },
-  spanish: {
-    bio: "Desarrollador Frontend de Irlanda con base en Sevilla, España",
-    creator: "Creador de",
-    "link-header": "Contacto",
-    "language-switcher": "Cambiar de idioma",
-    headers: ["Experiencia Técnica", "Habilidades", "Idiomas", "Educación"],
+  italian: {
+    bio: "Sviluppatore frontend autodidatta dall'Irlanda, con sede a Milano, Italia.",
+    "link-header": "Contattami",
+    creator: "Creatore di",
+    "language-switcher": "Cambia lingua",
+    headers: [
+      "Esperienza Tecnica",
+      "Progetti",
+      "Linguaggi",
+      "Educazione",
+      "Interessi",
+    ],
     experience: [
       {
-        position: "Desarrollador Web Frontend",
-        "employment-dates": "Jun 2022 - Presente",
+        position: "Sviluppatore Frontend Senior",
+        "employment-dates": "Nov 2023 - Presente",
         "employment-description": `
-          <li>Responsable del desarrollo y prueba de nuevas funcionalidades en la aplicación Angular.</li>
-          <li>Identificación de errores y optimización del rendimiento de las aplicaciones JavaScript.</li>
-          <li>Consulta sobre las tareas de Javascript con el equipo de éxito del cliente para ofrecer una UX óptima.</li>
-          <li>Realización de revisiones de código y gestión de aplicaciones mediante el control de versiones.</li>
+          <li>Guida un team di 3 sviluppatori frontend nell'esecuzione e consegna dei progetti.</li>
+          <li>Progetta e implementa una nuova UI per modernizzare l'applicazione.</li>
+          <li>Gestisce la pianificazione e la prioritizzazione delle attività.</li>
+          <li>Fornisce formazione ai nuovi dipendenti e feedback sulle valutazioni tecniche.</li>
         `,
       },
       {
-        position: "Desarrollador Web",
-        "employment-dates": "Ene 2022 - May 2022",
+        position: "Sviluppatore Frontend",
+        "employment-dates": "Giu 2022 - Nov 2023",
         "employment-description": `
-          <li>Responsable del soporte, mantenimiento y actualización de los diferentes sitios web de GoContact además de la optimización SEO.</li>
-          <li>Trabajé estrechamente con el equipo de diseño para desarrollar sitios que cumplieran con todos los requisitos funcionales con una UX atractiva.</li>
-          <li>Proporcioné análisis de los sitios web de la competencia para implementar nuevas funciones en el sitio web de GoContact.</li>
-          <li>Desarrollé sitios multilingües tanto con WordPress como con PHP. Esto requirió el uso de JavaScript personalizado para mejorar la UX y la funcionalidad.</li>
+          <li>Responsabile dello sviluppo e del testing di nuove funzionalità dell'applicazione Angular di bmetric.</li>
+          <li>Sviluppa dashboard di reportistica per migliorare l'engagement degli utenti.</li>
+          <li>Stabilizza l'applicazione implementando aggiornamenti essenziali, correzioni di bug e aggiungendo oltre 1.000 test unitari.</li>
+          <li>Migliora la facilità d'uso aggiornando editor e interfacce.</li>
+          <li>Esegue revisioni del codice e gestisce l'applicazione attraverso il controllo delle versioni.</li>
         `,
       },
       {
-        position: "Desarrollador Web Freelance",
-        "employment-dates": "Dic 2020 - Ene 2022",
+        position: "Web Developer",
+        "employment-dates": "Gen 2022 - Mag 2022",
         "employment-description": `
-          <li>Diseñé y desarrollé sitios web personalizados para pequeñas empresas como una alternativa asequible a los costosos proveedores de sitios web de 'drag-and-drop'.</li>
-          <li>Aseguré una excelente experiencia de usuario a través de diseños responsivos, con un enfoque en el rendimiento, la accesibilidad y las mejores prácticas para obtener altas puntuaciones de SEO.</li>
-          <li>Creé tiendas online con la implementación de pasarelas de pago de plataformas de comercio electrónico y plantillas de productos personalizadas.</li>
+          <li>Responsabile del supporto, manutenzione e aggiornamento dei diversi siti web di GoContact, oltre all'ottimizzazione SEO.</li>
+          <li>Lavora a stretto contatto con il team di design per sviluppare siti che soddisfino tutti i requisiti funzionali con un'esperienza utente coinvolgente.</li>
+          <li>Fornisce analisi dei siti web dei concorrenti per implementare nuove funzionalità sul sito web di GoContact.</li>
+          <li>Sviluppa siti multilingua sia con WordPress che con PHP. Questo ha richiesto l'utilizzo di JavaScript personalizzato per migliorare l'UX e la funzionalità.</li>
+        `,
+      },
+      {
+        position: "roadmapr",
+        "employment-description": `
+        <li>roadmapr è una piattaforma gratuita progettata per sviluppatori autodidatti per organizzare e monitorare il loro progresso, ricevendo raccomandazioni da utenti diventati sviluppatori professionisti.</li>
+        <li>Costruita con Angular e Node.js, questa piattaforma mira a fornire un percorso chiaro per sviluppatori autodidatti verso l'occupazione in base alla loro scelta di stack e posizione.</li>
+        <li>Se sei interessato a provare roadmapr senza doverti registrare, inviami una email e ti fornirò le credenziali ospite.</li>
+        `,
+      },
+      {
+        position: "Daily Chess Puzzle",
+        "employment-description": `
+        <li>Risolve il Puzzle giornaliero di chess.com con accesso illimitato agli archivi dei puzzle, gratuitamente!</li>
+        <li>Questo estensione per Chrome è stata creata come mio progetto finale per il corso di Introduzione alla Scienza dell'Informazione (CS50) dell'Università di Harvard e attualmente conta più di 600 utenti settimanali.</li>
+        <li>Costruita principalmente con JavaScript, questa estensione consente agli utenti di accedere al puzzle giornaliero gratuito di chess.com direttamente dal browser.</li>
+        <li>Utilizzando l'API di chess.com, ho potuto accedere agli archivi giornalieri degli scacchi attraverso la proprietà puzzle casuale che viene aggiornata ogni 15 secondi, consentendo essenzialmente agli utenti di avere accesso illimitato ai puzzle di chess.com gratuitamente.</li>
         `,
       },
     ],
     languages: [
-      ["Inglés", "Nativo"],
-      ["Español", "B1 (Intermedio)"],
+      ["Inglese", "Madrelingua"],
+      ["Spagnolo", "B1"],
+      ["Italiano", "A1"],
     ],
     education: [
       {
-        dates: "Jul 2022 - Sep 2022",
+        dates: "Lug 2022 - Set 2022",
         "course-focus": `
-          <li>Pruebas de componentes y servicios de Angular</li>
-          <li>Integración continua con Travis CI</li>
-          <li>Pruebas E2E de Angular con Cypress</li>
+          <li>Test delle componenti e dei servizi Angular</li>
+          <li>Integrazione continua con Travis CI</li>
+          <li>Test E2E Angular con Cypress</li>
         `,
       },
       {
-        dates: "Mar 2022 - Abr 2022",
+        dates: "Mar 2022 - Apr 2022",
         "course-focus": `
-          <li>Crear un Sistema de Gestión de Contenidos (Content Management System, CMS)</li>
-          <li>Seguridad en PHP</li>
-          <li>Programación Orientada a Objetos</li>
+          <li>Crea un sistema di gestione dei contenuti</li>
+          <li>Sicurezza in PHP</li>
+          <li>Programmazione ad oggetti</li>
         `,
       },
       {
-        dates: "Ene 2022 - Mar 2022",
+        dates: "Gen 2022 - Mar 2022",
         "course-focus": `
-          <li>Tecnologías y práctica del Marketing Digital</li>
-          <li>Métodos Creativos para el Marketing en Redes Sociales</li>
-          <li>Gestión de Marketing en Redes Sociales</li>
-          <li>Medios Digitales Europeos e Internacionales</li>
+          <li>Tecnologie e prassi di marketing digitale</li>
+          <li>Metodi creativi per il marketing sui social media</li>
+          <li>Gestione del marketing sui social media</li>
+          <li>Media digitali europei e internazionali</li>
         `,
       },
       {
-        dates: "Jun 2021 - Oct 2021",
+        dates: "Giu 2021 - Ott 2021",
         "course-focus": `
-          <li>Creación de aplicaciones web del lado del servidor rápidas y escalables con Node.js</li>
-          <li>APIs REST y APIs GraphQL</li>
-          <li>Uso de bases de datos como MongoDB y SQL</li>
+          <li>Costruzione di applicazioni web server-side veloci e scalabili con Node.js</li>
+          <li>API REST e GraphQL</li>
+          <li>Utilizzo di database come MongoDB e SQL</li>
         `,
       },
       {
-        dates: "Feb 2021 - Jun 2021",
+        dates: "Feb 2021 - Giu 2021",
         "course-focus": `
-          <li>Lenguajes C, Python y JavaScript</li>
-          <li>Los temas incluían la abstracción, los algoritmos, las estructuras de datos, la encapsulación, la gestión de recursos, la seguridad, la ingeniería de software, y el desarrollo web</li>
-          <li>Cómo pensar de forma algorítmica y resolver problemas de forma eficaz</li>
+          <li>Linguaggi C, Python e JavaScript</li>
+          <li>Gli argomenti includevano astrazione, algoritmi, strutture dati, incapsulamento, gestione delle risorse, sicurezza, ingegneria del software e sviluppo web</li>
+          <li>Come pensare in modo algoritmico e risolvere problemi in modo efficiente</li>
         `,
       },
       {
-        dates: "Jun 2020 - Sep 2020",
+        dates: "Giu 2020 - Set 2020",
         "course-focus": `
-          <li>Fundamentos del JavaScript moderno</li>
-          <li>Programación Orientada a Objetos</li>
-          <li>JavaScript Asíncrono</li>
+          <li>Fondamenti del moderno JavaScript</li>
+          <li>Programmazione orientata agli oggetti</li>
+          <li>JavaScript asincrono</li>
         `,
       },
       {
-        dates: "Jul 2020 - Ago 2020",
+        dates: "Lug 2020 - Ago 2020",
         "course-focus": `
-          <li>Fundamentos de JavaScript, incluyendo variables, matrices, objetos, bucles y funciones</li>
-          <li>Crear algoritmos para manipular cadenas, factorizar números, y calcular la órbita de la Estación Espacial Internacional</li>
-          <li>Programación Orientada a Objetos y Programación Funcional</li>
+          <li>Fondamenti di JavaScript inclusi variabili, array, oggetti, cicli e funzioni</li>
+          <li>Crea algoritmi per manipolare stringhe, calcolare fattoriali e calcolare l'orbita della Stazione Spaziale Internazionale</li>
+          <li>Programmazione orientata agli oggetti e funzionale</li>
         `,
       },
       {
-        dates: "Jun 2020 - Jul 2020",
+        dates: "Giu 2020 - Lug 2020",
         "course-focus": `
-          <li>Construya 30 proyectos de JavaScript en 30 días</li>
-          <li>Manipulación del DOM</li>
-          <li>Captura de eventos, propagación, burbujeo, y once</li>
+          <li>Crea 30 progetti JavaScript in 30 giorni</li>
+          <li>Manipolazione del DOM</li>
+          <li>Cattura, propagazione, bubbling e once degli eventi</li>
         `,
       },
       {
-        dates: "Feb 2020 - Jun 2020",
+        dates: "Feb 2020 - Giu 2020",
         "course-focus": `
-          <li>HTML5, CSS3, JavaScript, Node.js, Express, y MongoDB</li>
-          <li>AJAX y APIs</li>
-          <li>HTTPS y Seguridad</li>
+          <li>HTML5, CSS3, JavaScript, Node.js, Express e MongoDB</li>
+          <li>AJAX e API</li>
+          <li>HTTPS e sicurezza</li>
         `,
       },
       {
-        dates: "Dic 2019 - Ene 2020",
+        dates: "Dic 2019 - Gen 2020",
         "course-focus": `
-          <li>Construir páginas web con HTML y CSS</li>
-          <li>Flexbox y CSS Grid</li>
+          <li>Crea pagine web con HTML e CSS</li>
+          <li>Flexbox e CSS Grid</li>
         `,
       },
     ],
-    degree: "Licenciado en Ciencias",
-    course: " - Bioquímica - 2.1 Honores (3.5 GPA)",
-    "textbooks-read": "Libros de Texto Leídos",
+    degree: "Laurea in Scienze",
+    course: " - Biochimica - 2.1 Onori (GPA 3.5)",
+    "textbooks-read": "Libri di Testo Letti",
+    interests: [
+      [
+        "Corsa",
+        "Mi sto allenando per il mio terzo maratona e ho corso diversi mezzi maratone",
+      ],
+      ["Scacchi", "Classificato nel top 1.8% dei giocatori su chess.com"],
+      ["Viaggi", "Ho visitato oltre 30 paesi e ho vissuto in 6"],
+    ],
   },
 };
 
@@ -270,7 +337,7 @@ const textbooksRead = document.querySelector(".textbooks-read");
 const degree = document.querySelector(".degree");
 const degreeCourse = document.querySelector(".degree-course");
 const headers = document.querySelectorAll(".header");
-const positions = document.querySelectorAll(".position");
+const positions = document.querySelectorAll(".position-title");
 const employmentDates = document.querySelectorAll(".employment-dates");
 const employmentDescriptions = document.querySelectorAll(
   ".employment-description"
@@ -279,10 +346,12 @@ const languageName = document.querySelectorAll(".language-name");
 const languageLevel = document.querySelectorAll(".language-level");
 const courseDates = document.querySelectorAll(".course-dates");
 const courseDescription = document.querySelectorAll(".course-description");
+const interests = document.querySelectorAll(".interest");
+const interestText = document.querySelectorAll(".interest-text");
 
 const updateLanguage = (lang) => {
   // Get the current language
-  const current = lang === "english" ? language.english : language.spanish;
+  const current = lang === "english" ? language.english : language.italian;
   // Update the content
   bio.textContent = current.bio;
   creator.textContent = current.creator;
@@ -307,6 +376,10 @@ const updateLanguage = (lang) => {
     languageName[i].textContent = current.languages[i][0];
     languageLevel[i].textContent = current.languages[i][1];
   }
+  for (let i = 0; i < interests.length; i++) {
+    interests[i].textContent = current.interests[i][0];
+    interestText[i].textContent = current.interests[i][1];
+  }
 };
 
 // Event listeners
@@ -326,22 +399,16 @@ window.addEventListener("load", () => {
 const tooltip = document.getElementById("tooltip");
 const tooltipElements = document.querySelectorAll("[data-tooltip]");
 
-// Add mouseover event listeners to all elements with data-tooltip attribute
 tooltipElements.forEach(function (element) {
   element.addEventListener("mouseover", function (event) {
-    // Get the value of the data-tooltip attribute
     const tooltipText = element.getAttribute("data-tooltip");
 
-    // Set the tooltip text
     tooltip.textContent = tooltipText;
-
-    // Display the tooltip at the mouse position
     tooltip.style.display = "block";
     tooltip.style.top = event.clientY - 40 + "px";
     tooltip.style.left = event.clientX - 20 + "px";
   });
 
-  // Hide the tooltip on mouseout
   element.addEventListener("mouseout", function () {
     tooltip.style.display = "none";
   });
