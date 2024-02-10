@@ -243,7 +243,13 @@
 - JavaScript: The Definitive Guide - David Flanagan <br>
 - Eloquent JavaScript - Marjin Haverbeke <br>
 - Learning Web Design - Jennifer Niederst Robbins <br>
-- HTML & CSS: Build and Design Websites - Jon Duckett <br><br>
+- HTML & CSS: Build and Design Websites - Jon Duckett <br>
+
+## 🏃‍♂️ <span class="header">Interests</span>
+
+**Running** - I am training for my 3rd marathon and I have run several half-marathons <br>
+**Chess** - Rated in top 1.8% of players on chess.com <br>
+**Travel** - Visited over 30 countries and have lived in 6<br>
 
 <!-- Hidden until hover over tech item -->
 <div id="tooltip" class="custom-tooltip"></div>
