@@ -16,9 +16,9 @@
     <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - <span class="employment-dates">Nov 2023 - Present</span></div>
   </div>
 
-  <div class="employment-description">
-    <p>Lead a team of 3 frontend developers in project execution and delivery. Design and implement new UI features to modernize the application. Play a key role in task planning and prioritization. Provide training to new employees and offer feedback on technical assessments.</p>
-  </div>
+  <p class="employment-description">
+    Lead a team of 3 frontend developers in project execution and delivery. Design and implement new UI features to modernize the application. Play a key role in task planning and prioritization. Provide training to new employees and offer feedback on technical assessments.
+  </p>
 </div>
 
 <div class="position">
@@ -37,13 +37,9 @@
     <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - <span class="employment-dates">Jun 2022 - Nov 2023</span></div>
   </div>
 
-  <ul class="employment-description">
-    <li>Was responsible for the development and testing of new features on bmetric's Angular application.</li>
-    <li>Developed reporting dashboards to drive user engagement</li>
-    <li>Stabilized application by implementing essential updates, bug fixes, and adding more than 1,000 unit tests</li>
-    <li>Enhanced user-friendliness by updating editors/interfaces.</li>
-    <li>Performed code reviews and application management through version control.</li>
-  </ul>
+  <p class="employment-description">
+    Responsible for developing and testing new features on bmetric's Angular application. Developed reporting dashboards to enhance user engagement. Stabilized application performance through essential updates, bug fixes, and the addition of over 1,000 unit tests. Improved user-friendliness by updating editors/interfaces. Conducted code reviews and managed application versions using version control.
+  </p>
 </div>
 
 <div class="position">
@@ -62,12 +58,9 @@
     <div class="company"><a target="_blank" href="https://www.gocontact.com/">GoContact</a> - <span class="employment-dates">Jan 2022 - May 2022</span></div>
   </div>
 
-  <ul class="employment-description">
-    <li>Was responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
-    <li>Worked closely with the design team to develop sites that met all functional requirements with an engaging UX.</li>
-    <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
-    <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
-  </ul>
+  <p class="employment-description">
+    Handled support, maintenance, and updates for various GoContact websites, alongside SEO optimization. Collaborated closely with the design team to ensure sites met functional requirements with engaging UX. Conducted competitor website analysis to implement new features. Developed multi-language sites with WordPress and PHP, utilizing custom JavaScript for improved UX and functionality.
+  </p>
 </div>
 <br>
 
@@ -91,11 +84,9 @@
     <div class="company"><a target="_blank" href="https://www.roadmapr.dev">roadmapr.dev</a></div>
   </div>
 
-  <ul class="employment-description">
-  <li>roadmapr is a free-to-use platform designed for self-taught developers to organize and track their progress while receiving recommendations from users who have become professional developers.</li>
-  <li>Built with Angular and Node.js, this platform aims to provide a clear path for self-taught developers to employment based on their chosen stack and location.</li>
-  <li>If you are interested demoing roadmapr without needing to sign up, send me an email and I will give you guest credentials.</li>
-  </ul>
+  <p class="employment-description">
+    Developed roadmapr, a free-to-use platform for self-taught developers to organize and track progress, while receiving recommendations from professional developers. Built with Angular and Node.js, the platform aimed to guide self-taught developers to employment based on their chosen stack and location.
+  </p>
 </div>
 
 <div class="position">
@@ -113,12 +104,9 @@
     <div class="company"><a target="_blank" href="https://chromewebstore.google.com/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh">Daily Chess Puzzle</a></div>
   </div>
 
-  <ul class="employment-description">
-  <li>Solve chess.com's Daily Puzzle with unlimited access to the puzzle archives, for free!</li>
-  <li>This chrome extension was created as my final project for Harvard University's Introduction to Computer Science (CS50) course and currently has over 600 weekly users.</li>
-  <li>Built mainly using JavaScript, this extension allows users to access chess.com's free daily puzzle straight from the browser.</li>
-  <li>Using chess.com's API, I was able to access the daily chess archives through the random puzzle property that is updated every 15 seconds, essentially allowing user's to have unlimited access to chess.com puzzles for free.</li>
-  </ul>
+  <p class="employment-description">
+Created Daily Chess Puzzle, a chrome extension allowing users to solve chess.com's Daily Puzzle with unlimited access to the puzzle archives, for free! The extension, a final project for Harvard University's Introduction to Computer Science (CS50) course, currently boasts over 600 weekly users. Built mainly with JavaScript, it enables users to access chess.com's puzzles directly from their browser. Utilized chess.com's API to access daily chess archives, allowing users unlimited puzzle access.
+  </p>
 </div>
 <br>
 

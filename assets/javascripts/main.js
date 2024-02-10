@@ -22,40 +22,24 @@ const language = {
       {
         position: "Frontend Developer",
         "employment-dates": "Jun 2022 - Nov 2023",
-        "employment-description": `
-        <li>Was responsible for the development and testing of new features on bmetric's Angular application.</li>
-        <li>Developed reporting dashboards to drive user engagement</li>
-        <li>Stabilized application by implementing essential updates, bug fixes, and adding more than 1,000 unit tests</li>
-        <li>Enhanced user-friendliness by updating editors/interfaces.</li>
-        <li>Performed code reviews and application management through version control.</li>
-        `,
+        "employment-description":
+          "Responsible for developing and testing new features on bmetric's Angular application. Developed reporting dashboards to enhance user engagement. Stabilized application performance through essential updates, bug fixes, and the addition of over 1,000 unit tests. Improved user-friendliness by updating editors/interfaces. Conducted code reviews and managed application versions using version control.",
       },
       {
         position: "Web Developer",
         "employment-dates": "Jan 2022 - May 2022",
-        "employment-description": `
-        <li>Was responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
-        <li>Worked closely with the design team to develop sites that met all functional requirements with an engaging UX.</li>
-        <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
-        <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
-        `,
+        "employment-description":
+          "Handled support, maintenance, and updates for various GoContact websites, alongside SEO optimization. Collaborated closely with the design team to ensure sites met functional requirements with engaging UX. Conducted competitor website analysis to implement new features. Developed multi-language sites with WordPress and PHP, utilizing custom JavaScript for improved UX and functionality.",
       },
       {
         position: "roadmapr",
-        "employment-description": `
-        <li>roadmapr is a free-to-use platform designed for self-taught developers to organize and track their progress while receiving recommendations from users who have become professional developers.</li>
-        <li>Built with Angular and Node.js, this platform aims to provide a clear path for self-taught developers to employment based on their chosen stack and location.</li>
-        <li>If you are interested demoing roadmapr without needing to sign up, send me an email and I will give you guest credentials.</li>
-        `,
+        "employment-description":
+          "Developed roadmapr, a free-to-use platform for self-taught developers to organize and track progress, while receiving recommendations from professional developers. Built with Angular and Node.js, the platform aimed to guide self-taught developers to employment based on their chosen stack and location.",
       },
       {
         position: "Daily Chess Puzzle",
-        "employment-description": `
-        <li>Solve chess.com's Daily Puzzle with unlimited access to the puzzle archives, for free!</li>
-        <li>This chrome extension was created as my final project for Harvard University's Introduction to Computer Science (CS50) course and currently has over 600 weekly users.</li>
-        <li>Built mainly using JavaScript, this extension allows users to access chess.com's free daily puzzle straight from the browser.</li>
-        <li>Using chess.com's API, I was able to access the daily chess archives through the random puzzle property that is updated every 15 seconds, essentially allowing user's to have unlimited access to chess.com puzzles for free.</li>
-        `,
+        "employment-description":
+          "Created Daily Chess Puzzle, a chrome extension allowing users to solve chess.com's Daily Puzzle with unlimited access to the puzzle archives, for free! The extension, a final project for Harvard University's Introduction to Computer Science (CS50) course, currently boasts over 600 weekly users. Built mainly with JavaScript, it enables users to access chess.com's puzzles directly from their browser. Utilized chess.com's API to access daily chess archives, allowing users unlimited puzzle access.",
       },
     ],
     languages: [
