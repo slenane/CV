@@ -60,29 +60,29 @@
 
 **_<span class="technology-used">Technologies used</span>:_** <br>
 
- <div class="skills-grid-sm">
+ <div class="skills-grid">
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/html5.png"> 
+    <img class="skill-icon" src="./assets/img/html5.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/css3.png"> 
+    <img class="skill-icon" src="./assets/img/css3.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
+    <img class="skill-icon" src="./assets/img/javascript.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/wordpress.png"> 
+    <img class="skill-icon" src="./assets/img/wordpress.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/php.png"> 
+    <img class="skill-icon" src="./assets/img/php.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/xd.png"> 
+    <img class="skill-icon" src="./assets/img/xd.png"> 
   </div>
 </div>
  <br><br>
