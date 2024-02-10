@@ -296,6 +296,8 @@ const languageLevel = document.querySelectorAll(".language-level");
 const courseDates = document.querySelectorAll(".course-dates");
 const courseDescription = document.querySelectorAll(".course-description");
 
+const skills = document.querySelectorAll(".position-skill");
+
 const updateLanguage = (lang) => {
   // Get the current language
   const current = lang === "english" ? language.english : language.spanish;
@@ -345,4 +347,11 @@ spanishBtn.addEventListener("click", (e) => {
 window.addEventListener("load", () => {
   if (window.location.href === "https://slenane.github.io/cv/?lang=ES")
     updateLanguage("spanish");
+});
+
+skills.forEach((skill) => {
+  skill.addEventListener("hover", (e) => {
+    console.log(e.target);
+    console.log(e.target[dataset]);
+  });
 });
