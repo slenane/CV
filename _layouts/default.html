@@ -28,11 +28,6 @@
         color: #ffffffb3 !important;
       }
 
-      section {
-        width: 550px !important;
-      }
-
-
       h1, h2, h3, h4, strong {
         color: white !important;
       }
@@ -161,19 +156,20 @@
         font-style: italic;
       }
 
-      @media (max-width: 700px) {
-        h1 {
-          text-align: center;
+      @media (min-width: 1000px) {
+        section {
+         width: 550px !important;
+        }
+      }
+
+      @media (min-width: 1700px) {
+        .wrapper {
+          width: 1000px !important;
         }
 
-        .avatar {
-          max-width: 40%;
-          margin: 0 30% 0;
-        }
-
-        .skill-icon {
-          width: 35px;
-        }
+        section {
+        width: 700px !important;
+      }
       }
     </style>
   </head>
