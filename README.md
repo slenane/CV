@@ -24,7 +24,6 @@
     <li>Performance of code reviews and application management through version control.</li>
   </ul>
 </div>
-<br>
 
 <div class="position">
   <div class="position-header">
@@ -49,7 +48,6 @@
   <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
   </ul>
 </div>
-<br>
 <br>
 
 ## 🛠️ <span class="header">Projects</span>
@@ -79,7 +77,6 @@
   <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
   </ul>
 </div>
-<br>
 
 <div class="position">
   <div class="position-header">
@@ -103,7 +100,7 @@
   <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
   </ul>
 </div>
-<br><br>
+<br>
 
 ## 💬 <span class="header">Languages</span>
 
