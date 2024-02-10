@@ -14,7 +14,7 @@
     </div>
   </div>
   <div class="sub-header">
-    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric - </a>Jun 2022 - Present</div>
+    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a> - Jun 2022 - Present</div>
   </div>
 
   <ul class="employment-description">
@@ -26,126 +26,83 @@
 </div>
 <br>
 
-### **<span class="position">Web Developer</span>** @ <a target="_blank" href="https://www.gocontact.com/">GoContact, <span class="lisbon">Lisbon</span></a> _(<span class="employment-dates">Jan 2022 - May 2022</span>)_ <br>
+<div class="position">
+  <div class="position-header">
+    <h3 class="position-title">Web Developer</h3>
+    <div class="position-skills-grid">
+      <img class="position-skill" src="./assets/img/html5.png"> 
+      <img class="position-skill" src="./assets/img/css3.png"> 
+      <img class="position-skill" src="./assets/img/javascript.png"> 
+      <img class="position-skill" src="./assets/img/wordpress.png"> 
+      <img class="position-skill" src="./assets/img/php.png"> 
+      <img class="position-skill" src="./assets/img/xd.png"> 
+    </div>
+  </div>
+  <div class="sub-header">
+    <div class="company"><a target="_blank" href="https://www.gocontact.com/">GoContact</a> - Jan 2022 - May 2022</div>
+  </div>
 
-<ul class="employment-description">
+  <ul class="employment-description">
   <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
   <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
   <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
   <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
-</ul>
-
-**_<span class="technology-used">Technologies used</span>:_** <br>
-
- <div class="skills-grid">
-  <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/html5.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/css3.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/javascript.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/wordpress.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/php.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon" src="./assets/img/xd.png"> 
-  </div>
+  </ul>
 </div>
- <br><br>
+<br>
+<br>
 
 ## 🛠️ <span class="header">Projects</span>
 
-### **<span class="position">roadmapr</span>** <a target="_blank" href="https://www.roadmapr.dev">roadmapr.dev</a> <br>
+<div class="position">
+  <div class="position-header">
+    <h3 class="position-title">roadmapr</h3>
+    <div class="position-skills-grid">
+      <img class="position-skill" src="./assets/img/angular.png"> 
+      <img class="position-skill" src="./assets/img/typescript.png"> 
+      <img class="position-skill" src="./assets/img/html5.png"> 
+      <img class="position-skill" src="./assets/img/sass.png"> 
+      <img class="position-skill" src="./assets/img/javascript.png"> 
+      <img class="position-skill" src="./assets/img/nodejs.png"> 
+      <img class="position-skill" src="./assets/img/mongodb.png"> 
+      <img class="position-skill" src="./assets/img/git.png"> 
+    </div>
+  </div>
+  <div class="sub-header">
+    <div class="company"><a target="_blank" href="https://www.roadmapr.dev">roadmapr.dev</a></div>
+  </div>
 
-<ul class="employment-description">
+  <ul class="employment-description">
   <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
   <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
   <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
   <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
-</ul>
-
-**_<span class="technology-used">Technologies used</span>:_** <br>
-
-<div class="skills-grid-sm">
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/angular.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/typescript.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/html5.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/sass.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/nodejs.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/mongodb.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/git.png"> 
-  </div>
+  </ul>
 </div>
+<br>
 
-<br><br>
+<div class="position">
+  <div class="position-header">
+    <h3 class="position-title">Daily Chess Puzzle</h3>
+    <div class="position-skills-grid">
+      <img class="position-skill" src="./assets/img/javascript.png"> 
+      <img class="position-skill" src="./assets/img/html5.png"> 
+      <img class="position-skill" src="./assets/img/css3.png"> 
+      <img class="position-skill" src="./assets/img/nodejs.png"> 
+      <img class="position-skill" src="./assets/img/git.png"> 
+    </div>
+  </div>
+  <div class="sub-header">
+    <div class="company"><a target="_blank" href="https://chromewebstore.google.com/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh">Daily Chess Puzzle</a></div>
+  </div>
 
-### **<span class="position">Daily Chess Puzzle</span>** <a target="_blank" href="https://chromewebstore.google.com/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh">Daily Chess Puzzle</a> <br>
-
-<ul class="employment-description">
+  <ul class="employment-description">
   <li>Responsible for the support, maintenance, and update of the different GoContact websites in addition to SEO optimization.</li>
   <li>Worked closely with the design team to develop sites that meet all functional requirements with an engaging UX.</li>
   <li>Provided analysis of competitor websites to implement new features on the GoContact website.</li>
   <li>Developed multi-language sites with both WordPress and PHP. This necessitated the use of custom JavaScript to improve UX and functionality.</li>
-</ul>
-
-**_<span class="technology-used">Technologies used</span>:_** <br>
-
-<div class="skills-grid-sm">
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/html5.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/css3.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/nodejs.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/git.png"> 
-  </div>
+  </ul>
 </div>
-
 <br><br>
 
 ## 💬 <span class="header">Languages</span>
