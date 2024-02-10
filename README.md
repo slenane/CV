@@ -4,12 +4,12 @@
   <div class="position-header">
     <h3 class="position-title">Frontend Lead Developer</h3>
     <div class="position-skills-grid">
-      <img class="position-skill" src="./assets/img/angular.png"> 
-      <img class="position-skill" src="./assets/img/typescript.png"> 
-      <img class="position-skill" src="./assets/img/html5.png"> 
-      <img class="position-skill" src="./assets/img/sass.png"> 
-      <img class="position-skill" src="./assets/img/jasmine.png"> 
-      <img class="position-skill" src="./assets/img/git.png"> 
+      <img class="position-skill" src="./assets/img/angular.png" data-tooltip="Angular"> 
+      <img class="position-skill" src="./assets/img/typescript.png" data-tooltip="TypeScript"> 
+      <img class="position-skill" src="./assets/img/html5.png" data-tooltip="HTML"> 
+      <img class="position-skill" src="./assets/img/sass.png" data-tooltip="SASS"> 
+      <img class="position-skill" src="./assets/img/jasmine.png" data-tooltip="Jasmine"> 
+      <img class="position-skill" src="./assets/img/git.png"  data-tooltip="Git">  
     </div>
   </div>
   <div class="sub-header">
@@ -28,12 +28,12 @@
   <div class="position-header">
     <h3 class="position-title">Frontend Developer</h3>
     <div class="position-skills-grid">
-      <img class="position-skill" src="./assets/img/angular.png"> 
-      <img class="position-skill" src="./assets/img/typescript.png"> 
-      <img class="position-skill" src="./assets/img/html5.png"> 
-      <img class="position-skill" src="./assets/img/sass.png"> 
-      <img class="position-skill" src="./assets/img/jasmine.png"> 
-      <img class="position-skill" src="./assets/img/git.png"> 
+      <img class="position-skill" src="./assets/img/angular.png" data-tooltip="Angular"> 
+      <img class="position-skill" src="./assets/img/typescript.png" data-tooltip="TypeScript"> 
+      <img class="position-skill" src="./assets/img/html5.png" data-tooltip="HTML"> 
+      <img class="position-skill" src="./assets/img/sass.png" data-tooltip="SASS"> 
+      <img class="position-skill" src="./assets/img/jasmine.png" data-tooltip="Jasmine"> 
+      <img class="position-skill" src="./assets/img/git.png"  data-tooltip="Git">  
     </div>
   </div>
   <div class="sub-header">
@@ -53,12 +53,12 @@
   <div class="position-header">
     <h3 class="position-title">Web Developer</h3>
     <div class="position-skills-grid">
-      <img class="position-skill" src="./assets/img/html5.png"> 
-      <img class="position-skill" src="./assets/img/css3.png"> 
-      <img class="position-skill" src="./assets/img/javascript.png"> 
-      <img class="position-skill" src="./assets/img/wordpress.png"> 
-      <img class="position-skill" src="./assets/img/php.png"> 
-      <img class="position-skill" src="./assets/img/xd.png"> 
+      <img class="position-skill" src="./assets/img/html5.png" data-tooltip="HTML"> 
+      <img class="position-skill" src="./assets/img/css3.png" data-tooltip="CSS"> 
+      <img class="position-skill" src="./assets/img/javascript.png" data-tooltip="JavaScript"> 
+      <img class="position-skill" src="./assets/img/wordpress.png"  data-tooltip="WordPress"> 
+      <img class="position-skill" src="./assets/img/php.png"  data-tooltip="PHP"> 
+      <img class="position-skill" src="./assets/img/xd.png"  data-tooltip="Adobe Xd"> 
     </div>
   </div>
   <div class="sub-header">
@@ -80,14 +80,14 @@
   <div class="position-header">
     <h3 class="position-title">roadmapr</h3>
     <div class="position-skills-grid">
-      <img class="position-skill" src="./assets/img/angular.png" data-tooltip="angular"> 
-      <img class="position-skill" src="./assets/img/typescript.png"> 
-      <img class="position-skill" src="./assets/img/html5.png"> 
-      <img class="position-skill" src="./assets/img/sass.png"> 
-      <img class="position-skill" src="./assets/img/javascript.png"> 
-      <img class="position-skill" src="./assets/img/nodejs.png"> 
-      <img class="position-skill" src="./assets/img/mongodb.png"> 
-      <img class="position-skill" src="./assets/img/git.png"> 
+      <img class="position-skill" src="./assets/img/angular.png" data-tooltip="Angular"> 
+      <img class="position-skill" src="./assets/img/typescript.png" data-tooltip="TypeScript"> 
+      <img class="position-skill" src="./assets/img/html5.png" data-tooltip="HTML"> 
+      <img class="position-skill" src="./assets/img/sass.png" data-tooltip="SASS"> 
+      <img class="position-skill" src="./assets/img/javascript.png" data-tooltip="JavaScript"> 
+      <img class="position-skill" src="./assets/img/nodejs.png"  data-tooltip="Node.js"> 
+      <img class="position-skill" src="./assets/img/mongodb.png"  data-tooltip="MongoDB"> 
+      <img class="position-skill" src="./assets/img/git.png"  data-tooltip="Git">  
     </div>
   </div>
   <div class="sub-header">
@@ -105,11 +105,11 @@
   <div class="position-header">
     <h3 class="position-title">Daily Chess Puzzle</h3>
     <div class="position-skills-grid">
-      <img class="position-skill" src="./assets/img/javascript.png"> 
-      <img class="position-skill" src="./assets/img/html5.png"> 
-      <img class="position-skill" src="./assets/img/css3.png"> 
-      <img class="position-skill" src="./assets/img/nodejs.png"> 
-      <img class="position-skill" src="./assets/img/git.png"> 
+      <img class="position-skill" src="./assets/img/javascript.png" data-tooltip="JavaScript"> 
+      <img class="position-skill" src="./assets/img/html5.png" data-tooltip="HTML"> 
+      <img class="position-skill" src="./assets/img/css3.png" data-tooltip="CSS"> 
+      <img class="position-skill" src="./assets/img/nodejs.png"  data-tooltip="Node.js"> 
+      <img class="position-skill" src="./assets/img/git.png"  data-tooltip="Git">  
     </div>
   </div>
   <div class="sub-header">
@@ -244,3 +244,6 @@
 - Eloquent JavaScript - Marjin Haverbeke <br>
 - Learning Web Design - Jennifer Niederst Robbins <br>
 - HTML & CSS: Build and Design Websites - Jon Duckett <br><br>
+
+<!-- Hidden until hover over tech item -->
+<div id="tooltip" class="custom-tooltip"></div>

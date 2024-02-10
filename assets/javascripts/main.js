@@ -296,8 +296,6 @@ const languageLevel = document.querySelectorAll(".language-level");
 const courseDates = document.querySelectorAll(".course-dates");
 const courseDescription = document.querySelectorAll(".course-description");
 
-const skills = document.querySelectorAll(".position-skill");
-
 const updateLanguage = (lang) => {
   // Get the current language
   const current = lang === "english" ? language.english : language.spanish;
@@ -349,10 +347,26 @@ window.addEventListener("load", () => {
     updateLanguage("spanish");
 });
 
-skills.forEach((skill) => {
-  console.log(skill);
-  // skill.addEventListener("hover", (e) => {
-  //   console.log(e.target);
-  //   console.log(e.target[dataset]);
-  // });
+const tooltip = document.getElementById("tooltip");
+const tooltipElements = document.querySelectorAll("[data-tooltip]");
+
+// Add mouseover event listeners to all elements with data-tooltip attribute
+tooltipElements.forEach(function (element) {
+  element.addEventListener("mouseover", function (event) {
+    // Get the value of the data-tooltip attribute
+    const tooltipText = element.getAttribute("data-tooltip");
+
+    // Set the tooltip text
+    tooltip.textContent = tooltipText;
+
+    // Display the tooltip at the mouse position
+    tooltip.style.display = "block";
+    tooltip.style.top = event.clientY + "px";
+    tooltip.style.left = event.clientX + "px";
+  });
+
+  // Hide the tooltip on mouseout
+  element.addEventListener("mouseout", function () {
+    tooltip.style.display = "none";
+  });
 });
