@@ -1,44 +1,29 @@
 ## 💻 <span class="header">Technical Experience</span>
 
-### **<span class="position">Frontend Developer</span>** @ <a target="_blank" href="https://bmetric.com/">bmetric, <span class="copenhagen">Copenhagen</span></a> _(<span class="employment-dates">Jun 2022 - Present</span>)_ <br>
-
-<ul class="employment-description">
-  <li>Responsible for the development and testing of new features on bmetric's Angular application.</li>
-  <li>Consultation on Javascript tasks with the Customer Success Team to deliver custom functionality and optimal UX.</li>
-  <li>Identification of bugs and performance of optimization on JavaScript applications.</li>
-  <li>Performance of code reviews and application management through version control.</li>
-</ul>
-
-**_<span class="technology-used">Technologies used</span>:_** <br>
-
-<div class="skills-grid-sm">
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/angular.png"> 
+<div class="position">
+  <div class="header">
+    <div class="title">Frontend Lead Developer</div>
+    <div class="position-skills-grid">
+      <img class="position-skill" src="./assets/img/angular.png"> 
+      <img class="position-skill" src="./assets/img/typescript.png"> 
+      <img class="position-skill" src="./assets/img/html5.png"> 
+      <img class="position-skill" src="./assets/img/sass.png"> 
+      <img class="position-skill" src="./assets/img/javascript.png"> 
+      <img class="position-skill" src="./assets/img/jasmine.png"> 
+      <img class="position-skill" src="./assets/img/git.png"> 
+    </div>
+  </div>
+  <div class="sub-header">
+    <div class="company"><a target="_blank" href="https://bmetric.com/">bmetric</a></div>
+   <div class="timeline">Jun 2022 - Present</div>
   </div>
 
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/typescript.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/html5.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/sass.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/jasmine.png"> 
-  </div>
-
-  <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/git.png"> 
-  </div>
+  <ul class="employment-description">
+    <li>Responsible for the development and testing of new features on bmetric's Angular application.</li>
+    <li>Consultation on Javascript tasks with the Customer Success Team to deliver custom functionality and optimal UX.</li>
+    <li>Identification of bugs and performance of optimization on JavaScript applications.</li>
+    <li>Performance of code reviews and application management through version control.</li>
+  </ul>
 </div>
 <br><br>
 
@@ -53,29 +38,29 @@
 
 **_<span class="technology-used">Technologies used</span>:_** <br>
 
- <div class="skills-grid-sm">
+ <div class="skills-grid">
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/html5.png"> 
+    <img class="skill-icon" src="./assets/img/html5.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/css3.png"> 
+    <img class="skill-icon" src="./assets/img/css3.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/javascript.png"> 
+    <img class="skill-icon" src="./assets/img/javascript.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/wordpress.png"> 
+    <img class="skill-icon" src="./assets/img/wordpress.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/php.png"> 
+    <img class="skill-icon" src="./assets/img/php.png"> 
   </div>
 
   <div class="skill-item">
-    <img class="skill-icon-sm" src="./assets/img/xd.png"> 
+    <img class="skill-icon" src="./assets/img/xd.png"> 
   </div>
 </div>
  <br><br>
