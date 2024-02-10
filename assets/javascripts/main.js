@@ -6,7 +6,7 @@ const language = {
     creator: "Creator of",
     website: "Website",
     "language-switcher": "Switch language",
-    headers: ["Technical Experience", "Skills", "Languages", "Education"],
+    headers: ["Technical Experience", "Projects", "Languages", "Education"],
     copenhagen: "Copenhagen",
     lisbon: "Lisbon",
     experience: [
@@ -45,6 +45,7 @@ const language = {
     languages: [
       ["English", "Native"],
       ["Spanish", "B1 (Intermediate)"],
+      ["Italian", "A1 (Beginner)"],
     ],
     education: [
       {

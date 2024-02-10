@@ -14,37 +14,30 @@
 <div class="skills-grid">
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/angular.png"> 
-    <span class="skill-name">Angular</span>
   </div>
 
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/typescript.png"> 
-    <span class="skill-name">TypeScript</span>
   </div>
 
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/html5.png"> 
-    <span class="skill-name">HTML</span>
   </div>
 
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/sass.png"> 
-    <span class="skill-name">SASS</span>
   </div>
 
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/javascript.png"> 
-    <span class="skill-name">JavaScript</span>
   </div>
 
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/jasmine.png"> 
-    <span class="skill-name">Jasmine</span>
   </div>
 
   <div class="skill-item">
     <img class="skill-icon" src="./assets/img/git.png"> 
-    <span class="skill-name">Git</span>
   </div>
 </div>
 <br><br>
