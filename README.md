@@ -80,7 +80,7 @@
   <div class="position-header">
     <h3 class="position-title">roadmapr</h3>
     <div class="position-skills-grid">
-      <img class="position-skill" src="./assets/img/angular.png"> 
+      <img class="position-skill" src="./assets/img/angular.png" data-tooltip="angular"> 
       <img class="position-skill" src="./assets/img/typescript.png"> 
       <img class="position-skill" src="./assets/img/html5.png"> 
       <img class="position-skill" src="./assets/img/sass.png"> 
