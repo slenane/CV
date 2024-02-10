@@ -107,6 +107,12 @@
     <span class="skill-level language-level">B1 (Intermediate)</span>
   </div>
 
+  <div class="skill-item">
+    <img class="skill-icon" src="./assets/img/italy.png"> 
+    <span class="skill-name language-name">Italian</span>
+    <span class="skill-level language-level">A1 (Beginner)</span>
+  </div>
+
 </div><br><br>
 
 ## 👨‍🎓 <span class="header">Education</span>
