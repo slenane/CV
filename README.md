@@ -17,7 +17,9 @@
   </div>
 
   <p class="employment-description">
-    Lead a team of 3 frontend developers in project execution and delivery. Design and implement new UI features to modernize the application. Play a key role in task planning and prioritization. Provide training to new employees and offer feedback on technical assessments.
+    As the newly appointed Frontend Lead, I oversee a team of 2 junior frontend developers, providing guidance and support as they acclimate to their roles. Task planning is a key aspect of my responsibility, ensuring project execution and delivery are aligned with company objectives.
+    On a weekly basis, I provide company PI agents with an overview of changes through release notes, highlighting new features and updates as our application evolves rapidly. Additionally, I play a pivotal role in the planning of new features, taking a hands-on approach to shaping the product roadmap.
+    Moreover, I've initiated a new QA project to ensure the functionality of updates, albeit in its early stages. Despite these new responsibilities, I remain committed to driving frontend development forward, ensuring our application remains updated and responsive to user needs.
   </p>
 </div>
 
