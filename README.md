@@ -38,7 +38,10 @@
   </div>
 
   <p class="employment-description">
-    Responsible for developing and testing new features on bmetric's Angular application. Developed reporting dashboards to enhance user engagement. Stabilized application performance through essential updates, bug fixes, and the addition of over 1,000 unit tests. Improved user-friendliness by updating editors/interfaces. Conducted code reviews and managed application versions using version control.
+    Played a key role in the continuous enhancement of bmetric's Angular application by taking a proactive approach to development, focusing on refactoring and rigorous testing to ensure optimal performance and stability.
+    Designed and developed modern reporting dashboards aimed at driving user engagement and facilitating data-driven decision-making. These dashboards not only provided valuable insights to users but also elevated the overall user experience.
+    Significantly improved the application's stability and user-friendliness through essential updates, bug fixes, and the implementation of over 1,000 unit tests. By conducting thorough code reviews and diligently managing application versions using version control, contributed to maintaining a robust and reliable software environment.
+    Overall, dedicated efforts led to substantial improvements in the application's functionality, user experience, and performance, positioning it as a more efficient and competitive solution in the market.
   </p>
 </div>
 
@@ -59,7 +62,7 @@
   </div>
 
   <p class="employment-description">
-    Handled support, maintenance, and updates for various GoContact websites, alongside SEO optimization. Collaborated closely with the design team to ensure sites met functional requirements with engaging UX. Conducted competitor website analysis to implement new features. Developed multi-language sites with WordPress and PHP, utilizing custom JavaScript for improved UX and functionality.
+    Responsible for supporting, maintaining, and updating various GoContact websites, while also performing SEO optimization tasks. Collaborated closely with the design team to ensure sites met functional requirements and provided engaging user experiences. Conducted competitor website analysis to identify areas for improvement and implemented new features accordingly. Contributed to the development of multi-language websites using WordPress, PHP, and JavaScript. Implemented language localization features and created a user-friendly blog platform in three languages, simplifying content management for non-technical users.
   </p>
 </div>
 <br>
@@ -248,7 +251,7 @@ Created Daily Chess Puzzle, a chrome extension allowing users to solve chess.com
   <div class="interest-item">
     <span class="interest-icon">🌍</span>
     <span class="interest-name">Travel</span>
-    <span class="interest-description">Visited over 30 countries and have lived in 6<./span>
+    <span class="interest-description">Visited over 30 countries and have lived in 6</span>
   </div>
 
 <!-- Hidden until hover over tech item -->
