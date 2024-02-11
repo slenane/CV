@@ -62,7 +62,7 @@
   </div>
 
   <p class="employment-description">
-    Responsible for supporting, maintaining, and updating various GoContact websites, while also performing SEO optimization tasks. Collaborated closely with the design team to ensure sites met functional requirements and provided engaging user experiences. Conducted competitor website analysis to identify areas for improvement and implemented new features accordingly. Contributed to the development of multi-language websites using WordPress, PHP, and JavaScript. Implemented language localization features and created a user-friendly blog platform in three languages, simplifying content management for non-technical users.
+    As an intern, I was responsible for supporting, maintaining, and updating various GoContact websites, while also performing SEO optimization tasks. Collaborated closely with the design team to ensure sites met functional requirements and provided engaging user experiences. Conducted competitor website analysis to identify areas for improvement and implemented new features accordingly. Contributed to the development of multi-language websites using WordPress, PHP, and JavaScript. Implemented language localization features and created a user-friendly blog platform in three languages, simplifying content management for non-technical users.
   </p>
 </div>
 <br>
@@ -84,7 +84,7 @@
     </div>
   </div>
   <div class="sub-header">
-    <div class="company"><a target="_blank" href="https://www.roadmapr.dev">roadmapr.dev</a></div>
+    <div class="company"><a target="_blank" href="https://www.roadmapr.dev">roadmapr.dev</a> - <span class="employment-dates">Jun 2021</span></div>
   </div>
 
   <p class="employment-description">
@@ -104,7 +104,7 @@
     </div>
   </div>
   <div class="sub-header">
-    <div class="company"><a target="_blank" href="https://chromewebstore.google.com/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh">Daily Chess Puzzle</a></div>
+    <div class="company"><a target="_blank" href="https://chromewebstore.google.com/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh">Daily Chess Puzzle</a> - <span class="employment-dates">Jun 2023 - Present</span></div>
   </div>
 
   <p class="employment-description">
