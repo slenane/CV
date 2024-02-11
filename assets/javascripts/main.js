@@ -16,30 +16,43 @@ const language = {
       {
         position: "Frontend Lead Developer",
         "employment-dates": "Nov 2023 - Present",
-        "employment-description":
-          "Lead a team of 3 frontend developers in project execution and delivery. Design and implement new UI features to modernize the application. Play a key role in task planning and prioritization. Provide training to new employees and offer feedback on technical assessments.",
+        "employment-description": `
+          As the newly appointed Frontend Lead, I oversee a team of 2 junior frontend developers, providing guidance and support as they acclimate to their roles. Task planning is a key aspect of my responsibility, ensuring project execution and delivery are aligned with company objectives. <br>
+          On a weekly basis, I provide company PI agents with an overview of changes through release notes, highlighting new features and updates as our application evolves rapidly. Additionally, I play a pivotal role in the planning of new features, taking a hands-on approach to shaping the product roadmap. <br>
+          Moreover, I've initiated a new QA project to ensure the functionality of updates, albeit in its early stages. Despite these new responsibilities, I remain committed to driving frontend development forward, ensuring our application remains updated and responsive to user needs.
+        `,
       },
       {
         position: "Frontend Developer",
         "employment-dates": "Jun 2022 - Nov 2023",
-        "employment-description":
-          "Responsible for developing and testing new features on bmetric's Angular application. Developed reporting dashboards to enhance user engagement. Stabilized application performance through essential updates, bug fixes, and the addition of over 1,000 unit tests. Improved user-friendliness by updating editors/interfaces. Conducted code reviews and managed application versions using version control.",
+        "employment-description": `
+          Played a key role in the continuous enhancement of bmetric's Angular application by taking a proactive approach to development, focusing on refactoring and rigorous testing to ensure optimal performance and stability. <br>
+          Designed and developed modern reporting dashboards aimed at driving user engagement and facilitating data-driven decision-making. These dashboards not only provided valuable insights to users but also elevated the overall user experience. <br>
+          Significantly improved the application's stability and user-friendliness through essential updates, bug fixes, and the implementation of over 1,000 unit tests. By conducting thorough code reviews and diligently managing application versions using version control, contributed to maintaining a robust and reliable software environment. <br>
+          Overall, dedicated efforts led to substantial improvements in the application's functionality, user experience, and performance, positioning it as a more efficient and competitive solution in the market.
+        `,
       },
       {
         position: "Web Developer",
         "employment-dates": "Jan 2022 - May 2022",
-        "employment-description":
-          "Handled support, maintenance, and updates for various GoContact websites, alongside SEO optimization. Collaborated closely with the design team to ensure sites met functional requirements with engaging UX. Conducted competitor website analysis to implement new features. Developed multi-language sites with WordPress and PHP, utilizing custom JavaScript for improved UX and functionality.",
+        "employment-description": `
+        As an intern, I was responsible for supporting, maintaining, and updating various GoContact websites, while also performing SEO optimization tasks. Collaborated closely with the design team to ensure sites met functional requirements and provided engaging user experiences. Conducted competitor website analysis to identify areas for improvement and implemented new features accordingly. Contributed to the development of multi-language websites using WordPress, PHP, and JavaScript. Implemented language localization features and created a user-friendly blog platform in three languages, simplifying content management for non-technical users.
+        `,
       },
       {
         position: "roadmapr",
-        "employment-description":
-          "Developed roadmapr, a free-to-use platform for self-taught developers to organize and track progress, while receiving recommendations from professional developers. Built with Angular and Node.js, the platform aimed to guide self-taught developers to employment based on their chosen stack and location.",
+        "employment-dates": "Jun 2023 - Present",
+        "employment-description": `
+        Independently designed and developed roadmapr, a free-to-use platform for self-taught developers to organize and track progress, while receiving recommendations from users who have become professional developers. <br>
+        This full-stack project was initiated to enhance my Angular and Node.js skills and drive my career progression. I am committed to leveraging user-generated data to continuously improve roadmapr and transform it into a valuable tool for other self-taught developers seeking to advance their careers.
+        `,
       },
       {
         position: "Daily Chess Puzzle",
-        "employment-description":
-          "Created Daily Chess Puzzle, a chrome extension allowing users to solve chess.com's Daily Puzzle with unlimited access to the puzzle archives, for free! The extension, a final project for Harvard University's Introduction to Computer Science (CS50) course, currently boasts over 600 weekly users. Built mainly with JavaScript, it enables users to access chess.com's puzzles directly from their browser. Utilized chess.com's API to access daily chess archives, allowing users unlimited puzzle access.",
+        "employment-dates": "Jun 2021",
+        "employment-description": `
+        Created Daily Chess Puzzle, a chrome extension allowing users to solve chess.com's Daily Puzzle with unlimited access to the puzzle archives, for free! The extension, a final project for Harvard University's Introduction to Computer Science (CS50) course, currently boasts over 600 weekly users. Built mainly with JavaScript, it enables users to access chess.com's puzzles directly from their browser. Utilized chess.com's API to access daily chess archives, allowing users unlimited puzzle access.
+        `,
       },
     ],
     languages: [
@@ -133,9 +146,160 @@ const language = {
     course: " - Biochemistry - 2.1 Honours (3.5 GPA)",
     "textbooks-read": "Textbooks Read",
     languages: [
-      ["Running", "I am currently training for my 3rd marathon."],
+      ["Running", "Currently training for my 3rd marathon."],
       ["Chess", "Rated in top 1.8% of players on chess.com."],
       ["Travel", "Visited over 30 countries and have lived in 6."],
+    ],
+  },
+  italian: {
+    bio: "Sviluppatore frontend autodidatta dall'Irlanda con sede a Milano, Italia.",
+    "link-header": "Entrare in contatto",
+    creator: "Creatore di",
+    "language-switcher": "Cambia lingua",
+    headers: [
+      "Esperienza Tecnica",
+      "Progetti",
+      "Lingue",
+      "Educazione",
+      "Interessi",
+    ],
+    experience: [
+      {
+        position: "Sviluppatore Frontend Lead",
+        "employment-dates": "Nov 2023 - Presente",
+        "employment-description": `
+            Come il nuovo Sviluppatore Frontend Lead, superviso un team di 2 sviluppatori frontend junior, fornendo orientamento e supporto mentre si adattano ai loro ruoli. La pianificazione delle attività è un aspetto chiave della mia responsabilità, garantendo che l'esecuzione e la consegna del progetto siano allineate agli obiettivi aziendali. <br>
+            Su base settimanale, fornisco agli agenti PI dell'azienda una panoramica dei cambiamenti attraverso le note di rilascio, evidenziando le nuove funzionalità e gli aggiornamenti mentre la nostra applicazione evolve rapidamente. Inoltre, svolgo un ruolo fondamentale nella pianificazione di nuove funzionalità, adottando un approccio pratico alla definizione della roadmap del prodotto. <br>
+            Inoltre, ho avviato un nuovo progetto di QA per garantire la funzionalità degli aggiornamenti, sebbene sia ancora nelle fasi iniziali. Nonostante queste nuove responsabilità, rimango impegnato nel promuovere lo sviluppo frontend, garantendo che la nostra applicazione rimanga aggiornata e reattiva alle esigenze degli utenti.
+          `,
+      },
+      {
+        position: "Sviluppatore Frontend",
+        "employment-dates": "Giu 2022 - Nov 2023",
+        "employment-description": `
+            Ho svolto un ruolo chiave nel continuo potenziamento dell'applicazione Angular di bmetric, adottando un approccio proattivo allo sviluppo, concentrandomi sulla refactoring e sui test rigorosi per garantire prestazioni e stabilità ottimali. <br>
+            Ho progettato e sviluppato moderni dashboard di reportistica mirati a stimolare l'coinvolgimento degli utenti e facilitare le decisioni basate sui dati. Questi dashboard hanno fornito non solo preziose informazioni agli utenti, ma hanno anche elevato l'esperienza complessiva dell'utente. <br>
+            Ho migliorato significativamente la stabilità e l'usabilità dell'applicazione attraverso aggiornamenti essenziali, correzioni di bug e l'implementazione di oltre 1.000 test unitari. Attraverso approfondite revisioni del codice e la gestione diligente delle versioni dell'applicazione utilizzando il controllo versione, ho contribuito a mantenere un ambiente software robusto e affidabile. <br>
+            Nel complesso, gli sforzi dedicati hanno portato a miglioramenti sostanziali nella funzionalità, nell'esperienza utente e nelle prestazioni dell'applicazione, posizionandola come una soluzione più efficiente e competitiva sul mercato.
+          `,
+      },
+      {
+        position: "Sviluppatore Web",
+        "employment-dates": "Gen 2022 - Mag 2022",
+        "employment-description": `
+            Come stagista, ero responsabile del supporto, della manutenzione e dell'aggiornamento di vari siti Web di GoContact, oltre che delle attività di ottimizzazione SEO. Ho collaborato strettamente con il team di design per garantire che i siti soddisfacessero i requisiti funzionali e offrissero un'esperienza utente coinvolgente. Ho condotto analisi dei siti Web dei concorrenti per individuare aree di miglioramento ed implementare nuove funzionalità di conseguenza. Ho contribuito allo sviluppo di siti Web multilingue utilizzando WordPress, PHP e JavaScript. Ho implementato funzionalità di localizzazione del linguaggio e creato una piattaforma blog user-friendly in tre lingue, semplificando la gestione dei contenuti per gli utenti non tecnici.
+          `,
+      },
+      {
+        position: "roadmapr",
+        "employment-dates": "Giu 2023 - Presente",
+        "employment-description": `
+            Ho progettato e sviluppato autonomamente roadmapr, una piattaforma gratuita per sviluppatori autodidatti per organizzare e monitorare i progressi, ricevendo nel frattempo raccomandazioni da parte di utenti diventati sviluppatori professionali. <br>
+            Questo progetto full-stack è stato avviato per potenziare le mie competenze in Angular e Node.js e guidare la mia progressione di carriera. Sono impegnato a sfruttare i dati generati dagli utenti per migliorare continuamente roadmapr e trasformarlo in uno strumento prezioso per altri sviluppatori autodidatti che cercano di avanzare nella loro carriera.
+          `,
+      },
+      {
+        position: "Daily Chess Puzzle",
+        "employment-dates": "Giu 2021",
+        "employment-description": `
+            Ho creato Daily Chess Puzzle, un'estensione per Chrome che consente agli utenti di risolvere il puzzle giornaliero di chess.com con accesso illimitato agli archivi dei puzzle, gratuitamente! L'estensione, un progetto finale per il corso di Introduzione alla Scienza Informatica (CS50) dell'Università di Harvard, conta attualmente più di 600 utenti settimanali. Costruita principalmente con JavaScript, consente agli utenti di accedere ai puzzle di chess.com direttamente dal loro browser. Ho utilizzato l'API di chess.com per accedere agli archivi dei puzzle giornalieri, consentendo agli utenti di accedere a un numero illimitato di puzzle.
+          `,
+      },
+    ],
+    languages: [
+      ["Inglese", "Madrelingua"],
+      ["Spagnolo", "B1"],
+      ["Italiano", "A1"],
+    ],
+    education: [
+      {
+        dates: "Lug 2022 - Set 2022",
+        "course-focus": `
+            <li>Test dei componenti e dei servizi di Angular</li>
+            <li>Integrazione continua con Travis CI</li>
+            <li>Test E2E di Angular con Cypress</li>
+          `,
+      },
+      {
+        dates: "Mar 2022 - Apr 2022",
+        "course-focus": `
+            <li>Crea un sistema di gestione dei contenuti</li>
+            <li>Sicurezza in PHP</li>
+            <li>Programmazione orientata agli oggetti</li>
+         `,
+      },
+      {
+        dates: "Gen 2022 - Mar 2022",
+        "course-focus": `
+            <li>Tecnologie e pratica del marketing digitale</li>
+            <li>Metodi creativi per il marketing sui social media</li>
+            <li>Gestione del marketing sui social media</li>
+            <li>Media digitali europei e internazionali</li>
+          `,
+      },
+      {
+        dates: "Giu 2021 - Ottobre 2021",
+        "course-focus": `
+            <li>Costruisci applicazioni Web server-side veloci e scalabili con Node.js</li>
+            <li>API REST e API GraphQL</li>
+            <li>Utilizzo di database come MongoDB e SQL</li>
+          `,
+      },
+      {
+        dates: "Feb 2021 - Giu 2021",
+        "course-focus": `
+            <li>Linguaggi C, Python e JavaScript</li>
+            <li>Gli argomenti includevano l'astrazione, gli algoritmi, le strutture dati, l'incapsulamento, la gestione delle risorse, la sicurezza, l'ingegneria del software e lo sviluppo Web</li>
+            <li>Come pensare algoritmicamente e risolvere problemi in modo efficiente</li>
+          `,
+      },
+      {
+        dates: "Giu 2020 - Set 2020",
+        "course-focus": `
+            <li>Fondamenti del moderno JavaScript</li>
+            <li>Programmazione orientata agli oggetti</li>
+            <li>JavaScript asincrono</li>
+          `,
+      },
+      {
+        dates: "Lug 2020 - Ago 2020",
+        "course-focus": `
+            <li>Fondamenti di JavaScript inclusi variabili, array, oggetti, cicli e funzioni</li>
+            <li>Crea algoritmi per manipolare stringhe, fattorializzare numeri e calcolare l'orbita della Stazione Spaziale Internazionale</li>
+            <li>Programmazione orientata agli oggetti e funzionale</li>
+          `,
+      },
+      {
+        dates: "Giu 2020 - Lug 2020",
+        "course-focus": `
+            <li>Costruisci 30 progetti JavaScript in 30 giorni</li>
+            <li>Manipolazione del DOM</li>
+            <li>Cattura, propagazione, bolle e once degli eventi</li>
+          `,
+      },
+      {
+        dates: "Feb 2020 - Giu 2020",
+        "course-focus": `
+            <li>HTML5, CSS3, JavaScript, Node.js, Express e MongoDB</li>
+            <li>AJAX e API</li>
+            <li>HTTPS e sicurezza</li>
+          `,
+      },
+      {
+        dates: "Dic 2019 - Gen 2020",
+        "course-focus": `
+            <li>Costruisci pagine Web con HTML e CSS</li>
+            <li>Flexbox e CSS Grid</li>
+          `,
+      },
+    ],
+    degree: "Laurea in Scienze",
+    course: " - Biochimica - 2.1 Onori (3.5 GPA)",
+    "textbooks-read": "Libri di Testo Letti",
+    languages: [
+      ["Corsa", "Attualmente in allenamento per il mio terzo maratona."],
+      ["Scacchi", "Valutato nel top 1,8% dei giocatori su chess.com."],
+      ["Viaggi", "Visitato oltre 30 paesi e vissuto in 6."],
     ],
   },
 };
