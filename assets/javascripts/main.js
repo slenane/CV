@@ -145,7 +145,7 @@ const language = {
     degree: "Bachelor of Science",
     course: " - Biochemistry - 2.1 Honours (3.5 GPA)",
     "textbooks-read": "Textbooks Read",
-    languages: [
+    interests: [
       ["Running", "Currently training for my 3rd marathon."],
       ["Chess", "Rated in top 1.8% of players on chess.com."],
       ["Travel", "Visited over 30 countries and have lived in 6."],
@@ -296,7 +296,7 @@ const language = {
     degree: "Laurea in Scienze",
     course: " - Biochimica - 2.1 Onori (3.5 GPA)",
     "textbooks-read": "Libri di Testo Letti",
-    languages: [
+    interests: [
       ["Corsa", "Attualmente in allenamento per il mio terzo maratona."],
       ["Scacchi", "Valutato nel top 1,8% dei giocatori su chess.com."],
       ["Viaggi", "Visitato oltre 30 paesi e vissuto in 6."],
