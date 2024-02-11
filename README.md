@@ -1,4 +1,4 @@
-## 💻 <span class="header">Technical Experience</span>
+## 💻 <span class="header">Experience</span>
 
 <div class="position">
   <div class="position-header">

@@ -5,13 +5,7 @@ const language = {
     "link-header": "Get in touch",
     creator: "Creator of",
     "language-switcher": "Switch language",
-    headers: [
-      "Technical Experience",
-      "Projects",
-      "Languages",
-      "Education",
-      "Interests",
-    ],
+    headers: ["Experience", "Projects", "Languages", "Education", "Interests"],
     experience: [
       {
         position: "Frontend Lead Developer",
@@ -156,13 +150,7 @@ const language = {
     "link-header": "Contattaci",
     creator: "Creatore di",
     "language-switcher": "Cambia lingua",
-    headers: [
-      "Esperienza Tecnica",
-      "Progetti",
-      "Lingue",
-      "Educazione",
-      "Interessi",
-    ],
+    headers: ["Esperienza", "Progetti", "Lingue", "Educazione", "Interessi"],
     experience: [
       {
         position: "Sviluppatore Frontend Lead",
