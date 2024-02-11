@@ -90,7 +90,8 @@
   </div>
 
   <p class="employment-description">
-    Developed roadmapr, a free-to-use platform for self-taught developers to organize and track progress, while receiving recommendations from professional developers. Built with Angular and Node.js, the platform aimed to guide self-taught developers to employment based on their chosen stack and location.
+    Independently designed and developed roadmapr, a free-to-use platform for self-taught developers to organize and track progress, while receiving recommendations from users who have become professional developers. <br>
+    This full-stack project was initiated to enhance my Angular and Node.js skills and drive my career progression. I am committed to leveraging user-generated data to continuously improve roadmapr and transform it into a valuable tool for other self-taught developers seeking to advance their careers.
   </p>
 </div>
 
