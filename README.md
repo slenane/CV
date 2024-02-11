@@ -86,7 +86,7 @@
     </div>
   </div>
   <div class="sub-header">
-    <div class="company"><a target="_blank" href="https://www.roadmapr.dev">roadmapr.dev</a> - <span class="employment-dates">Jun 2021</span></div>
+    <div class="company"><a target="_blank" href="https://www.roadmapr.dev">roadmapr.dev</a> - <span class="employment-dates">Jun 2023 - Present</span></div>
   </div>
 
   <p class="employment-description">
@@ -107,11 +107,11 @@
     </div>
   </div>
   <div class="sub-header">
-    <div class="company"><a target="_blank" href="https://chromewebstore.google.com/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh">Daily Chess Puzzle</a> - <span class="employment-dates">Jun 2023 - Present</span></div>
+    <div class="company"><a target="_blank" href="https://chromewebstore.google.com/detail/daily-chess-puzzle/nbccedaochfcpakfdgclnjkdbagniplh">Daily Chess Puzzle</a> - <span class="employment-dates">Jun 2021</span></div>
   </div>
 
   <p class="employment-description">
-Created Daily Chess Puzzle, a chrome extension allowing users to solve chess.com's Daily Puzzle with unlimited access to the puzzle archives, for free! The extension, a final project for Harvard University's Introduction to Computer Science (CS50) course, currently boasts over 600 weekly users. Built mainly with JavaScript, it enables users to access chess.com's puzzles directly from their browser. Utilized chess.com's API to access daily chess archives, allowing users unlimited puzzle access.
+    Created Daily Chess Puzzle, a chrome extension allowing users to solve chess.com's Daily Puzzle with unlimited access to the puzzle archives, for free! The extension, a final project for Harvard University's Introduction to Computer Science (CS50) course, currently boasts over 600 weekly users. Built mainly with JavaScript, it enables users to access chess.com's puzzles directly from their browser. Utilized chess.com's API to access daily chess archives, allowing users unlimited puzzle access.
   </p>
 </div>
 <br>
