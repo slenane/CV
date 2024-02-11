@@ -153,7 +153,7 @@ const language = {
   },
   italian: {
     bio: "Sviluppatore frontend autodidatta dall'Irlanda con sede a Milano, Italia.",
-    "link-header": "Entrare in contatto",
+    "link-header": "Contattaci",
     creator: "Creatore di",
     "language-switcher": "Cambia lingua",
     headers: [
