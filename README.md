@@ -17,8 +17,8 @@
   </div>
 
   <p class="employment-description">
-    As the newly appointed Frontend Lead, I oversee a team of 2 junior frontend developers, providing guidance and support as they acclimate to their roles. Task planning is a key aspect of my responsibility, ensuring project execution and delivery are aligned with company objectives.
-    On a weekly basis, I provide company PI agents with an overview of changes through release notes, highlighting new features and updates as our application evolves rapidly. Additionally, I play a pivotal role in the planning of new features, taking a hands-on approach to shaping the product roadmap.
+    As the newly appointed Frontend Lead, I oversee a team of 2 junior frontend developers, providing guidance and support as they acclimate to their roles. Task planning is a key aspect of my responsibility, ensuring project execution and delivery are aligned with company objectives. <br>
+    On a weekly basis, I provide company PI agents with an overview of changes through release notes, highlighting new features and updates as our application evolves rapidly. Additionally, I play a pivotal role in the planning of new features, taking a hands-on approach to shaping the product roadmap. <br>
     Moreover, I've initiated a new QA project to ensure the functionality of updates, albeit in its early stages. Despite these new responsibilities, I remain committed to driving frontend development forward, ensuring our application remains updated and responsive to user needs.
   </p>
 </div>
@@ -40,9 +40,9 @@
   </div>
 
   <p class="employment-description">
-    Played a key role in the continuous enhancement of bmetric's Angular application by taking a proactive approach to development, focusing on refactoring and rigorous testing to ensure optimal performance and stability.
-    Designed and developed modern reporting dashboards aimed at driving user engagement and facilitating data-driven decision-making. These dashboards not only provided valuable insights to users but also elevated the overall user experience.
-    Significantly improved the application's stability and user-friendliness through essential updates, bug fixes, and the implementation of over 1,000 unit tests. By conducting thorough code reviews and diligently managing application versions using version control, contributed to maintaining a robust and reliable software environment.
+    Played a key role in the continuous enhancement of bmetric's Angular application by taking a proactive approach to development, focusing on refactoring and rigorous testing to ensure optimal performance and stability. <br>
+    Designed and developed modern reporting dashboards aimed at driving user engagement and facilitating data-driven decision-making. These dashboards not only provided valuable insights to users but also elevated the overall user experience. <br>
+    Significantly improved the application's stability and user-friendliness through essential updates, bug fixes, and the implementation of over 1,000 unit tests. By conducting thorough code reviews and diligently managing application versions using version control, contributed to maintaining a robust and reliable software environment. <br>
     Overall, dedicated efforts led to substantial improvements in the application's functionality, user experience, and performance, positioning it as a more efficient and competitive solution in the market.
   </p>
 </div>
