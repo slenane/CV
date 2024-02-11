@@ -230,29 +230,25 @@ Created Daily Chess Puzzle, a chrome extension allowing users to solve chess.com
 - Learning Web Design - Jennifer Niederst Robbins <br>
 - HTML & CSS: Build and Design Websites - Jon Duckett <br><br>
 
-## 🏃‍♂️ <span class="header">Interests</span>
-
-**<span class="interest">Running</span>** - <span class="interest-text">I am training for my 3rd marathon and I have run several half-marathons</span> <br>
-**<span class="interest">Chess</span>** - <span class="interest-text">Rated in top 1.8% of players on chess.com</span> <br>
-**<span class="interest">Travel</span>** - <span class="interest-text">Visited over 30 countries and have lived in 6</span><br>
+## 🧩 <span class="header">Interests</span>
 
 <div class="interests-grid">
   <div class="interest-item">
     <span class="interest-icon">🏃‍♂️</span>
     <span class="interest-name">Running</span>
-    <span class="interest-description">I am training for my 3rd marathon and I have run several half-marathons</span>
+    <span class="interest-description">I am currently training for my 3rd marathon.</span>
   </div>
 
   <div class="interest-item">
     <span class="interest-icon">♟️</span>
     <span class="interest-name">Chess</span>
-    <span class="interest-description">Rated in top 1.8% of players on chess.com</span>
+    <span class="interest-description">Rated in top 1.8% of players on chess.com.</span>
   </div>
 
   <div class="interest-item">
     <span class="interest-icon">🌍</span>
     <span class="interest-name">Travel</span>
-    <span class="interest-description">Visited over 30 countries and have lived in 6</span>
+    <span class="interest-description">Visited over 30 countries and have lived in 6<./span>
   </div>
 
 <!-- Hidden until hover over tech item -->

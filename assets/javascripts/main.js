@@ -133,12 +133,9 @@ const language = {
     course: " - Biochemistry - 2.1 Honours (3.5 GPA)",
     "textbooks-read": "Textbooks Read",
     languages: [
-      [
-        "Running",
-        "I am training for my 3rd marathon and I have run several half-marathons",
-      ],
-      ["Chess", "Rated in top 1.8% of players on chess.com"],
-      ["Travel", "Visited over 30 countries and have lived in 6"],
+      ["Running", "I am currently training for my 3rd marathon."],
+      ["Chess", "Rated in top 1.8% of players on chess.com."],
+      ["Travel", "Visited over 30 countries and have lived in 6."],
     ],
   },
   italian: {
@@ -326,8 +323,8 @@ const languageName = document.querySelectorAll(".language-name");
 const languageLevel = document.querySelectorAll(".language-level");
 const courseDates = document.querySelectorAll(".course-dates");
 const courseDescription = document.querySelectorAll(".course-description");
-const interests = document.querySelectorAll(".interest");
-const interestText = document.querySelectorAll(".interest-text");
+const interests = document.querySelectorAll(".interest-name");
+const interestText = document.querySelectorAll(".interest-description");
 
 const updateLanguage = (lang) => {
   // Get the current language
