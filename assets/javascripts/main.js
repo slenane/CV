@@ -11,7 +11,7 @@ const language = {
         position: "Frontend Lead Developer",
         "employment-dates": "Nov 2023 - Present",
         "employment-description": `
-          As the newly appointed Frontend Lead, I oversee a team of 2 junior frontend developers, providing guidance and support as they acclimate to their roles. Task planning is a key aspect of my responsibility, ensuring project execution and delivery are aligned with company objectives. <br>
+          In addition to my existing responsibilities, as Frontend Lead, I oversee a team of 2 junior frontend developers, providing guidance and support as they acclimate to their roles. Task planning is a key aspect of my responsibility, ensuring project execution and delivery are aligned with company objectives. <br>
           On a weekly basis, I provide company PI agents with an overview of changes through release notes, highlighting new features and updates as our application evolves rapidly. Additionally, I play a pivotal role in the planning of new features, taking a hands-on approach to shaping the product roadmap. <br>
           Moreover, I've initiated a new QA project to ensure the functionality of updates, albeit in its early stages. Despite these new responsibilities, I remain committed to driving frontend development forward, ensuring our application remains updated and responsive to user needs.
         `,
@@ -156,7 +156,7 @@ const language = {
         position: "Sviluppatore Frontend Lead",
         "employment-dates": "Nov 2023 - Presente",
         "employment-description": `
-            Come il nuovo Sviluppatore Frontend Lead, superviso un team di 2 sviluppatori frontend junior, fornendo orientamento e supporto mentre si adattano ai loro ruoli. La pianificazione delle attività è un aspetto chiave della mia responsabilità, garantendo che l'esecuzione e la consegna del progetto siano allineate agli obiettivi aziendali. <br>
+        Oltre alle mie attuali responsabilità, in qualità di Frontend Lead, supervisiono un team di 2 sviluppatori frontend junior, fornendo loro guida e supporto durante l'ambientamento nel loro ruolo. La pianificazione delle attività è un aspetto chiave della mia responsabilità, garantendo che l'esecuzione e la consegna del progetto siano allineate agli obiettivi aziendali. <br>
             Su base settimanale, fornisco agli agenti PI dell'azienda una panoramica dei cambiamenti attraverso le note di rilascio, evidenziando le nuove funzionalità e gli aggiornamenti mentre la nostra applicazione evolve rapidamente. Inoltre, svolgo un ruolo fondamentale nella pianificazione di nuove funzionalità, adottando un approccio pratico alla definizione della roadmap del prodotto. <br>
             Inoltre, ho avviato un nuovo progetto di QA per garantire la funzionalità degli aggiornamenti, sebbene sia ancora nelle fasi iniziali. Nonostante queste nuove responsabilità, rimango impegnato nel promuovere lo sviluppo frontend, garantendo che la nostra applicazione rimanga aggiornata e reattiva alle esigenze degli utenti.
           `,
